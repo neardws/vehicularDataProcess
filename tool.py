@@ -21,5 +21,7 @@ def gettime(timestamp):
 # print(str(gettime('5645c708')))
 
 
-def writedoc():
-    
+def writeinitnode():
+    file tclfile = open("output.tcl","w")
+
+
