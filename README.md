@@ -10,3 +10,7 @@ $node_(0) set Z_ 0
 
 //点的轨迹
 $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
+
+Selete the points number behind 17
+Total vehicles is 513
+
