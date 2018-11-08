@@ -5,7 +5,7 @@ connect = pymysql.Connect(
     host='120.78.167.211',
     port=3306,
     user='root',
-    passwd='King@102321',
+    passwd='',
     db='vehicleCD',
     charset='utf8'
 )
