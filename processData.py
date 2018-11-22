@@ -5,7 +5,7 @@ connect = pymysql.Connect(
     host='120.78.167.211',
     port=3306,
     user='root',
-    passwd='',
+    passwd='King@102321',
     db='vehicleBJ',
     charset='utf8'
 )
@@ -42,7 +42,7 @@ $node_(0) set Z_ 0
 
 def writeinitnode(id, x, y):
     try:
-        tclfile = open("beijing5pm.tcl","a")
+        tclfile = open("beijing3pm_1.tcl","a")
         tclfile.writelines("$node_("+str(id)+") set X_ "+str(x)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Y_ "+str(y)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Z_ "+str(0)+"\n")
@@ -59,7 +59,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("beijing5pm.tcl","a")
+        tclfile = open("beijing3pm_1.tcl","a")
         tclfile.writelines("$ns_ at "+str(time)+" \"$node_("+str(id)+") setdest "+str(x)+" "+str(y)+" "+str(0)+"\"\n")
     finally:
         if tclfile:
@@ -68,18 +68,18 @@ def writenodetrace(id, x, y, time):
 
 # timeStamp
 # 1
-# 2015-11-13 09:00:00 ----> 2015-11-13 09:30:00
-# 56453610  -------> 56453D18
+# 2015-11-13 09:00:00 ----> 2015-11-13 09:10:00
+# 56453610  -------> 56453868
 # 1447376400
 # 2
-# 2015-11-13 22:30:00 ----> 2015-11-13 23:00:00
-# 5645F3E8  -------> 5645FAF0
+# 2015-11-13 22:30:00 ----> 2015-11-13 22:40:00
+# 5645f3e8  -------> 5645f640
 # ‭1447425000‬
 # SQL 查询条件
 # Map setup
 # 1  3*3km
 # latitude 3d05ff longitude b191bb
-# 2  5+5km
+# 2  5*5km
 # latitude 3d0dcf longitude b1998b
 
 '''
@@ -97,9 +97,9 @@ baselongitude = 11634179
 basetimestamp = 1447425000
 
 
-tablecondition = "WHERE `timeStamp`>='5645f3e8' AND `timeStamp`<='5645faf0' " \
-          "AND latitude>='3cfa47' AND latitude<='3d0dcf'" \
-          "AND longitude>='b18603'AND longitude<='b1998b'"
+tablecondition = "WHERE `timeStamp`>='5645f3e8' AND `timeStamp`<='5645f640' " \
+          "AND latitude>='3cfa47' AND latitude<='3d05ff'" \
+          "AND longitude>='b18603'AND longitude<='b191bb'"
 
 
 def sqlcreattem():
@@ -129,11 +129,12 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
+    num = 8
     for point in points:
-        if point[1] >= 28:  # value = 24
+        if point[1] >= num:  # value = 24
             i += 1
             vehicleid.append(point[0])
-    print("Number behind AVG is "+str(i))
+    print("Number behind " + str(num) + " is "+str(i))
     return vehicleid
 
 
@@ -174,7 +175,7 @@ def getvehicleinfo():
                 else:
                     # fill data
                     if time - lasttime >= 1:
-                        timedifferent = (time - lasttime) * 2
+                        timedifferent = (time - lasttime) * 29
                         addx = (x - lastx) / timedifferent
                         addy = (y - lasty) / timedifferent
                         n = 1
@@ -199,7 +200,7 @@ def getvehicleinfo():
 sqlcreattem()
 
 
-# getvehicleid()
+#getvehicleid()
 
 
 getvehicleinfo()

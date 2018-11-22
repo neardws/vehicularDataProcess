@@ -5,7 +5,7 @@ connect = pymysql.Connect(
     host='120.78.167.211',
     port=3306,
     user='root',
-    passwd='',
+    passwd='King@102321',
     db='vehicleCD',
     charset='utf8'
 )
@@ -17,7 +17,7 @@ print("connect DB success")
 
 def writeinitnode(id, x, y):
     try:
-        tclfile = open("chengdu3pm.tcl","a")
+        tclfile = open("chengdu3am_1.tcl","a")
         tclfile.writelines("$node_("+str(id)+") set X_ "+str(x)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Y_ "+str(y)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Z_ "+str(0)+"\n")
@@ -34,7 +34,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("chengdu3pm.tcl","a")
+        tclfile = open("chengdu3am_1.tcl","a")
         tclfile.writelines("$ns_ at "+str(time)+" \"$node_("+str(id)+") setdest "+str(x)+" "+str(y)+" "+str(0)+"\"\n")
     finally:
         if tclfile:
@@ -66,8 +66,8 @@ def writenodetrace(id, x, y, time):
 # 	AND longitude >= 104.045824
 # 	AND longitude <= 104.075824
 
-tablecondition = "WHERE `timeStamp`>='2014-08-20 22:30:00' " \
-                 "AND `timeStamp`<='2014-08-20 23:00:00' " \
+tablecondition = "WHERE `timeStamp`>='2014-08-20 09:00:00' " \
+                 "AND `timeStamp`<='2014-08-20 09:10:00' " \
           "AND latitude>=30.646166 AND latitude<=30.676166" \
           "AND longitude>=104.045824 AND longitude<=104.075824"
 
@@ -101,17 +101,18 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
+    num = 50
     for point in points:
-        if point[1] >= 105:  # value = 24
+        if point[1] >= num:  # value = 24
             i += 1
             vehicleid.append(point[0])
-    print("Number behind AVG is "+str(i))
+    print("Number behind " + str(num) + " is "+str(i))
     return vehicleid
 
 
 def sqlinfo(id):
     sql_query_vehicle_info = "SELECT latitude, longitude, " \
-                             "TIMESTAMPDIFF(SECOND, '2014-08-20 22:30:00', timeStamp) FROM tem_table " \
+                             "TIMESTAMPDIFF(SECOND, '2014-08-20 09:00:00', timeStamp) FROM tem_table " \
                              + "WHERE VehicleID = " + str(id) + " ORDER BY timeStamp ASC"
     cursor.execute(sql_query_vehicle_info)
     return cursor.fetchall()
@@ -176,11 +177,13 @@ def gety(y):
     return int(y * 100000 - baselatitude)
 
 
+# timestamp in mysql = 1s
+# / depend on timestamp which we want
 def gettime(time):
-    return int(time / 15)
+    return int(time / 1)
 
 
 sqlcreattem()
 getvehicleinfo()
 
-#getvehicleid()
+# getvehicleid()
