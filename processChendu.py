@@ -17,7 +17,7 @@ print("connect DB success")
 
 def writeinitnode(id, x, y):
     try:
-        tclfile = open("chengdu3am_1.tcl","a")
+        tclfile = open("chengdu3am.tcl","a")
         tclfile.writelines("$node_("+str(id)+") set X_ "+str(x)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Y_ "+str(y)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Z_ "+str(0)+"\n")
@@ -34,7 +34,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("chengdu3am_1.tcl","a")
+        tclfile = open("chengdu3am.tcl","a")
         tclfile.writelines("$ns_ at "+str(time)+" \"$node_("+str(id)+") setdest "+str(x)+" "+str(y)+" "+str(0)+"\"\n")
     finally:
         if tclfile:
@@ -101,7 +101,7 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 50
+    num = 56
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1
@@ -186,4 +186,4 @@ def gettime(time):
 sqlcreattem()
 getvehicleinfo()
 
-# getvehicleid()
+#getvehicleid()
