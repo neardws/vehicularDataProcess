@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2019-01-24-all/filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processChendu.py" beforeDir="false" afterPath="$PROJECT_DIR$/processChendu.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="104" />
-          <entry key="py" value="6000" />
+          <entry key="py" value="6594" />
           <entry key="tcl" value="4" />
         </counts>
       </usages-collector>
@@ -75,39 +75,48 @@
         <counts>
           <entry key="Markdown" value="104" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="6000" />
+          <entry key="Python" value="6594" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="13" />
+          <entry key="py" value="14" />
           <entry key="swp" value="1" />
-          <entry key="tcl" value="67" />
+          <entry key="tcl" value="75" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="71" />
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processChendu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="105" column="11" lean-forward="true" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+            <state relative-caret-position="244">
+              <caret line="19" selection-start-line="19" selection-end-line="27" selection-end-column="27" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <marker date="1548297589617" expanded="true" signature="4815:4859" ph="..." />
                 <marker date="1548297589617" expanded="true" signature="4942:4947" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019-01-24-all/chengdu3am.tcl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3618">
+              <caret line="171430" column="19" selection-start-line="171430" selection-start-column="19" selection-end-line="171430" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -122,9 +131,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019-01-02/count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state>
+              <caret selection-end-line="38" selection-end-column="23" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019-01-24-all/filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1548306730890" expanded="true" signature="240:521" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019-01-24-all/chengdu3amfilter.tcl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-274297" />
           </provider>
         </entry>
       </file>
@@ -196,6 +225,7 @@
         <option value="$PROJECT_DIR$/beijing3pm_1.txt" />
         <option value="$PROJECT_DIR$/processGPS.py" />
         <option value="$PROJECT_DIR$/processChendu.py" />
+        <option value="$PROJECT_DIR$/2019-01-24-all/filter.py" />
       </list>
     </option>
   </component>
@@ -218,6 +248,16 @@
             </path>
             <path>
               <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicularDataProcess" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-01-02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicularDataProcess" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-01-24-all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -228,7 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2019-01-02/count.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2019-01-24-all/filter.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -237,11 +277,11 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2019-01-24-all" />
       <recent name="$PROJECT_DIR$/2019-01-24" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2019-01-02" />
       <recent name="$PROJECT_DIR$/one_second" />
-      <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -256,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ProcessChendu">
+  <component name="RunManager" selected="Python.filter">
     <configuration name="GPS" type="PythonConfigurationType" factoryName="Python">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,6 +352,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-01-02/count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filter" type="PythonConfigurationType" factoryName="Python">
+      <module name="vehicularDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-01-24-all" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-01-24-all/filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,6 +449,7 @@
       <item itemvalue="Python.processData" />
       <item itemvalue="Python.processData_5" />
       <item itemvalue="Python.ProcessChendu" />
+      <item itemvalue="Python.filter" />
       <item itemvalue="Python.count" />
       <item itemvalue="Python.GPS" />
     </list>
@@ -416,14 +478,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="53" width="1920" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17535545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989059" visible="true" weight="0.7561497" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.39473686" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989059" visible="true" weight="0.41283423" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.3946524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
@@ -587,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-02/count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/processData_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -611,14 +667,44 @@
         <state relative-caret-position="-101306" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-02/count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/processChendu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="105" column="11" lean-forward="true" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        <state relative-caret-position="244">
+          <caret line="19" selection-start-line="19" selection-end-line="27" selection-end-column="27" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1548297589617" expanded="true" signature="4815:4859" ph="..." />
             <marker date="1548297589617" expanded="true" signature="4942:4947" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-24-all/chengdu3am.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="171430" column="19" selection-start-line="171430" selection-start-column="19" selection-end-line="171430" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-24-all/chengdu3amfilter.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274297" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-24-all/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1548306730890" expanded="true" signature="240:521" ph="..." />
           </folding>
         </state>
       </provider>
