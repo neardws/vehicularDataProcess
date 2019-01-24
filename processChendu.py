@@ -103,7 +103,7 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 56
+    num = 4
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1
