@@ -1,5 +1,3 @@
-import math
-
 import pymysql.cursors
 
 # 连接数据库
@@ -8,7 +6,7 @@ connect = pymysql.Connect(
     port=3306,
     user='root',
     passwd='King@102321',
-    db='vehicleCD',
+    db='vehicleBJ',
     charset='utf8'
 )
 
@@ -17,12 +15,35 @@ cursor = connect.cursor()
 print("connect DB success")
 
 
+def strtonum(str):
+    return int(str, 16)
+
+
+def getx(longitude):
+    return strtonum(longitude) / 100000
+
+
+def gety(latitude):
+    return strtonum(latitude) / 100000
+
+
+def gettime(timestamp):
+    return (strtonum(timestamp) - basetimestamp) / 30
+
+# print(str(gettime('5645c708')))
+
+'''
+init node
+$node_(0) set X_ 150.0
+$node_(0) set Y_ 595.05
+$node_(0) set Z_ 0
+'''
+
+
 def writeinitnode(id, x, y):
     try:
-        tclfile = open("chengdu3am.tcl","a")
-        tclfile.writelines("$node_("+str(id)+") set X_ "+str(x)+"\n")
-        tclfile.writelines("$node_("+str(id)+") set Y_ "+str(y)+"\n")
-        tclfile.writelines("$node_("+str(id)+") set Z_ "+str(0)+"\n")
+        tclfile = open("beijing3pmgpstxt","a")
+        tclfile.writelines(str(x) + " " + str(y) + "\n")
     finally:
         if tclfile:
             tclfile.close()
@@ -36,46 +57,51 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("chengdu3am.tcl","a")
-        tclfile.writelines("$ns_ at "+str(time)+" \"$node_("+str(id)+") setdest "+str(x)+" "+str(y)+" "+str(0)+"\"\n")
+        tclfile = open("beijing3pm_1.txt","a")
+        tclfile.writelines(str(x)+" "+str(y)+"\n")
     finally:
         if tclfile:
             tclfile.close()
 
 
-# time setup
-# 1 9AM
-# 2014/8/20 9:00 AM ----> 9:30 AM
-# 2 10PM
-# 2014/8/20 10:30 PM -----> 11:00 PM
-#
-# map setup
-# 1 3 x 3 KM
-# 中国四川省成都市武侯区武侯祠横街2号
-# latitude    30.646166   -----------> 30.676166
-# longitude   104.045824  -----------> 104.075824
-#
+# timeStamp
+# 1
+# 2015-11-13 09:00:00 ----> 2015-11-13 09:10:00
+# 56453610  -------> 56453868
+# 1447376400
+# 2
+# 2015-11-13 22:30:00 ----> 2015-11-13 22:40:00
+# 5645f3e8  -------> 5645f640
+# ‭1447425000‬
+# SQL 查询条件
+# Map setup
+# 1  3*3km
+# latitude 3d05ff longitude b191bb
+# 2  5*5km
+# latitude 3d0dcf longitude b1998b
 
-# SELECT
-# 	*
-# FROM
-# 	`VehicleGPS`
-# WHERE
-# 	`timeStamp` >= '2014-08-20 09:00:00'
-# 	AND `timeStamp` <= '2014-08-20 09:30:00'
-# 	AND latitude >= 30.646166
-# 	AND latitude <= 30.676166
-# 	AND longitude >= 104.045824
-# 	AND longitude <= 104.075824
+'''
+Location   AreaSize    Time    VehicleNumber
+Beijing      3*3       9AM         252
+Beijing      3*3       10PM        193
+Beijing      5*5       9AM         377
+Beijing      5*5       10PM        284
+Chengdu      3*3       9AM
+Chengdu      3*3       10PM
+'''
 
-tablecondition = "WHERE `timeStamp`>='2014-08-20 09:00:00' " \
-                 "AND `timeStamp`<='2014-08-20 09:10:00' " \
-          "AND latitude>=30.646166 AND latitude<=30.676166" \
-          "AND longitude>=104.045824 AND longitude<=104.075824"
+baselatitude = 3996231
+baselongitude = 11634179
+basetimestamp = 1447425000
+
+
+tablecondition = "WHERE `timeStamp`>='5645f3e8' AND `timeStamp`<='5645f460' " \
+          "AND latitude>='3cfa47' AND latitude<='3d05ff'" \
+          "AND longitude>='b18603'AND longitude<='b191bb'"
 
 
 def sqlcreattem():
-    sql_creat_tem_table = "CREATE TEMPORARY TABLE tem_table SELECT * FROM VehicleGPS " + tablecondition
+    sql_creat_tem_table = "CREATE TEMPORARY TABLE tem_table SELECT * FROM vehicleGPS " + tablecondition
     cursor.execute(sql_creat_tem_table)
     print("create tem table success")
     return
@@ -93,8 +119,6 @@ def sqlcount():
 def getvehicleid():
     vehicleid = []
     sum = 0
-    # point[0] VehicleID
-    # point[1] COUNT(*)
     points = sqlcount()
     print("query timelength success")
     for point in points:
@@ -103,7 +127,7 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 56
+    num = 1
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1
@@ -113,9 +137,7 @@ def getvehicleid():
 
 
 def sqlinfo(id):
-    sql_query_vehicle_info = "SELECT latitude, longitude, " \
-                             "TIMESTAMPDIFF(SECOND, '2014-08-20 09:00:00', timeStamp) FROM tem_table " \
-                             + "WHERE VehicleID = " + str(id) + " ORDER BY timeStamp ASC"
+    sql_query_vehicle_info = "SELECT * FROM tem_table " + "WHERE VehicleID=" + "\'" + id + "\'"
     cursor.execute(sql_query_vehicle_info)
     return cursor.fetchall()
 
@@ -124,22 +146,22 @@ def getvehicleinfo():
     baseid = 0
     vehicleid = getvehicleid()
     for id in vehicleid:
-        infos = sqlinfo(id)
+        infos = sqlinfo(str(id))
         i = 1
         lasttime = 0
+        timeid = 0
         lastx = 0
         lasty = 0
-        # First node could be any time
         for info in infos:
-            # print(str(info))
-            x = getx(info[1])
-            y = gety(info[0])
-            time = gettime(info[2])
-            print("(" + str(x) + "," + str(y) + "," + str(time) + ")")
+            print(str(info))
+            x = getx(info[4])
+            y = gety(info[3])
+            time = int(gettime(info[2]))
             if i == 1:
                 writeinitnode(baseid, x, y)
-                writenodetrace(baseid, x, y, time)
+                #writenodetrace(baseid, x, y, time)
                 lasttime = time
+                timeid = time
                 lastx = x
                 lasty = y
                 i += 1
@@ -151,16 +173,17 @@ def getvehicleinfo():
                 else:
                     # fill data
                     if time - lasttime >= 1:
-                        timedifferent = time - lasttime
+                        timedifferent = (time - lasttime) * 29
                         addx = (x - lastx) / timedifferent
                         addy = (y - lasty) / timedifferent
                         n = 1
                         while n <= timedifferent:
                             newx = int(lastx + (addx * n))
                             newy = int(lasty + (addy * n))
-                            newtime = int(lasttime + n)
-                            writenodetrace(baseid, newx, newy, newtime)
+                            newtime = int(timeid + n)
+                            #writenodetrace(baseid, newx, newy, newtime)
                             n += 1
+                        timeid += timedifferent
                         lasttime = time
                         lastx = x
                         lasty = y
@@ -168,26 +191,14 @@ def getvehicleinfo():
         baseid += 1
 
 
-baselatitude = 3064616.6
-baselongtitude = 10404582.4
-
-
-def getx(x):
-    return int(x * 100000 - baselongtitude)
-
-
-def gety(y):
-    return int(y * 100000 - baselatitude)
-
-
-# timestamp in mysql = 1s
-# / depend on timestamp which we want
-def gettime(time):
-    return math.floor(int(time / 5))
-
+# print(str(getx('b191bb')))
+# print(str(gety('3d05ff')))
 
 
 sqlcreattem()
-getvehicleinfo()
+
 
 #getvehicleid()
+
+
+getvehicleinfo()
