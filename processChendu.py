@@ -183,7 +183,7 @@ def gety(y):
 # timestamp in mysql = 1s
 # / depend on timestamp which we want
 def gettime(time):
-    return math.floor(int(time / 5))
+    return math.floor(int(time / 1))
 
 
 
