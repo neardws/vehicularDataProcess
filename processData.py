@@ -28,7 +28,7 @@ def gety(latitude):
 
 
 def gettime(timestamp):
-    return (strtonum(timestamp) - basetimestamp) / 30
+    return (strtonum(timestamp) - basetimestamp) / 60
 
 # print(str(gettime('5645c708')))
 
@@ -42,7 +42,7 @@ $node_(0) set Z_ 0
 
 def writeinitnode(id, x, y):
     try:
-        tclfile = open("beijing3pm_1.tcl","a")
+        tclfile = open("beijing3am.tcl","a")
         tclfile.writelines("$node_("+str(id)+") set X_ "+str(x)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Y_ "+str(y)+"\n")
         tclfile.writelines("$node_("+str(id)+") set Z_ "+str(0)+"\n")
@@ -59,7 +59,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("beijing3pm_1.tcl","a")
+        tclfile = open("beijing3am.tcl","a")
         tclfile.writelines("$ns_ at "+str(time)+" \"$node_("+str(id)+") setdest "+str(x)+" "+str(y)+" "+str(0)+"\"\n")
     finally:
         if tclfile:
@@ -94,10 +94,10 @@ Chengdu      3*3       10PM
 
 baselatitude = 3996231
 baselongitude = 11634179
-basetimestamp = 1447425000
+basetimestamp = 1447376400
 
 
-tablecondition = "WHERE `timeStamp`>='5645f3e8' AND `timeStamp`<='5645f640' " \
+tablecondition = "WHERE `timeStamp`>='56453610' AND `timeStamp`<='56453868' " \
           "AND latitude>='3cfa47' AND latitude<='3d05ff'" \
           "AND longitude>='b18603'AND longitude<='b191bb'"
 
@@ -129,7 +129,7 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 8
+    num = 1
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1
@@ -175,7 +175,7 @@ def getvehicleinfo():
                 else:
                     # fill data
                     if time - lasttime >= 1:
-                        timedifferent = (time - lasttime) * 29
+                        timedifferent = (time - lasttime) * 60
                         addx = (x - lastx) / timedifferent
                         addy = (y - lasty) / timedifferent
                         n = 1
