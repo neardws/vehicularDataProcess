@@ -1,6 +1,3 @@
-$node_(0) set X_ 1380
-$node_(0) set Y_ 1289
-$node_(0) set Z_ 0
 $ns_ at 0 "$node_(0) setdest 1380 1289 0"
 $ns_ at 1 "$node_(0) setdest 1386 1289 0"
 $ns_ at 2 "$node_(0) setdest 1392 1289 0"
@@ -242,9 +239,6 @@ $ns_ at 237 "$node_(0) setdest 2225 222 0"
 $ns_ at 238 "$node_(0) setdest 2225 218 0"
 $ns_ at 239 "$node_(0) setdest 2226 213 0"
 $ns_ at 240 "$node_(0) setdest 2227 209 0"
-$node_(1) set X_ 832
-$node_(1) set Y_ 134
-$node_(1) set Z_ 0
 $ns_ at 0 "$node_(1) setdest 832 134 0"
 $ns_ at 1 "$node_(1) setdest 829 137 0"
 $ns_ at 2 "$node_(1) setdest 826 141 0"
@@ -546,9 +540,6 @@ $ns_ at 297 "$node_(1) setdest 523 2922 0"
 $ns_ at 298 "$node_(1) setdest 522 2929 0"
 $ns_ at 299 "$node_(1) setdest 521 2936 0"
 $ns_ at 300 "$node_(1) setdest 521 2944 0"
-$node_(2) set X_ 2338
-$node_(2) set Y_ 2380
-$node_(2) set Z_ 0
 $ns_ at 3 "$node_(2) setdest 2338 2380 0"
 $ns_ at 4 "$node_(2) setdest 2318 2379 0"
 $ns_ at 5 "$node_(2) setdest 2298 2379 0"
@@ -850,9 +841,6 @@ $ns_ at 300 "$node_(2) setdest 581 1371 0"
 $ns_ at 301 "$node_(2) setdest 581 1356 0"
 $ns_ at 302 "$node_(2) setdest 582 1341 0"
 $ns_ at 303 "$node_(2) setdest 583 1327 0"
-$node_(3) set X_ 687
-$node_(3) set Y_ 2321
-$node_(3) set Z_ 0
 $ns_ at 2 "$node_(3) setdest 687 2321 0"
 $ns_ at 3 "$node_(3) setdest 710 2321 0"
 $ns_ at 4 "$node_(3) setdest 734 2322 0"
@@ -914,9 +902,6 @@ $ns_ at 59 "$node_(3) setdest 2037 2360 0"
 $ns_ at 60 "$node_(3) setdest 2061 2361 0"
 $ns_ at 61 "$node_(3) setdest 2085 2362 0"
 $ns_ at 62 "$node_(3) setdest 2109 2363 0"
-$node_(4) set X_ 2243
-$node_(4) set Y_ 398
-$node_(4) set Z_ 0
 $ns_ at 0 "$node_(4) setdest 2243 398 0"
 $ns_ at 1 "$node_(4) setdest 2252 398 0"
 $ns_ at 2 "$node_(4) setdest 2261 398 0"
@@ -978,9 +963,6 @@ $ns_ at 57 "$node_(4) setdest 2772 415 0"
 $ns_ at 58 "$node_(4) setdest 2781 415 0"
 $ns_ at 59 "$node_(4) setdest 2790 415 0"
 $ns_ at 60 "$node_(4) setdest 2800 416 0"
-$node_(5) set X_ 2446
-$node_(5) set Y_ 440
-$node_(5) set Z_ 0
 $ns_ at 5 "$node_(5) setdest 2446 440 0"
 $ns_ at 6 "$node_(5) setdest 2424 439 0"
 $ns_ at 7 "$node_(5) setdest 2402 439 0"
@@ -1222,9 +1204,6 @@ $ns_ at 242 "$node_(5) setdest 865 1269 0"
 $ns_ at 243 "$node_(5) setdest 869 1274 0"
 $ns_ at 244 "$node_(5) setdest 873 1279 0"
 $ns_ at 245 "$node_(5) setdest 877 1285 0"
-$node_(6) set X_ 639
-$node_(6) set Y_ 2321
-$node_(6) set Z_ 0
 $ns_ at 6 "$node_(6) setdest 639 2321 0"
 $ns_ at 7 "$node_(6) setdest 649 2321 0"
 $ns_ at 8 "$node_(6) setdest 660 2321 0"
@@ -1346,9 +1325,6 @@ $ns_ at 123 "$node_(6) setdest 2545 2370 0"
 $ns_ at 124 "$node_(6) setdest 2567 2370 0"
 $ns_ at 125 "$node_(6) setdest 2589 2371 0"
 $ns_ at 126 "$node_(6) setdest 2612 2372 0"
-$node_(7) set X_ 1823
-$node_(7) set Y_ 2369
-$node_(7) set Z_ 0
 $ns_ at 8 "$node_(7) setdest 1823 2369 0"
 $ns_ at 9 "$node_(7) setdest 1803 2368 0"
 $ns_ at 10 "$node_(7) setdest 1784 2368 0"
@@ -1410,9 +1386,6 @@ $ns_ at 65 "$node_(7) setdest 719 2361 0"
 $ns_ at 66 "$node_(7) setdest 699 2361 0"
 $ns_ at 67 "$node_(7) setdest 680 2361 0"
 $ns_ at 68 "$node_(7) setdest 661 2361 0"
-$node_(8) set X_ 664
-$node_(8) set Y_ 444
-$node_(8) set Z_ 0
 $ns_ at 4 "$node_(8) setdest 664 444 0"
 $ns_ at 5 "$node_(8) setdest 663 459 0"
 $ns_ at 6 "$node_(8) setdest 662 475 0"
@@ -1594,9 +1567,6 @@ $ns_ at 181 "$node_(8) setdest 230 2324 0"
 $ns_ at 182 "$node_(8) setdest 224 2326 0"
 $ns_ at 183 "$node_(8) setdest 218 2328 0"
 $ns_ at 184 "$node_(8) setdest 213 2331 0"
-$node_(9) set X_ 731
-$node_(9) set Y_ 480
-$node_(9) set Z_ 0
 $ns_ at 5 "$node_(9) setdest 731 480 0"
 $ns_ at 6 "$node_(9) setdest 720 478 0"
 $ns_ at 7 "$node_(9) setdest 709 477 0"
@@ -1658,9 +1628,6 @@ $ns_ at 62 "$node_(9) setdest 123 414 0"
 $ns_ at 63 "$node_(9) setdest 112 413 0"
 $ns_ at 64 "$node_(9) setdest 101 412 0"
 $ns_ at 65 "$node_(9) setdest 91 411 0"
-$node_(10) set X_ 2830
-$node_(10) set Y_ 444
-$node_(10) set Z_ 0
 $ns_ at 2 "$node_(10) setdest 2830 444 0"
 $ns_ at 3 "$node_(10) setdest 2808 443 0"
 $ns_ at 4 "$node_(10) setdest 2786 442 0"
@@ -1782,9 +1749,6 @@ $ns_ at 119 "$node_(10) setdest 290 406 0"
 $ns_ at 120 "$node_(10) setdest 268 406 0"
 $ns_ at 121 "$node_(10) setdest 246 406 0"
 $ns_ at 122 "$node_(10) setdest 225 406 0"
-$node_(11) set X_ 80
-$node_(11) set Y_ 2296
-$node_(11) set Z_ 0
 $ns_ at 0 "$node_(11) setdest 80 2296 0"
 $ns_ at 1 "$node_(11) setdest 102 2296 0"
 $ns_ at 2 "$node_(11) setdest 125 2297 0"
@@ -2026,9 +1990,6 @@ $ns_ at 237 "$node_(11) setdest 2895 2875 0"
 $ns_ at 238 "$node_(11) setdest 2893 2879 0"
 $ns_ at 239 "$node_(11) setdest 2891 2884 0"
 $ns_ at 240 "$node_(11) setdest 2890 2889 0"
-$node_(12) set X_ 2849
-$node_(12) set Y_ 2393
-$node_(12) set Z_ 0
 $ns_ at 1 "$node_(12) setdest 2849 2393 0"
 $ns_ at 2 "$node_(12) setdest 2826 2392 0"
 $ns_ at 3 "$node_(12) setdest 2804 2392 0"
@@ -2210,9 +2171,6 @@ $ns_ at 178 "$node_(12) setdest 534 2947 0"
 $ns_ at 179 "$node_(12) setdest 532 2957 0"
 $ns_ at 180 "$node_(12) setdest 531 2967 0"
 $ns_ at 181 "$node_(12) setdest 530 2978 0"
-$node_(13) set X_ 2931
-$node_(13) set Y_ 440
-$node_(13) set Z_ 0
 $ns_ at 5 "$node_(13) setdest 2931 440 0"
 $ns_ at 6 "$node_(13) setdest 2910 439 0"
 $ns_ at 7 "$node_(13) setdest 2890 439 0"
@@ -2334,9 +2292,6 @@ $ns_ at 122 "$node_(13) setdest 467 406 0"
 $ns_ at 123 "$node_(13) setdest 445 406 0"
 $ns_ at 124 "$node_(13) setdest 423 406 0"
 $ns_ at 125 "$node_(13) setdest 401 406 0"
-$node_(14) set X_ 2458
-$node_(14) set Y_ 456
-$node_(14) set Z_ 0
 $ns_ at 3 "$node_(14) setdest 2458 456 0"
 $ns_ at 4 "$node_(14) setdest 2445 455 0"
 $ns_ at 5 "$node_(14) setdest 2433 455 0"
@@ -2518,9 +2473,6 @@ $ns_ at 180 "$node_(14) setdest 240 423 0"
 $ns_ at 181 "$node_(14) setdest 227 423 0"
 $ns_ at 182 "$node_(14) setdest 214 423 0"
 $ns_ at 183 "$node_(14) setdest 202 423 0"
-$node_(15) set X_ 678
-$node_(15) set Y_ 37
-$node_(15) set Z_ 0
 $ns_ at 1 "$node_(15) setdest 678 37 0"
 $ns_ at 2 "$node_(15) setdest 677 50 0"
 $ns_ at 3 "$node_(15) setdest 676 64 0"
@@ -2822,9 +2774,6 @@ $ns_ at 298 "$node_(15) setdest 2520 2370 0"
 $ns_ at 299 "$node_(15) setdest 2540 2370 0"
 $ns_ at 300 "$node_(15) setdest 2560 2371 0"
 $ns_ at 301 "$node_(15) setdest 2581 2372 0"
-$node_(16) set X_ 1527
-$node_(16) set Y_ 2363
-$node_(16) set Z_ 0
 $ns_ at 1 "$node_(16) setdest 1527 2363 0"
 $ns_ at 2 "$node_(16) setdest 1513 2362 0"
 $ns_ at 3 "$node_(16) setdest 1500 2362 0"
@@ -2946,9 +2895,6 @@ $ns_ at 118 "$node_(16) setdest 51 2332 0"
 $ns_ at 119 "$node_(16) setdest 39 2332 0"
 $ns_ at 120 "$node_(16) setdest 27 2331 0"
 $ns_ at 121 "$node_(16) setdest 16 2331 0"
-$node_(17) set X_ 555
-$node_(17) set Y_ 2312
-$node_(17) set Z_ 0
 $ns_ at 3 "$node_(17) setdest 555 2312 0"
 $ns_ at 4 "$node_(17) setdest 580 2312 0"
 $ns_ at 5 "$node_(17) setdest 605 2313 0"
@@ -3010,9 +2956,6 @@ $ns_ at 60 "$node_(17) setdest 1980 2353 0"
 $ns_ at 61 "$node_(17) setdest 2005 2354 0"
 $ns_ at 62 "$node_(17) setdest 2030 2355 0"
 $ns_ at 63 "$node_(17) setdest 2055 2356 0"
-$node_(18) set X_ 2986
-$node_(18) set Y_ 452
-$node_(18) set Z_ 0
 $ns_ at 1 "$node_(18) setdest 2986 452 0"
 $ns_ at 2 "$node_(18) setdest 2975 451 0"
 $ns_ at 3 "$node_(18) setdest 2964 451 0"
@@ -3493,10 +3436,6 @@ $ns_ at 477 "$node_(18) setdest 563 2293 0"
 $ns_ at 478 "$node_(18) setdest 563 2293 0"
 $ns_ at 479 "$node_(18) setdest 563 2294 0"
 $ns_ at 480 "$node_(18) setdest 563 2294 0"
-$ns_ at 481 "$node_(18) setdest 563 2295 0"
-$node_(19) set X_ 620
-$node_(19) set Y_ 1175
-$node_(19) set Z_ 0
 $ns_ at 7 "$node_(19) setdest 620 1175 0"
 $ns_ at 8 "$node_(19) setdest 619 1189 0"
 $ns_ at 9 "$node_(19) setdest 618 1203 0"
@@ -3618,9 +3557,6 @@ $ns_ at 124 "$node_(19) setdest 432 2333 0"
 $ns_ at 125 "$node_(19) setdest 429 2338 0"
 $ns_ at 126 "$node_(19) setdest 427 2343 0"
 $ns_ at 127 "$node_(19) setdest 425 2349 0"
-$node_(20) set X_ 532
-$node_(20) set Y_ 2284
-$node_(20) set Z_ 0
 $ns_ at 1 "$node_(20) setdest 532 2284 0"
 $ns_ at 2 "$node_(20) setdest 532 2268 0"
 $ns_ at 3 "$node_(20) setdest 532 2253 0"
@@ -3862,9 +3798,6 @@ $ns_ at 238 "$node_(20) setdest 1635 401 0"
 $ns_ at 239 "$node_(20) setdest 1652 401 0"
 $ns_ at 240 "$node_(20) setdest 1670 401 0"
 $ns_ at 241 "$node_(20) setdest 1688 402 0"
-$node_(21) set X_ 2192
-$node_(21) set Y_ 1268
-$node_(21) set Z_ 0
 $ns_ at 0 "$node_(21) setdest 2192 1268 0"
 $ns_ at 1 "$node_(21) setdest 2192 1268 0"
 $ns_ at 2 "$node_(21) setdest 2192 1268 0"
@@ -4106,9 +4039,6 @@ $ns_ at 237 "$node_(21) setdest 253 1286 0"
 $ns_ at 238 "$node_(21) setdest 236 1286 0"
 $ns_ at 239 "$node_(21) setdest 220 1286 0"
 $ns_ at 240 "$node_(21) setdest 204 1286 0"
-$node_(22) set X_ 71
-$node_(22) set Y_ 394
-$node_(22) set Z_ 0
 $ns_ at 4 "$node_(22) setdest 71 394 0"
 $ns_ at 5 "$node_(22) setdest 91 394 0"
 $ns_ at 6 "$node_(22) setdest 111 394 0"
@@ -4230,9 +4160,6 @@ $ns_ at 121 "$node_(22) setdest 1731 401 0"
 $ns_ at 122 "$node_(22) setdest 1739 401 0"
 $ns_ at 123 "$node_(22) setdest 1747 401 0"
 $ns_ at 124 "$node_(22) setdest 1755 402 0"
-$node_(23) set X_ 2929
-$node_(23) set Y_ 2658
-$node_(23) set Z_ 0
 $ns_ at 7 "$node_(23) setdest 2929 2658 0"
 $ns_ at 8 "$node_(23) setdest 2913 2655 0"
 $ns_ at 9 "$node_(23) setdest 2898 2652 0"
@@ -4354,9 +4281,6 @@ $ns_ at 124 "$node_(23) setdest 1150 2361 0"
 $ns_ at 125 "$node_(23) setdest 1135 2359 0"
 $ns_ at 126 "$node_(23) setdest 1120 2356 0"
 $ns_ at 127 "$node_(23) setdest 1105 2354 0"
-$node_(24) set X_ 672
-$node_(24) set Y_ 212
-$node_(24) set Z_ 0
 $ns_ at 3 "$node_(24) setdest 672 212 0"
 $ns_ at 4 "$node_(24) setdest 670 229 0"
 $ns_ at 5 "$node_(24) setdest 669 246 0"
@@ -4538,9 +4462,6 @@ $ns_ at 180 "$node_(24) setdest 135 2317 0"
 $ns_ at 181 "$node_(24) setdest 128 2319 0"
 $ns_ at 182 "$node_(24) setdest 120 2322 0"
 $ns_ at 183 "$node_(24) setdest 113 2325 0"
-$node_(25) set X_ 2104
-$node_(25) set Y_ 2370
-$node_(25) set Z_ 0
 $ns_ at 1 "$node_(25) setdest 2104 2370 0"
 $ns_ at 2 "$node_(25) setdest 2080 2369 0"
 $ns_ at 3 "$node_(25) setdest 2056 2368 0"
@@ -4602,9 +4523,6 @@ $ns_ at 58 "$node_(25) setdest 762 2334 0"
 $ns_ at 59 "$node_(25) setdest 739 2334 0"
 $ns_ at 60 "$node_(25) setdest 715 2333 0"
 $ns_ at 61 "$node_(25) setdest 692 2333 0"
-$node_(26) set X_ 2608
-$node_(26) set Y_ 2381
-$node_(26) set Z_ 0
 $ns_ at 0 "$node_(26) setdest 2608 2381 0"
 $ns_ at 1 "$node_(26) setdest 2582 2380 0"
 $ns_ at 2 "$node_(26) setdest 2557 2379 0"
@@ -4666,9 +4584,6 @@ $ns_ at 57 "$node_(26) setdest 1169 2343 0"
 $ns_ at 58 "$node_(26) setdest 1144 2342 0"
 $ns_ at 59 "$node_(26) setdest 1119 2341 0"
 $ns_ at 60 "$node_(26) setdest 1094 2341 0"
-$node_(27) set X_ 2847
-$node_(27) set Y_ 458
-$node_(27) set Z_ 0
 $ns_ at 8 "$node_(27) setdest 2847 458 0"
 $ns_ at 9 "$node_(27) setdest 2829 457 0"
 $ns_ at 10 "$node_(27) setdest 2812 456 0"
@@ -4730,9 +4645,6 @@ $ns_ at 65 "$node_(27) setdest 1856 423 0"
 $ns_ at 66 "$node_(27) setdest 1838 423 0"
 $ns_ at 67 "$node_(27) setdest 1821 422 0"
 $ns_ at 68 "$node_(27) setdest 1804 422 0"
-$node_(28) set X_ 779
-$node_(28) set Y_ 405
-$node_(28) set Z_ 0
 $ns_ at 6 "$node_(28) setdest 779 405 0"
 $ns_ at 7 "$node_(28) setdest 799 404 0"
 $ns_ at 8 "$node_(28) setdest 820 404 0"
@@ -4794,9 +4706,6 @@ $ns_ at 63 "$node_(28) setdest 1949 403 0"
 $ns_ at 64 "$node_(28) setdest 1969 403 0"
 $ns_ at 65 "$node_(28) setdest 1990 403 0"
 $ns_ at 66 "$node_(28) setdest 2011 403 0"
-$node_(29) set X_ 1889
-$node_(29) set Y_ 2366
-$node_(29) set Z_ 0
 $ns_ at 0 "$node_(29) setdest 1889 2366 0"
 $ns_ at 1 "$node_(29) setdest 1872 2365 0"
 $ns_ at 2 "$node_(29) setdest 1855 2365 0"
@@ -5038,9 +4947,6 @@ $ns_ at 237 "$node_(29) setdest 507 1075 0"
 $ns_ at 238 "$node_(29) setdest 506 1062 0"
 $ns_ at 239 "$node_(29) setdest 505 1050 0"
 $ns_ at 240 "$node_(29) setdest 504 1038 0"
-$node_(30) set X_ 689
-$node_(30) set Y_ 165
-$node_(30) set Z_ 0
 $ns_ at 3 "$node_(30) setdest 689 165 0"
 $ns_ at 4 "$node_(30) setdest 713 169 0"
 $ns_ at 5 "$node_(30) setdest 738 173 0"
@@ -5102,9 +5008,6 @@ $ns_ at 60 "$node_(30) setdest 2086 400 0"
 $ns_ at 61 "$node_(30) setdest 2110 404 0"
 $ns_ at 62 "$node_(30) setdest 2135 408 0"
 $ns_ at 63 "$node_(30) setdest 2160 413 0"
-$node_(31) set X_ 2736
-$node_(31) set Y_ 2391
-$node_(31) set Z_ 0
 $ns_ at 3 "$node_(31) setdest 2736 2391 0"
 $ns_ at 4 "$node_(31) setdest 2712 2390 0"
 $ns_ at 5 "$node_(31) setdest 2689 2389 0"
@@ -5406,9 +5309,6 @@ $ns_ at 300 "$node_(31) setdest 561 338 0"
 $ns_ at 301 "$node_(31) setdest 561 325 0"
 $ns_ at 302 "$node_(31) setdest 561 312 0"
 $ns_ at 303 "$node_(31) setdest 562 299 0"
-$node_(32) set X_ 636
-$node_(32) set Y_ 865
-$node_(32) set Z_ 0
 $ns_ at 8 "$node_(32) setdest 636 865 0"
 $ns_ at 9 "$node_(32) setdest 635 880 0"
 $ns_ at 10 "$node_(32) setdest 634 895 0"
@@ -5470,9 +5370,6 @@ $ns_ at 65 "$node_(32) setdest 593 1740 0"
 $ns_ at 66 "$node_(32) setdest 592 1756 0"
 $ns_ at 67 "$node_(32) setdest 591 1771 0"
 $ns_ at 68 "$node_(32) setdest 591 1787 0"
-$node_(33) set X_ 450
-$node_(33) set Y_ 2287
-$node_(33) set Z_ 0
 $ns_ at 4 "$node_(33) setdest 450 2287 0"
 $ns_ at 5 "$node_(33) setdest 452 2274 0"
 $ns_ at 6 "$node_(33) setdest 454 2262 0"
@@ -5594,9 +5491,6 @@ $ns_ at 121 "$node_(33) setdest 518 723 0"
 $ns_ at 122 "$node_(33) setdest 517 709 0"
 $ns_ at 123 "$node_(33) setdest 516 694 0"
 $ns_ at 124 "$node_(33) setdest 515 680 0"
-$node_(34) set X_ 255
-$node_(34) set Y_ 1313
-$node_(34) set Z_ 0
 $ns_ at 0 "$node_(34) setdest 255 1313 0"
 $ns_ at 1 "$node_(34) setdest 258 1312 0"
 $ns_ at 2 "$node_(34) setdest 262 1312 0"
@@ -5898,9 +5792,6 @@ $ns_ at 297 "$node_(34) setdest 2297 2368 0"
 $ns_ at 298 "$node_(34) setdest 2319 2369 0"
 $ns_ at 299 "$node_(34) setdest 2341 2370 0"
 $ns_ at 300 "$node_(34) setdest 2363 2371 0"
-$node_(35) set X_ 2650
-$node_(35) set Y_ 2393
-$node_(35) set Z_ 0
 $ns_ at 2 "$node_(35) setdest 2650 2393 0"
 $ns_ at 3 "$node_(35) setdest 2627 2392 0"
 $ns_ at 4 "$node_(35) setdest 2604 2391 0"
@@ -5962,9 +5853,6 @@ $ns_ at 59 "$node_(35) setdest 1349 2354 0"
 $ns_ at 60 "$node_(35) setdest 1326 2353 0"
 $ns_ at 61 "$node_(35) setdest 1303 2352 0"
 $ns_ at 62 "$node_(35) setdest 1281 2352 0"
-$node_(36) set X_ 2782
-$node_(36) set Y_ 442
-$node_(36) set Z_ 0
 $ns_ at 4 "$node_(36) setdest 2782 442 0"
 $ns_ at 5 "$node_(36) setdest 2759 441 0"
 $ns_ at 6 "$node_(36) setdest 2736 441 0"
@@ -6086,9 +5974,6 @@ $ns_ at 121 "$node_(36) setdest 225 413 0"
 $ns_ at 122 "$node_(36) setdest 204 413 0"
 $ns_ at 123 "$node_(36) setdest 183 413 0"
 $ns_ at 124 "$node_(36) setdest 162 413 0"
-$node_(37) set X_ 277
-$node_(37) set Y_ 2300
-$node_(37) set Z_ 0
 $ns_ at 3 "$node_(37) setdest 277 2300 0"
 $ns_ at 4 "$node_(37) setdest 297 2300 0"
 $ns_ at 5 "$node_(37) setdest 318 2301 0"
@@ -6390,9 +6275,6 @@ $ns_ at 300 "$node_(37) setdest 2051 1323 0"
 $ns_ at 301 "$node_(37) setdest 2049 1320 0"
 $ns_ at 302 "$node_(37) setdest 2047 1316 0"
 $ns_ at 303 "$node_(37) setdest 2045 1313 0"
-$node_(38) set X_ 77
-$node_(38) set Y_ 1280
-$node_(38) set Z_ 0
 $ns_ at 4 "$node_(38) setdest 77 1280 0"
 $ns_ at 5 "$node_(38) setdest 83 1276 0"
 $ns_ at 6 "$node_(38) setdest 90 1272 0"
@@ -6574,9 +6456,6 @@ $ns_ at 181 "$node_(38) setdest 1051 389 0"
 $ns_ at 182 "$node_(38) setdest 1060 391 0"
 $ns_ at 183 "$node_(38) setdest 1069 393 0"
 $ns_ at 184 "$node_(38) setdest 1078 395 0"
-$node_(39) set X_ 596
-$node_(39) set Y_ 2318
-$node_(39) set Z_ 0
 $ns_ at 5 "$node_(39) setdest 596 2318 0"
 $ns_ at 6 "$node_(39) setdest 619 2318 0"
 $ns_ at 7 "$node_(39) setdest 642 2319 0"
@@ -6638,9 +6517,6 @@ $ns_ at 62 "$node_(39) setdest 1920 2356 0"
 $ns_ at 63 "$node_(39) setdest 1943 2357 0"
 $ns_ at 64 "$node_(39) setdest 1966 2358 0"
 $ns_ at 65 "$node_(39) setdest 1990 2359 0"
-$node_(40) set X_ 34
-$node_(40) set Y_ 395
-$node_(40) set Z_ 0
 $ns_ at 2 "$node_(40) setdest 34 395 0"
 $ns_ at 3 "$node_(40) setdest 51 395 0"
 $ns_ at 4 "$node_(40) setdest 68 395 0"
@@ -7062,9 +6938,6 @@ $ns_ at 419 "$node_(40) setdest 2954 2675 0"
 $ns_ at 420 "$node_(40) setdest 2957 2682 0"
 $ns_ at 421 "$node_(40) setdest 2960 2690 0"
 $ns_ at 422 "$node_(40) setdest 2964 2698 0"
-$node_(41) set X_ 676
-$node_(41) set Y_ 108
-$node_(41) set Z_ 0
 $ns_ at 7 "$node_(41) setdest 676 108 0"
 $ns_ at 8 "$node_(41) setdest 675 123 0"
 $ns_ at 9 "$node_(41) setdest 674 138 0"
@@ -7186,9 +7059,6 @@ $ns_ at 124 "$node_(41) setdest 577 1912 0"
 $ns_ at 125 "$node_(41) setdest 576 1927 0"
 $ns_ at 126 "$node_(41) setdest 575 1943 0"
 $ns_ at 127 "$node_(41) setdest 575 1959 0"
-$node_(42) set X_ 497
-$node_(42) set Y_ 2332
-$node_(42) set Z_ 0
 $ns_ at 6 "$node_(42) setdest 497 2332 0"
 $ns_ at 7 "$node_(42) setdest 498 2323 0"
 $ns_ at 8 "$node_(42) setdest 499 2314 0"
@@ -7370,9 +7240,6 @@ $ns_ at 183 "$node_(42) setdest 551 265 0"
 $ns_ at 184 "$node_(42) setdest 552 251 0"
 $ns_ at 185 "$node_(42) setdest 553 237 0"
 $ns_ at 186 "$node_(42) setdest 554 223 0"
-$node_(43) set X_ 1889
-$node_(43) set Y_ 2367
-$node_(43) set Z_ 0
 $ns_ at 5 "$node_(43) setdest 1889 2367 0"
 $ns_ at 6 "$node_(43) setdest 1867 2366 0"
 $ns_ at 7 "$node_(43) setdest 1845 2365 0"
@@ -7434,9 +7301,6 @@ $ns_ at 62 "$node_(43) setdest 649 2329 0"
 $ns_ at 63 "$node_(43) setdest 627 2329 0"
 $ns_ at 64 "$node_(43) setdest 605 2328 0"
 $ns_ at 65 "$node_(43) setdest 584 2328 0"
-$node_(44) set X_ 511
-$node_(44) set Y_ 2309
-$node_(44) set Z_ 0
 $ns_ at 1 "$node_(44) setdest 511 2309 0"
 $ns_ at 2 "$node_(44) setdest 534 2309 0"
 $ns_ at 3 "$node_(44) setdest 558 2310 0"
@@ -7498,9 +7362,6 @@ $ns_ at 58 "$node_(44) setdest 1858 2353 0"
 $ns_ at 59 "$node_(44) setdest 1881 2354 0"
 $ns_ at 60 "$node_(44) setdest 1905 2355 0"
 $ns_ at 61 "$node_(44) setdest 1929 2356 0"
-$node_(45) set X_ 339
-$node_(45) set Y_ 2301
-$node_(45) set Z_ 0
 $ns_ at 8 "$node_(45) setdest 339 2301 0"
 $ns_ at 9 "$node_(45) setdest 360 2301 0"
 $ns_ at 10 "$node_(45) setdest 381 2302 0"
@@ -7562,9 +7423,6 @@ $ns_ at 65 "$node_(45) setdest 1563 2340 0"
 $ns_ at 66 "$node_(45) setdest 1585 2341 0"
 $ns_ at 67 "$node_(45) setdest 1606 2342 0"
 $ns_ at 68 "$node_(45) setdest 1628 2343 0"
-$node_(46) set X_ 510
-$node_(46) set Y_ 1170
-$node_(46) set Z_ 0
 $ns_ at 0 "$node_(46) setdest 510 1170 0"
 $ns_ at 1 "$node_(46) setdest 508 1157 0"
 $ns_ at 2 "$node_(46) setdest 507 1144 0"
@@ -7626,9 +7484,6 @@ $ns_ at 57 "$node_(46) setdest 442 444 0"
 $ns_ at 58 "$node_(46) setdest 441 431 0"
 $ns_ at 59 "$node_(46) setdest 440 418 0"
 $ns_ at 60 "$node_(46) setdest 439 406 0"
-$node_(47) set X_ 55
-$node_(47) set Y_ 1764
-$node_(47) set Z_ 0
 $ns_ at 3 "$node_(47) setdest 55 1764 0"
 $ns_ at 4 "$node_(47) setdest 62 1764 0"
 $ns_ at 5 "$node_(47) setdest 69 1764 0"
@@ -7810,9 +7665,6 @@ $ns_ at 180 "$node_(47) setdest 523 755 0"
 $ns_ at 181 "$node_(47) setdest 522 740 0"
 $ns_ at 182 "$node_(47) setdest 521 725 0"
 $ns_ at 183 "$node_(47) setdest 520 711 0"
-$node_(48) set X_ 1044
-$node_(48) set Y_ 401
-$node_(48) set Z_ 0
 $ns_ at 3 "$node_(48) setdest 1044 401 0"
 $ns_ at 4 "$node_(48) setdest 1063 401 0"
 $ns_ at 5 "$node_(48) setdest 1083 401 0"
@@ -7874,9 +7726,6 @@ $ns_ at 60 "$node_(48) setdest 2172 406 0"
 $ns_ at 61 "$node_(48) setdest 2192 406 0"
 $ns_ at 62 "$node_(48) setdest 2212 406 0"
 $ns_ at 63 "$node_(48) setdest 2232 407 0"
-$node_(49) set X_ 136
-$node_(49) set Y_ 2299
-$node_(49) set Z_ 0
 $ns_ at 0 "$node_(49) setdest 136 2299 0"
 $ns_ at 1 "$node_(49) setdest 157 2299 0"
 $ns_ at 2 "$node_(49) setdest 178 2300 0"
@@ -7998,9 +7847,6 @@ $ns_ at 117 "$node_(49) setdest 2613 2374 0"
 $ns_ at 118 "$node_(49) setdest 2634 2374 0"
 $ns_ at 119 "$node_(49) setdest 2655 2375 0"
 $ns_ at 120 "$node_(49) setdest 2677 2376 0"
-$node_(50) set X_ 2623
-$node_(50) set Y_ 440
-$node_(50) set Z_ 0
 $ns_ at 7 "$node_(50) setdest 2623 440 0"
 $ns_ at 8 "$node_(50) setdest 2600 439 0"
 $ns_ at 9 "$node_(50) setdest 2578 439 0"
@@ -8062,9 +7908,6 @@ $ns_ at 64 "$node_(50) setdest 1347 413 0"
 $ns_ at 65 "$node_(50) setdest 1324 412 0"
 $ns_ at 66 "$node_(50) setdest 1302 412 0"
 $ns_ at 67 "$node_(50) setdest 1280 412 0"
-$node_(51) set X_ 1830
-$node_(51) set Y_ 2361
-$node_(51) set Z_ 0
 $ns_ at 6 "$node_(51) setdest 1830 2361 0"
 $ns_ at 7 "$node_(51) setdest 1803 2360 0"
 $ns_ at 8 "$node_(51) setdest 1777 2359 0"
@@ -8126,9 +7969,6 @@ $ns_ at 63 "$node_(51) setdest 322 2317 0"
 $ns_ at 64 "$node_(51) setdest 295 2316 0"
 $ns_ at 65 "$node_(51) setdest 269 2315 0"
 $ns_ at 66 "$node_(51) setdest 243 2315 0"
-$node_(52) set X_ 1336
-$node_(52) set Y_ 2341
-$node_(52) set Z_ 0
 $ns_ at 4 "$node_(52) setdest 1336 2341 0"
 $ns_ at 5 "$node_(52) setdest 1360 2341 0"
 $ns_ at 6 "$node_(52) setdest 1384 2342 0"
@@ -8190,9 +8030,6 @@ $ns_ at 61 "$node_(52) setdest 2730 2380 0"
 $ns_ at 62 "$node_(52) setdest 2755 2381 0"
 $ns_ at 63 "$node_(52) setdest 2779 2382 0"
 $ns_ at 64 "$node_(52) setdest 2804 2383 0"
-$node_(53) set X_ 679
-$node_(53) set Y_ 75
-$node_(53) set Z_ 0
 $ns_ at 3 "$node_(53) setdest 679 75 0"
 $ns_ at 4 "$node_(53) setdest 678 89 0"
 $ns_ at 5 "$node_(53) setdest 677 104 0"
@@ -8434,9 +8271,6 @@ $ns_ at 240 "$node_(53) setdest 76 2328 0"
 $ns_ at 241 "$node_(53) setdest 67 2329 0"
 $ns_ at 242 "$node_(53) setdest 59 2330 0"
 $ns_ at 243 "$node_(53) setdest 51 2331 0"
-$node_(54) set X_ 696
-$node_(54) set Y_ 248
-$node_(54) set Z_ 0
 $ns_ at 0 "$node_(54) setdest 696 248 0"
 $ns_ at 1 "$node_(54) setdest 706 250 0"
 $ns_ at 2 "$node_(54) setdest 716 252 0"
@@ -8558,9 +8392,6 @@ $ns_ at 117 "$node_(54) setdest 2386 422 0"
 $ns_ at 118 "$node_(54) setdest 2405 422 0"
 $ns_ at 119 "$node_(54) setdest 2424 423 0"
 $ns_ at 120 "$node_(54) setdest 2443 424 0"
-$node_(55) set X_ 722
-$node_(55) set Y_ 332
-$node_(55) set Z_ 0
 $ns_ at 5 "$node_(55) setdest 722 332 0"
 $ns_ at 6 "$node_(55) setdest 721 338 0"
 $ns_ at 7 "$node_(55) setdest 720 345 0"
@@ -8802,9 +8633,6 @@ $ns_ at 242 "$node_(55) setdest 600 2306 0"
 $ns_ at 243 "$node_(55) setdest 600 2310 0"
 $ns_ at 244 "$node_(55) setdest 600 2314 0"
 $ns_ at 245 "$node_(55) setdest 601 2319 0"
-$node_(56) set X_ 1542
-$node_(56) set Y_ 2359
-$node_(56) set Z_ 0
 $ns_ at 4 "$node_(56) setdest 1542 2359 0"
 $ns_ at 5 "$node_(56) setdest 1518 2358 0"
 $ns_ at 6 "$node_(56) setdest 1495 2357 0"
@@ -8866,9 +8694,6 @@ $ns_ at 61 "$node_(56) setdest 208 2321 0"
 $ns_ at 62 "$node_(56) setdest 184 2321 0"
 $ns_ at 63 "$node_(56) setdest 161 2320 0"
 $ns_ at 64 "$node_(56) setdest 138 2320 0"
-$node_(57) set X_ 2117
-$node_(57) set Y_ 2817
-$node_(57) set Z_ 0
 $ns_ at 8 "$node_(57) setdest 2117 2817 0"
 $ns_ at 9 "$node_(57) setdest 2114 2809 0"
 $ns_ at 10 "$node_(57) setdest 2111 2802 0"
@@ -8930,9 +8755,6 @@ $ns_ at 65 "$node_(57) setdest 1971 2407 0"
 $ns_ at 66 "$node_(57) setdest 1969 2400 0"
 $ns_ at 67 "$node_(57) setdest 1966 2393 0"
 $ns_ at 68 "$node_(57) setdest 1964 2386 0"
-$node_(58) set X_ 2162
-$node_(58) set Y_ 431
-$node_(58) set Z_ 0
 $ns_ at 6 "$node_(58) setdest 2162 431 0"
 $ns_ at 7 "$node_(58) setdest 2140 430 0"
 $ns_ at 8 "$node_(58) setdest 2118 430 0"
@@ -9054,9 +8876,6 @@ $ns_ at 123 "$node_(58) setdest 579 351 0"
 $ns_ at 124 "$node_(58) setdest 574 350 0"
 $ns_ at 125 "$node_(58) setdest 569 349 0"
 $ns_ at 126 "$node_(58) setdest 564 348 0"
-$node_(59) set X_ 813
-$node_(59) set Y_ 2327
-$node_(59) set Z_ 0
 $ns_ at 3 "$node_(59) setdest 813 2327 0"
 $ns_ at 4 "$node_(59) setdest 835 2327 0"
 $ns_ at 5 "$node_(59) setdest 858 2328 0"
@@ -9118,9 +8937,6 @@ $ns_ at 60 "$node_(59) setdest 2114 2366 0"
 $ns_ at 61 "$node_(59) setdest 2137 2367 0"
 $ns_ at 62 "$node_(59) setdest 2160 2368 0"
 $ns_ at 63 "$node_(59) setdest 2183 2369 0"
-$node_(60) set X_ 67
-$node_(60) set Y_ 400
-$node_(60) set Z_ 0
 $ns_ at 7 "$node_(60) setdest 67 400 0"
 $ns_ at 8 "$node_(60) setdest 89 400 0"
 $ns_ at 9 "$node_(60) setdest 111 400 0"
@@ -9182,9 +8998,6 @@ $ns_ at 64 "$node_(60) setdest 1348 405 0"
 $ns_ at 65 "$node_(60) setdest 1371 405 0"
 $ns_ at 66 "$node_(60) setdest 1393 405 0"
 $ns_ at 67 "$node_(60) setdest 1416 406 0"
-$node_(61) set X_ 2871
-$node_(61) set Y_ 2846
-$node_(61) set Z_ 0
 $ns_ at 4 "$node_(61) setdest 2871 2846 0"
 $ns_ at 5 "$node_(61) setdest 2869 2839 0"
 $ns_ at 6 "$node_(61) setdest 2867 2832 0"
@@ -9426,9 +9239,6 @@ $ns_ at 241 "$node_(61) setdest 527 2344 0"
 $ns_ at 242 "$node_(61) setdest 512 2343 0"
 $ns_ at 243 "$node_(61) setdest 498 2343 0"
 $ns_ at 244 "$node_(61) setdest 484 2343 0"
-$node_(62) set X_ 332
-$node_(62) set Y_ 392
-$node_(62) set Z_ 0
 $ns_ at 4 "$node_(62) setdest 332 392 0"
 $ns_ at 5 "$node_(62) setdest 346 391 0"
 $ns_ at 6 "$node_(62) setdest 361 391 0"
@@ -9730,9 +9540,6 @@ $ns_ at 301 "$node_(62) setdest 2719 415 0"
 $ns_ at 302 "$node_(62) setdest 2728 416 0"
 $ns_ at 303 "$node_(62) setdest 2737 416 0"
 $ns_ at 304 "$node_(62) setdest 2747 417 0"
-$node_(63) set X_ 2829
-$node_(63) set Y_ 2470
-$node_(63) set Z_ 0
 $ns_ at 0 "$node_(63) setdest 2829 2470 0"
 $ns_ at 1 "$node_(63) setdest 2811 2469 0"
 $ns_ at 2 "$node_(63) setdest 2794 2468 0"
@@ -10094,9 +9901,6 @@ $ns_ at 357 "$node_(63) setdest 43 1112 0"
 $ns_ at 358 "$node_(63) setdest 41 1109 0"
 $ns_ at 359 "$node_(63) setdest 39 1106 0"
 $ns_ at 360 "$node_(63) setdest 38 1103 0"
-$node_(64) set X_ 593
-$node_(64) set Y_ 2317
-$node_(64) set Z_ 0
 $ns_ at 6 "$node_(64) setdest 593 2317 0"
 $ns_ at 7 "$node_(64) setdest 616 2317 0"
 $ns_ at 8 "$node_(64) setdest 639 2318 0"
@@ -10158,9 +9962,6 @@ $ns_ at 63 "$node_(64) setdest 1918 2353 0"
 $ns_ at 64 "$node_(64) setdest 1941 2353 0"
 $ns_ at 65 "$node_(64) setdest 1964 2354 0"
 $ns_ at 66 "$node_(64) setdest 1988 2355 0"
-$node_(65) set X_ 2155
-$node_(65) set Y_ 1848
-$node_(65) set Z_ 0
 $ns_ at 0 "$node_(65) setdest 2155 1848 0"
 $ns_ at 1 "$node_(65) setdest 2144 1847 0"
 $ns_ at 2 "$node_(65) setdest 2133 1846 0"
@@ -10402,9 +10203,6 @@ $ns_ at 237 "$node_(65) setdest 590 2245 0"
 $ns_ at 238 "$node_(65) setdest 590 2253 0"
 $ns_ at 239 "$node_(65) setdest 589 2261 0"
 $ns_ at 240 "$node_(65) setdest 589 2270 0"
-$node_(66) set X_ 1305
-$node_(66) set Y_ 416
-$node_(66) set Z_ 0
 $ns_ at 0 "$node_(66) setdest 1305 416 0"
 $ns_ at 1 "$node_(66) setdest 1294 417 0"
 $ns_ at 2 "$node_(66) setdest 1283 419 0"
@@ -10646,9 +10444,6 @@ $ns_ at 237 "$node_(66) setdest 271 2328 0"
 $ns_ at 238 "$node_(66) setdest 265 2331 0"
 $ns_ at 239 "$node_(66) setdest 260 2334 0"
 $ns_ at 240 "$node_(66) setdest 255 2338 0"
-$node_(67) set X_ 2207
-$node_(67) set Y_ 1152
-$node_(67) set Z_ 0
 $ns_ at 0 "$node_(67) setdest 2207 1152 0"
 $ns_ at 1 "$node_(67) setdest 2215 1154 0"
 $ns_ at 2 "$node_(67) setdest 2224 1156 0"
@@ -10710,9 +10505,6 @@ $ns_ at 57 "$node_(67) setdest 2695 1292 0"
 $ns_ at 58 "$node_(67) setdest 2703 1295 0"
 $ns_ at 59 "$node_(67) setdest 2712 1297 0"
 $ns_ at 60 "$node_(67) setdest 2721 1300 0"
-$node_(68) set X_ 1069
-$node_(68) set Y_ 2354
-$node_(68) set Z_ 0
 $ns_ at 0 "$node_(68) setdest 1069 2354 0"
 $ns_ at 1 "$node_(68) setdest 1060 2355 0"
 $ns_ at 2 "$node_(68) setdest 1052 2357 0"
@@ -10834,9 +10626,6 @@ $ns_ at 117 "$node_(68) setdest 415 2943 0"
 $ns_ at 118 "$node_(68) setdest 412 2951 0"
 $ns_ at 119 "$node_(68) setdest 409 2960 0"
 $ns_ at 120 "$node_(68) setdest 407 2969 0"
-$node_(69) set X_ 2231
-$node_(69) set Y_ 2380
-$node_(69) set Z_ 0
 $ns_ at 0 "$node_(69) setdest 2231 2380 0"
 $ns_ at 1 "$node_(69) setdest 2211 2379 0"
 $ns_ at 2 "$node_(69) setdest 2191 2379 0"
@@ -11078,9 +10867,6 @@ $ns_ at 237 "$node_(69) setdest 530 2933 0"
 $ns_ at 238 "$node_(69) setdest 530 2933 0"
 $ns_ at 239 "$node_(69) setdest 530 2934 0"
 $ns_ at 240 "$node_(69) setdest 530 2935 0"
-$node_(70) set X_ 330
-$node_(70) set Y_ 398
-$node_(70) set Z_ 0
 $ns_ at 8 "$node_(70) setdest 330 398 0"
 $ns_ at 9 "$node_(70) setdest 352 398 0"
 $ns_ at 10 "$node_(70) setdest 375 398 0"
@@ -11142,9 +10928,6 @@ $ns_ at 65 "$node_(70) setdest 1628 403 0"
 $ns_ at 66 "$node_(70) setdest 1651 403 0"
 $ns_ at 67 "$node_(70) setdest 1674 403 0"
 $ns_ at 68 "$node_(70) setdest 1697 404 0"
-$node_(71) set X_ 1568
-$node_(71) set Y_ 410
-$node_(71) set Z_ 0
 $ns_ at 3 "$node_(71) setdest 1568 410 0"
 $ns_ at 4 "$node_(71) setdest 1545 410 0"
 $ns_ at 5 "$node_(71) setdest 1523 410 0"
@@ -11206,9 +10989,6 @@ $ns_ at 60 "$node_(71) setdest 309 410 0"
 $ns_ at 61 "$node_(71) setdest 287 410 0"
 $ns_ at 62 "$node_(71) setdest 265 410 0"
 $ns_ at 63 "$node_(71) setdest 243 410 0"
-$node_(72) set X_ 546
-$node_(72) set Y_ 2336
-$node_(72) set Z_ 0
 $ns_ at 0 "$node_(72) setdest 546 2336 0"
 $ns_ at 1 "$node_(72) setdest 546 2336 0"
 $ns_ at 2 "$node_(72) setdest 546 2336 0"
@@ -11390,9 +11170,6 @@ $ns_ at 177 "$node_(72) setdest 2755 2377 0"
 $ns_ at 178 "$node_(72) setdest 2780 2378 0"
 $ns_ at 179 "$node_(72) setdest 2804 2379 0"
 $ns_ at 180 "$node_(72) setdest 2829 2380 0"
-$node_(73) set X_ 612
-$node_(73) set Y_ 404
-$node_(73) set Z_ 0
 $ns_ at 8 "$node_(73) setdest 612 404 0"
 $ns_ at 9 "$node_(73) setdest 635 404 0"
 $ns_ at 10 "$node_(73) setdest 658 404 0"
@@ -11454,9 +11231,6 @@ $ns_ at 65 "$node_(73) setdest 1933 414 0"
 $ns_ at 66 "$node_(73) setdest 1956 414 0"
 $ns_ at 67 "$node_(73) setdest 1979 414 0"
 $ns_ at 68 "$node_(73) setdest 2003 415 0"
-$node_(74) set X_ 305
-$node_(74) set Y_ 2312
-$node_(74) set Z_ 0
 $ns_ at 3 "$node_(74) setdest 305 2312 0"
 $ns_ at 4 "$node_(74) setdest 326 2312 0"
 $ns_ at 5 "$node_(74) setdest 347 2313 0"
@@ -11578,9 +11352,6 @@ $ns_ at 120 "$node_(74) setdest 2799 2382 0"
 $ns_ at 121 "$node_(74) setdest 2820 2383 0"
 $ns_ at 122 "$node_(74) setdest 2841 2383 0"
 $ns_ at 123 "$node_(74) setdest 2863 2384 0"
-$node_(75) set X_ 528
-$node_(75) set Y_ 2542
-$node_(75) set Z_ 0
 $ns_ at 4 "$node_(75) setdest 528 2542 0"
 $ns_ at 5 "$node_(75) setdest 528 2538 0"
 $ns_ at 6 "$node_(75) setdest 528 2535 0"
@@ -11762,9 +11533,6 @@ $ns_ at 181 "$node_(75) setdest 1790 2351 0"
 $ns_ at 182 "$node_(75) setdest 1812 2351 0"
 $ns_ at 183 "$node_(75) setdest 1834 2351 0"
 $ns_ at 184 "$node_(75) setdest 1856 2352 0"
-$node_(76) set X_ 2686
-$node_(76) set Y_ 2388
-$node_(76) set Z_ 0
 $ns_ at 6 "$node_(76) setdest 2686 2388 0"
 $ns_ at 7 "$node_(76) setdest 2661 2387 0"
 $ns_ at 8 "$node_(76) setdest 2636 2386 0"
@@ -11826,9 +11594,6 @@ $ns_ at 63 "$node_(76) setdest 1279 2347 0"
 $ns_ at 64 "$node_(76) setdest 1254 2346 0"
 $ns_ at 65 "$node_(76) setdest 1229 2345 0"
 $ns_ at 66 "$node_(76) setdest 1205 2345 0"
-$node_(77) set X_ 1991
-$node_(77) set Y_ 422
-$node_(77) set Z_ 0
 $ns_ at 5 "$node_(77) setdest 1991 422 0"
 $ns_ at 6 "$node_(77) setdest 1968 421 0"
 $ns_ at 7 "$node_(77) setdest 1945 421 0"
@@ -11890,9 +11655,6 @@ $ns_ at 62 "$node_(77) setdest 706 409 0"
 $ns_ at 63 "$node_(77) setdest 684 409 0"
 $ns_ at 64 "$node_(77) setdest 661 409 0"
 $ns_ at 65 "$node_(77) setdest 639 409 0"
-$node_(78) set X_ 1042
-$node_(78) set Y_ 2330
-$node_(78) set Z_ 0
 $ns_ at 0 "$node_(78) setdest 1042 2330 0"
 $ns_ at 1 "$node_(78) setdest 1054 2330 0"
 $ns_ at 2 "$node_(78) setdest 1066 2330 0"
@@ -11954,9 +11716,6 @@ $ns_ at 57 "$node_(78) setdest 1750 2349 0"
 $ns_ at 58 "$node_(78) setdest 1763 2349 0"
 $ns_ at 59 "$node_(78) setdest 1775 2349 0"
 $ns_ at 60 "$node_(78) setdest 1788 2350 0"
-$node_(79) set X_ 2569
-$node_(79) set Y_ 669
-$node_(79) set Z_ 0
 $ns_ at 0 "$node_(79) setdest 2569 669 0"
 $ns_ at 1 "$node_(79) setdest 2564 665 0"
 $ns_ at 2 "$node_(79) setdest 2559 661 0"
@@ -12198,9 +11957,6 @@ $ns_ at 237 "$node_(79) setdest 609 412 0"
 $ns_ at 238 "$node_(79) setdest 591 412 0"
 $ns_ at 239 "$node_(79) setdest 573 412 0"
 $ns_ at 240 "$node_(79) setdest 556 412 0"
-$node_(80) set X_ 678
-$node_(80) set Y_ 50
-$node_(80) set Z_ 0
 $ns_ at 2 "$node_(80) setdest 678 50 0"
 $ns_ at 3 "$node_(80) setdest 677 65 0"
 $ns_ at 4 "$node_(80) setdest 676 81 0"
@@ -12442,9 +12198,6 @@ $ns_ at 239 "$node_(80) setdest 527 2329 0"
 $ns_ at 240 "$node_(80) setdest 527 2333 0"
 $ns_ at 241 "$node_(80) setdest 526 2337 0"
 $ns_ at 242 "$node_(80) setdest 526 2341 0"
-$node_(81) set X_ 757
-$node_(81) set Y_ 404
-$node_(81) set Z_ 0
 $ns_ at 7 "$node_(81) setdest 757 404 0"
 $ns_ at 8 "$node_(81) setdest 780 404 0"
 $ns_ at 9 "$node_(81) setdest 804 404 0"
@@ -12506,9 +12259,6 @@ $ns_ at 64 "$node_(81) setdest 2110 416 0"
 $ns_ at 65 "$node_(81) setdest 2134 416 0"
 $ns_ at 66 "$node_(81) setdest 2158 416 0"
 $ns_ at 67 "$node_(81) setdest 2182 417 0"
-$node_(82) set X_ 1011
-$node_(82) set Y_ 2327
-$node_(82) set Z_ 0
 $ns_ at 3 "$node_(82) setdest 1011 2327 0"
 $ns_ at 4 "$node_(82) setdest 1032 2327 0"
 $ns_ at 5 "$node_(82) setdest 1054 2328 0"
@@ -12690,9 +12440,6 @@ $ns_ at 180 "$node_(82) setdest 2967 2643 0"
 $ns_ at 181 "$node_(82) setdest 2972 2646 0"
 $ns_ at 182 "$node_(82) setdest 2978 2648 0"
 $ns_ at 183 "$node_(82) setdest 2984 2651 0"
-$node_(83) set X_ 799
-$node_(83) set Y_ 2320
-$node_(83) set Z_ 0
 $ns_ at 8 "$node_(83) setdest 799 2320 0"
 $ns_ at 9 "$node_(83) setdest 812 2320 0"
 $ns_ at 10 "$node_(83) setdest 825 2320 0"
@@ -12754,9 +12501,6 @@ $ns_ at 65 "$node_(83) setdest 1563 2336 0"
 $ns_ at 66 "$node_(83) setdest 1577 2336 0"
 $ns_ at 67 "$node_(83) setdest 1590 2336 0"
 $ns_ at 68 "$node_(83) setdest 1604 2337 0"
-$node_(84) set X_ 2009
-$node_(84) set Y_ 2391
-$node_(84) set Z_ 0
 $ns_ at 0 "$node_(84) setdest 2009 2391 0"
 $ns_ at 1 "$node_(84) setdest 1992 2390 0"
 $ns_ at 2 "$node_(84) setdest 1975 2389 0"
@@ -12818,9 +12562,6 @@ $ns_ at 57 "$node_(84) setdest 1048 2347 0"
 $ns_ at 58 "$node_(84) setdest 1031 2346 0"
 $ns_ at 59 "$node_(84) setdest 1014 2345 0"
 $ns_ at 60 "$node_(84) setdest 997 2345 0"
-$node_(85) set X_ 52
-$node_(85) set Y_ 2297
-$node_(85) set Z_ 0
 $ns_ at 6 "$node_(85) setdest 52 2297 0"
 $ns_ at 7 "$node_(85) setdest 70 2297 0"
 $ns_ at 8 "$node_(85) setdest 89 2298 0"
@@ -12942,9 +12683,6 @@ $ns_ at 123 "$node_(85) setdest 2292 2365 0"
 $ns_ at 124 "$node_(85) setdest 2312 2365 0"
 $ns_ at 125 "$node_(85) setdest 2332 2366 0"
 $ns_ at 126 "$node_(85) setdest 2352 2367 0"
-$node_(86) set X_ 679
-$node_(86) set Y_ 49
-$node_(86) set Z_ 0
 $ns_ at 2 "$node_(86) setdest 679 49 0"
 $ns_ at 3 "$node_(86) setdest 678 63 0"
 $ns_ at 4 "$node_(86) setdest 677 77 0"
@@ -13246,9 +12984,6 @@ $ns_ at 299 "$node_(86) setdest 532 2904 0"
 $ns_ at 300 "$node_(86) setdest 532 2904 0"
 $ns_ at 301 "$node_(86) setdest 532 2904 0"
 $ns_ at 302 "$node_(86) setdest 532 2904 0"
-$node_(87) set X_ 2589
-$node_(87) set Y_ 2386
-$node_(87) set Z_ 0
 $ns_ at 1 "$node_(87) setdest 2589 2386 0"
 $ns_ at 2 "$node_(87) setdest 2562 2385 0"
 $ns_ at 3 "$node_(87) setdest 2535 2384 0"
@@ -13310,9 +13045,6 @@ $ns_ at 58 "$node_(87) setdest 1067 2347 0"
 $ns_ at 59 "$node_(87) setdest 1040 2346 0"
 $ns_ at 60 "$node_(87) setdest 1013 2345 0"
 $ns_ at 61 "$node_(87) setdest 987 2345 0"
-$node_(88) set X_ 690
-$node_(88) set Y_ 212
-$node_(88) set Z_ 0
 $ns_ at 0 "$node_(88) setdest 690 212 0"
 $ns_ at 1 "$node_(88) setdest 698 214 0"
 $ns_ at 2 "$node_(88) setdest 706 217 0"
@@ -13494,9 +13226,6 @@ $ns_ at 177 "$node_(88) setdest 2677 417 0"
 $ns_ at 178 "$node_(88) setdest 2690 417 0"
 $ns_ at 179 "$node_(88) setdest 2703 417 0"
 $ns_ at 180 "$node_(88) setdest 2716 418 0"
-$node_(89) set X_ 2320
-$node_(89) set Y_ 2378
-$node_(89) set Z_ 0
 $ns_ at 0 "$node_(89) setdest 2320 2378 0"
 $ns_ at 1 "$node_(89) setdest 2298 2377 0"
 $ns_ at 2 "$node_(89) setdest 2277 2377 0"
@@ -13678,9 +13407,6 @@ $ns_ at 177 "$node_(89) setdest 160 2944 0"
 $ns_ at 178 "$node_(89) setdest 154 2950 0"
 $ns_ at 179 "$node_(89) setdest 147 2956 0"
 $ns_ at 180 "$node_(89) setdest 141 2962 0"
-$node_(90) set X_ 2228
-$node_(90) set Y_ 430
-$node_(90) set Z_ 0
 $ns_ at 1 "$node_(90) setdest 2228 430 0"
 $ns_ at 2 "$node_(90) setdest 2205 429 0"
 $ns_ at 3 "$node_(90) setdest 2183 429 0"
@@ -13742,9 +13468,6 @@ $ns_ at 58 "$node_(90) setdest 951 412 0"
 $ns_ at 59 "$node_(90) setdest 928 412 0"
 $ns_ at 60 "$node_(90) setdest 906 412 0"
 $ns_ at 61 "$node_(90) setdest 884 412 0"
-$node_(91) set X_ 2642
-$node_(91) set Y_ 436
-$node_(91) set Z_ 0
 $ns_ at 5 "$node_(91) setdest 2642 436 0"
 $ns_ at 6 "$node_(91) setdest 2618 435 0"
 $ns_ at 7 "$node_(91) setdest 2594 435 0"
@@ -13806,9 +13529,6 @@ $ns_ at 62 "$node_(91) setdest 1292 410 0"
 $ns_ at 63 "$node_(91) setdest 1268 409 0"
 $ns_ at 64 "$node_(91) setdest 1244 409 0"
 $ns_ at 65 "$node_(91) setdest 1221 409 0"
-$node_(92) set X_ 2352
-$node_(92) set Y_ 435
-$node_(92) set Z_ 0
 $ns_ at 6 "$node_(92) setdest 2352 435 0"
 $ns_ at 7 "$node_(92) setdest 2341 434 0"
 $ns_ at 8 "$node_(92) setdest 2330 434 0"
@@ -13990,9 +13710,6 @@ $ns_ at 183 "$node_(92) setdest 650 965 0"
 $ns_ at 184 "$node_(92) setdest 647 974 0"
 $ns_ at 185 "$node_(92) setdest 643 983 0"
 $ns_ at 186 "$node_(92) setdest 640 993 0"
-$node_(93) set X_ 2185
-$node_(93) set Y_ 1236
-$node_(93) set Z_ 0
 $ns_ at 1 "$node_(93) setdest 2185 1236 0"
 $ns_ at 2 "$node_(93) setdest 2185 1223 0"
 $ns_ at 3 "$node_(93) setdest 2185 1210 0"
@@ -14054,9 +13771,6 @@ $ns_ at 58 "$node_(93) setdest 2202 514 0"
 $ns_ at 59 "$node_(93) setdest 2202 501 0"
 $ns_ at 60 "$node_(93) setdest 2202 488 0"
 $ns_ at 61 "$node_(93) setdest 2203 476 0"
-$node_(94) set X_ 650
-$node_(94) set Y_ 532
-$node_(94) set Z_ 0
 $ns_ at 0 "$node_(94) setdest 650 532 0"
 $ns_ at 1 "$node_(94) setdest 649 548 0"
 $ns_ at 2 "$node_(94) setdest 648 564 0"
@@ -14178,9 +13892,6 @@ $ns_ at 117 "$node_(94) setdest 553 2274 0"
 $ns_ at 118 "$node_(94) setdest 552 2287 0"
 $ns_ at 119 "$node_(94) setdest 551 2300 0"
 $ns_ at 120 "$node_(94) setdest 551 2314 0"
-$node_(95) set X_ 1918
-$node_(95) set Y_ 421
-$node_(95) set Z_ 0
 $ns_ at 2 "$node_(95) setdest 1918 421 0"
 $ns_ at 3 "$node_(95) setdest 1899 420 0"
 $ns_ at 4 "$node_(95) setdest 1881 420 0"
@@ -14302,9 +14013,6 @@ $ns_ at 119 "$node_(95) setdest 563 442 0"
 $ns_ at 120 "$node_(95) setdest 558 443 0"
 $ns_ at 121 "$node_(95) setdest 553 443 0"
 $ns_ at 122 "$node_(95) setdest 549 444 0"
-$node_(96) set X_ 536
-$node_(96) set Y_ 2366
-$node_(96) set Z_ 0
 $ns_ at 5 "$node_(96) setdest 536 2366 0"
 $ns_ at 6 "$node_(96) setdest 536 2354 0"
 $ns_ at 7 "$node_(96) setdest 537 2343 0"
@@ -14486,9 +14194,6 @@ $ns_ at 182 "$node_(96) setdest 539 88 0"
 $ns_ at 183 "$node_(96) setdest 540 75 0"
 $ns_ at 184 "$node_(96) setdest 540 61 0"
 $ns_ at 185 "$node_(96) setdest 541 48 0"
-$node_(97) set X_ 1760
-$node_(97) set Y_ 679
-$node_(97) set Z_ 0
 $ns_ at 0 "$node_(97) setdest 1760 679 0"
 $ns_ at 1 "$node_(97) setdest 1752 674 0"
 $ns_ at 2 "$node_(97) setdest 1744 670 0"
@@ -14610,9 +14315,6 @@ $ns_ at 117 "$node_(97) setdest 274 410 0"
 $ns_ at 118 "$node_(97) setdest 256 410 0"
 $ns_ at 119 "$node_(97) setdest 238 410 0"
 $ns_ at 120 "$node_(97) setdest 221 410 0"
-$node_(98) set X_ 1624
-$node_(98) set Y_ 2339
-$node_(98) set Z_ 0
 $ns_ at 5 "$node_(98) setdest 1624 2339 0"
 $ns_ at 6 "$node_(98) setdest 1644 2339 0"
 $ns_ at 7 "$node_(98) setdest 1664 2339 0"
@@ -14674,9 +14376,6 @@ $ns_ at 62 "$node_(98) setdest 2774 2347 0"
 $ns_ at 63 "$node_(98) setdest 2794 2347 0"
 $ns_ at 64 "$node_(98) setdest 2814 2347 0"
 $ns_ at 65 "$node_(98) setdest 2835 2348 0"
-$node_(99) set X_ 2839
-$node_(99) set Y_ 443
-$node_(99) set Z_ 0
 $ns_ at 3 "$node_(99) setdest 2839 443 0"
 $ns_ at 4 "$node_(99) setdest 2817 442 0"
 $ns_ at 5 "$node_(99) setdest 2796 441 0"
@@ -14798,9 +14497,6 @@ $ns_ at 120 "$node_(99) setdest 422 408 0"
 $ns_ at 121 "$node_(99) setdest 402 408 0"
 $ns_ at 122 "$node_(99) setdest 382 408 0"
 $ns_ at 123 "$node_(99) setdest 362 408 0"
-$node_(100) set X_ 608
-$node_(100) set Y_ 1681
-$node_(100) set Z_ 0
 $ns_ at 0 "$node_(100) setdest 608 1681 0"
 $ns_ at 1 "$node_(100) setdest 607 1689 0"
 $ns_ at 2 "$node_(100) setdest 607 1698 0"
@@ -14982,9 +14678,6 @@ $ns_ at 177 "$node_(100) setdest 2479 2374 0"
 $ns_ at 178 "$node_(100) setdest 2499 2374 0"
 $ns_ at 179 "$node_(100) setdest 2519 2375 0"
 $ns_ at 180 "$node_(100) setdest 2540 2376 0"
-$node_(101) set X_ 503
-$node_(101) set Y_ 1284
-$node_(101) set Z_ 0
 $ns_ at 1 "$node_(101) setdest 503 1284 0"
 $ns_ at 2 "$node_(101) setdest 503 1283 0"
 $ns_ at 3 "$node_(101) setdest 504 1283 0"
@@ -15286,9 +14979,6 @@ $ns_ at 298 "$node_(101) setdest 2689 2375 0"
 $ns_ at 299 "$node_(101) setdest 2711 2376 0"
 $ns_ at 300 "$node_(101) setdest 2732 2377 0"
 $ns_ at 301 "$node_(101) setdest 2754 2378 0"
-$node_(102) set X_ 2994
-$node_(102) set Y_ 2608
-$node_(102) set Z_ 0
 $ns_ at 7 "$node_(102) setdest 2994 2608 0"
 $ns_ at 8 "$node_(102) setdest 2991 2613 0"
 $ns_ at 9 "$node_(102) setdest 2989 2619 0"
@@ -15350,9 +15040,6 @@ $ns_ at 64 "$node_(102) setdest 2859 2930 0"
 $ns_ at 65 "$node_(102) setdest 2856 2935 0"
 $ns_ at 66 "$node_(102) setdest 2854 2941 0"
 $ns_ at 67 "$node_(102) setdest 2852 2947 0"
-$node_(103) set X_ 1089
-$node_(103) set Y_ 399
-$node_(103) set Z_ 0
 $ns_ at 0 "$node_(103) setdest 1089 399 0"
 $ns_ at 1 "$node_(103) setdest 1109 399 0"
 $ns_ at 2 "$node_(103) setdest 1130 399 0"
@@ -15414,9 +15101,6 @@ $ns_ at 57 "$node_(103) setdest 2267 418 0"
 $ns_ at 58 "$node_(103) setdest 2287 419 0"
 $ns_ at 59 "$node_(103) setdest 2308 419 0"
 $ns_ at 60 "$node_(103) setdest 2329 420 0"
-$node_(104) set X_ 1847
-$node_(104) set Y_ 2369
-$node_(104) set Z_ 0
 $ns_ at 6 "$node_(104) setdest 1847 2369 0"
 $ns_ at 7 "$node_(104) setdest 1820 2368 0"
 $ns_ at 8 "$node_(104) setdest 1793 2367 0"
@@ -15478,9 +15162,6 @@ $ns_ at 63 "$node_(104) setdest 322 2324 0"
 $ns_ at 64 "$node_(104) setdest 295 2323 0"
 $ns_ at 65 "$node_(104) setdest 268 2322 0"
 $ns_ at 66 "$node_(104) setdest 242 2322 0"
-$node_(105) set X_ 502
-$node_(105) set Y_ 2988
-$node_(105) set Z_ 0
 $ns_ at 7 "$node_(105) setdest 502 2988 0"
 $ns_ at 8 "$node_(105) setdest 502 2978 0"
 $ns_ at 9 "$node_(105) setdest 502 2968 0"
@@ -15602,9 +15283,6 @@ $ns_ at 124 "$node_(105) setdest 954 2319 0"
 $ns_ at 125 "$node_(105) setdest 961 2318 0"
 $ns_ at 126 "$node_(105) setdest 969 2317 0"
 $ns_ at 127 "$node_(105) setdest 977 2316 0"
-$node_(106) set X_ 674
-$node_(106) set Y_ 177
-$node_(106) set Z_ 0
 $ns_ at 4 "$node_(106) setdest 674 177 0"
 $ns_ at 5 "$node_(106) setdest 673 194 0"
 $ns_ at 6 "$node_(106) setdest 672 211 0"
@@ -15786,9 +15464,6 @@ $ns_ at 181 "$node_(106) setdest 136 2319 0"
 $ns_ at 182 "$node_(106) setdest 128 2322 0"
 $ns_ at 183 "$node_(106) setdest 121 2325 0"
 $ns_ at 184 "$node_(106) setdest 114 2328 0"
-$node_(107) set X_ 1793
-$node_(107) set Y_ 418
-$node_(107) set Z_ 0
 $ns_ at 3 "$node_(107) setdest 1793 418 0"
 $ns_ at 4 "$node_(107) setdest 1770 417 0"
 $ns_ at 5 "$node_(107) setdest 1748 417 0"
@@ -15850,9 +15525,6 @@ $ns_ at 60 "$node_(107) setdest 511 412 0"
 $ns_ at 61 "$node_(107) setdest 488 412 0"
 $ns_ at 62 "$node_(107) setdest 466 412 0"
 $ns_ at 63 "$node_(107) setdest 444 412 0"
-$node_(108) set X_ 508
-$node_(108) set Y_ 2651
-$node_(108) set Z_ 0
 $ns_ at 0 "$node_(108) setdest 508 2651 0"
 $ns_ at 1 "$node_(108) setdest 508 2648 0"
 $ns_ at 2 "$node_(108) setdest 508 2646 0"
@@ -16154,9 +15826,6 @@ $ns_ at 297 "$node_(108) setdest 305 445 0"
 $ns_ at 298 "$node_(108) setdest 302 437 0"
 $ns_ at 299 "$node_(108) setdest 298 429 0"
 $ns_ at 300 "$node_(108) setdest 295 422 0"
-$node_(109) set X_ 628
-$node_(109) set Y_ 2318
-$node_(109) set Z_ 0
 $ns_ at 4 "$node_(109) setdest 628 2318 0"
 $ns_ at 5 "$node_(109) setdest 650 2318 0"
 $ns_ at 6 "$node_(109) setdest 673 2319 0"
@@ -16278,9 +15947,6 @@ $ns_ at 121 "$node_(109) setdest 2829 2352 0"
 $ns_ at 122 "$node_(109) setdest 2844 2352 0"
 $ns_ at 123 "$node_(109) setdest 2858 2352 0"
 $ns_ at 124 "$node_(109) setdest 2873 2352 0"
-$node_(110) set X_ 555
-$node_(110) set Y_ 2241
-$node_(110) set Z_ 0
 $ns_ at 5 "$node_(110) setdest 555 2241 0"
 $ns_ at 6 "$node_(110) setdest 554 2228 0"
 $ns_ at 7 "$node_(110) setdest 554 2215 0"
@@ -16522,9 +16188,6 @@ $ns_ at 242 "$node_(110) setdest 298 264 0"
 $ns_ at 243 "$node_(110) setdest 295 267 0"
 $ns_ at 244 "$node_(110) setdest 292 269 0"
 $ns_ at 245 "$node_(110) setdest 289 272 0"
-$node_(111) set X_ 1729
-$node_(111) set Y_ 2714
-$node_(111) set Z_ 0
 $ns_ at 1 "$node_(111) setdest 1729 2714 0"
 $ns_ at 2 "$node_(111) setdest 1719 2708 0"
 $ns_ at 3 "$node_(111) setdest 1709 2702 0"
@@ -16706,9 +16369,6 @@ $ns_ at 178 "$node_(111) setdest 507 1305 0"
 $ns_ at 179 "$node_(111) setdest 506 1292 0"
 $ns_ at 180 "$node_(111) setdest 505 1280 0"
 $ns_ at 181 "$node_(111) setdest 505 1268 0"
-$node_(112) set X_ 665
-$node_(112) set Y_ 405
-$node_(112) set Z_ 0
 $ns_ at 3 "$node_(112) setdest 665 405 0"
 $ns_ at 4 "$node_(112) setdest 664 419 0"
 $ns_ at 5 "$node_(112) setdest 663 434 0"
@@ -17010,9 +16670,6 @@ $ns_ at 300 "$node_(112) setdest 725 2970 0"
 $ns_ at 301 "$node_(112) setdest 728 2971 0"
 $ns_ at 302 "$node_(112) setdest 731 2972 0"
 $ns_ at 303 "$node_(112) setdest 735 2974 0"
-$node_(113) set X_ 2283
-$node_(113) set Y_ 431
-$node_(113) set Z_ 0
 $ns_ at 1 "$node_(113) setdest 2283 431 0"
 $ns_ at 2 "$node_(113) setdest 2265 430 0"
 $ns_ at 3 "$node_(113) setdest 2247 430 0"
@@ -17134,9 +16791,6 @@ $ns_ at 118 "$node_(113) setdest 161 405 0"
 $ns_ at 119 "$node_(113) setdest 142 405 0"
 $ns_ at 120 "$node_(113) setdest 124 405 0"
 $ns_ at 121 "$node_(113) setdest 106 405 0"
-$node_(114) set X_ 409
-$node_(114) set Y_ 2247
-$node_(114) set Z_ 0
 $ns_ at 0 "$node_(114) setdest 409 2247 0"
 $ns_ at 1 "$node_(114) setdest 420 2248 0"
 $ns_ at 2 "$node_(114) setdest 432 2249 0"
@@ -17198,9 +16852,6 @@ $ns_ at 57 "$node_(114) setdest 1087 2323 0"
 $ns_ at 58 "$node_(114) setdest 1099 2324 0"
 $ns_ at 59 "$node_(114) setdest 1111 2325 0"
 $ns_ at 60 "$node_(114) setdest 1123 2327 0"
-$node_(115) set X_ 565
-$node_(115) set Y_ 1993
-$node_(115) set Z_ 0
 $ns_ at 5 "$node_(115) setdest 565 1993 0"
 $ns_ at 6 "$node_(115) setdest 564 1979 0"
 $ns_ at 7 "$node_(115) setdest 563 1965 0"
@@ -17382,9 +17033,6 @@ $ns_ at 182 "$node_(115) setdest 542 217 0"
 $ns_ at 183 "$node_(115) setdest 542 209 0"
 $ns_ at 184 "$node_(115) setdest 542 201 0"
 $ns_ at 185 "$node_(115) setdest 543 192 0"
-$node_(116) set X_ 2849
-$node_(116) set Y_ 455
-$node_(116) set Z_ 0
 $ns_ at 8 "$node_(116) setdest 2849 455 0"
 $ns_ at 9 "$node_(116) setdest 2830 454 0"
 $ns_ at 10 "$node_(116) setdest 2812 453 0"
@@ -17446,9 +17094,6 @@ $ns_ at 65 "$node_(116) setdest 1816 417 0"
 $ns_ at 66 "$node_(116) setdest 1798 416 0"
 $ns_ at 67 "$node_(116) setdest 1780 415 0"
 $ns_ at 68 "$node_(116) setdest 1762 415 0"
-$node_(117) set X_ 2206
-$node_(117) set Y_ 2356
-$node_(117) set Z_ 0
 $ns_ at 1 "$node_(117) setdest 2206 2356 0"
 $ns_ at 2 "$node_(117) setdest 2212 2358 0"
 $ns_ at 3 "$node_(117) setdest 2219 2361 0"
@@ -17570,9 +17215,6 @@ $ns_ at 118 "$node_(117) setdest 2966 2675 0"
 $ns_ at 119 "$node_(117) setdest 2973 2678 0"
 $ns_ at 120 "$node_(117) setdest 2979 2681 0"
 $ns_ at 121 "$node_(117) setdest 2986 2684 0"
-$node_(118) set X_ 2860
-$node_(118) set Y_ 2447
-$node_(118) set Z_ 0
 $ns_ at 2 "$node_(118) setdest 2860 2447 0"
 $ns_ at 3 "$node_(118) setdest 2847 2447 0"
 $ns_ at 4 "$node_(118) setdest 2835 2448 0"
@@ -17694,9 +17336,6 @@ $ns_ at 119 "$node_(118) setdest 2112 2954 0"
 $ns_ at 120 "$node_(118) setdest 2111 2962 0"
 $ns_ at 121 "$node_(118) setdest 2111 2970 0"
 $ns_ at 122 "$node_(118) setdest 2111 2978 0"
-$node_(119) set X_ 493
-$node_(119) set Y_ 401
-$node_(119) set Z_ 0
 $ns_ at 5 "$node_(119) setdest 493 401 0"
 $ns_ at 6 "$node_(119) setdest 512 401 0"
 $ns_ at 7 "$node_(119) setdest 531 401 0"
@@ -17818,9 +17457,6 @@ $ns_ at 122 "$node_(119) setdest 2194 416 0"
 $ns_ at 123 "$node_(119) setdest 2203 416 0"
 $ns_ at 124 "$node_(119) setdest 2213 416 0"
 $ns_ at 125 "$node_(119) setdest 2223 417 0"
-$node_(120) set X_ 923
-$node_(120) set Y_ 404
-$node_(120) set Z_ 0
 $ns_ at 8 "$node_(120) setdest 923 404 0"
 $ns_ at 9 "$node_(120) setdest 946 404 0"
 $ns_ at 10 "$node_(120) setdest 969 404 0"
@@ -17882,9 +17518,6 @@ $ns_ at 65 "$node_(120) setdest 2252 421 0"
 $ns_ at 66 "$node_(120) setdest 2275 421 0"
 $ns_ at 67 "$node_(120) setdest 2298 421 0"
 $ns_ at 68 "$node_(120) setdest 2322 422 0"
-$node_(121) set X_ 2772
-$node_(121) set Y_ 443
-$node_(121) set Z_ 0
 $ns_ at 8 "$node_(121) setdest 2772 443 0"
 $ns_ at 9 "$node_(121) setdest 2751 442 0"
 $ns_ at 10 "$node_(121) setdest 2731 442 0"
@@ -17946,9 +17579,6 @@ $ns_ at 65 "$node_(121) setdest 1606 417 0"
 $ns_ at 66 "$node_(121) setdest 1585 416 0"
 $ns_ at 67 "$node_(121) setdest 1565 416 0"
 $ns_ at 68 "$node_(121) setdest 1545 416 0"
-$node_(122) set X_ 530
-$node_(122) set Y_ 2501
-$node_(122) set Z_ 0
 $ns_ at 1 "$node_(122) setdest 530 2501 0"
 $ns_ at 2 "$node_(122) setdest 537 2499 0"
 $ns_ at 3 "$node_(122) setdest 544 2498 0"
@@ -18130,9 +17760,6 @@ $ns_ at 178 "$node_(122) setdest 2623 2376 0"
 $ns_ at 179 "$node_(122) setdest 2644 2376 0"
 $ns_ at 180 "$node_(122) setdest 2666 2377 0"
 $ns_ at 181 "$node_(122) setdest 2688 2378 0"
-$node_(123) set X_ 1411
-$node_(123) set Y_ 402
-$node_(123) set Z_ 0
 $ns_ at 7 "$node_(123) setdest 1411 402 0"
 $ns_ at 8 "$node_(123) setdest 1429 402 0"
 $ns_ at 9 "$node_(123) setdest 1447 402 0"
@@ -18194,9 +17821,6 @@ $ns_ at 64 "$node_(123) setdest 2459 414 0"
 $ns_ at 65 "$node_(123) setdest 2478 414 0"
 $ns_ at 66 "$node_(123) setdest 2496 414 0"
 $ns_ at 67 "$node_(123) setdest 2515 415 0"
-$node_(124) set X_ 934
-$node_(124) set Y_ 395
-$node_(124) set Z_ 0
 $ns_ at 0 "$node_(124) setdest 934 395 0"
 $ns_ at 1 "$node_(124) setdest 953 395 0"
 $ns_ at 2 "$node_(124) setdest 972 395 0"
@@ -18258,9 +17882,6 @@ $ns_ at 57 "$node_(124) setdest 2030 413 0"
 $ns_ at 58 "$node_(124) setdest 2049 413 0"
 $ns_ at 59 "$node_(124) setdest 2068 413 0"
 $ns_ at 60 "$node_(124) setdest 2088 414 0"
-$node_(125) set X_ 156
-$node_(125) set Y_ 397
-$node_(125) set Z_ 0
 $ns_ at 4 "$node_(125) setdest 156 397 0"
 $ns_ at 5 "$node_(125) setdest 178 397 0"
 $ns_ at 6 "$node_(125) setdest 201 397 0"
@@ -18382,9 +18003,6 @@ $ns_ at 121 "$node_(125) setdest 2915 428 0"
 $ns_ at 122 "$node_(125) setdest 2940 429 0"
 $ns_ at 123 "$node_(125) setdest 2964 429 0"
 $ns_ at 124 "$node_(125) setdest 2989 430 0"
-$node_(126) set X_ 662
-$node_(126) set Y_ 467
-$node_(126) set Z_ 0
 $ns_ at 7 "$node_(126) setdest 662 467 0"
 $ns_ at 8 "$node_(126) setdest 661 482 0"
 $ns_ at 9 "$node_(126) setdest 660 498 0"
@@ -18506,9 +18124,6 @@ $ns_ at 124 "$node_(126) setdest 575 2127 0"
 $ns_ at 125 "$node_(126) setdest 575 2140 0"
 $ns_ at 126 "$node_(126) setdest 574 2153 0"
 $ns_ at 127 "$node_(126) setdest 574 2166 0"
-$node_(127) set X_ 735
-$node_(127) set Y_ 391
-$node_(127) set Z_ 0
 $ns_ at 6 "$node_(127) setdest 735 391 0"
 $ns_ at 7 "$node_(127) setdest 733 401 0"
 $ns_ at 8 "$node_(127) setdest 732 411 0"
@@ -18690,9 +18305,6 @@ $ns_ at 183 "$node_(127) setdest 582 2224 0"
 $ns_ at 184 "$node_(127) setdest 582 2235 0"
 $ns_ at 185 "$node_(127) setdest 582 2246 0"
 $ns_ at 186 "$node_(127) setdest 582 2257 0"
-$node_(128) set X_ 1247
-$node_(128) set Y_ 407
-$node_(128) set Z_ 0
 $ns_ at 0 "$node_(128) setdest 1247 407 0"
 $ns_ at 1 "$node_(128) setdest 1258 407 0"
 $ns_ at 2 "$node_(128) setdest 1270 407 0"
@@ -18754,9 +18366,6 @@ $ns_ at 57 "$node_(128) setdest 1916 415 0"
 $ns_ at 58 "$node_(128) setdest 1928 415 0"
 $ns_ at 59 "$node_(128) setdest 1940 415 0"
 $ns_ at 60 "$node_(128) setdest 1952 416 0"
-$node_(129) set X_ 426
-$node_(129) set Y_ 2292
-$node_(129) set Z_ 0
 $ns_ at 4 "$node_(129) setdest 426 2292 0"
 $ns_ at 5 "$node_(129) setdest 427 2303 0"
 $ns_ at 6 "$node_(129) setdest 429 2315 0"
@@ -18818,9 +18427,6 @@ $ns_ at 61 "$node_(129) setdest 522 2957 0"
 $ns_ at 62 "$node_(129) setdest 524 2969 0"
 $ns_ at 63 "$node_(129) setdest 526 2981 0"
 $ns_ at 64 "$node_(129) setdest 528 2993 0"
-$node_(130) set X_ 753
-$node_(130) set Y_ 2319
-$node_(130) set Z_ 0
 $ns_ at 3 "$node_(130) setdest 753 2319 0"
 $ns_ at 4 "$node_(130) setdest 775 2319 0"
 $ns_ at 5 "$node_(130) setdest 798 2320 0"
@@ -18942,9 +18548,6 @@ $ns_ at 120 "$node_(130) setdest 2890 2335 0"
 $ns_ at 121 "$node_(130) setdest 2904 2334 0"
 $ns_ at 122 "$node_(130) setdest 2917 2334 0"
 $ns_ at 123 "$node_(130) setdest 2931 2334 0"
-$node_(131) set X_ 151
-$node_(131) set Y_ 397
-$node_(131) set Z_ 0
 $ns_ at 6 "$node_(131) setdest 151 397 0"
 $ns_ at 7 "$node_(131) setdest 172 397 0"
 $ns_ at 8 "$node_(131) setdest 193 397 0"
@@ -19066,9 +18669,6 @@ $ns_ at 123 "$node_(131) setdest 2372 412 0"
 $ns_ at 124 "$node_(131) setdest 2389 412 0"
 $ns_ at 125 "$node_(131) setdest 2406 412 0"
 $ns_ at 126 "$node_(131) setdest 2423 413 0"
-$node_(132) set X_ 2223
-$node_(132) set Y_ 367
-$node_(132) set Z_ 0
 $ns_ at 0 "$node_(132) setdest 2223 367 0"
 $ns_ at 1 "$node_(132) setdest 2223 367 0"
 $ns_ at 2 "$node_(132) setdest 2223 367 0"
@@ -19490,9 +19090,6 @@ $ns_ at 417 "$node_(132) setdest 608 2321 0"
 $ns_ at 418 "$node_(132) setdest 609 2328 0"
 $ns_ at 419 "$node_(132) setdest 609 2335 0"
 $ns_ at 420 "$node_(132) setdest 610 2343 0"
-$node_(133) set X_ 543
-$node_(133) set Y_ 2267
-$node_(133) set Z_ 0
 $ns_ at 5 "$node_(133) setdest 543 2267 0"
 $ns_ at 6 "$node_(133) setdest 543 2253 0"
 $ns_ at 7 "$node_(133) setdest 544 2240 0"
@@ -19614,9 +19211,6 @@ $ns_ at 122 "$node_(133) setdest 92 1299 0"
 $ns_ at 123 "$node_(133) setdest 84 1296 0"
 $ns_ at 124 "$node_(133) setdest 75 1293 0"
 $ns_ at 125 "$node_(133) setdest 67 1290 0"
-$node_(134) set X_ 2450
-$node_(134) set Y_ 2390
-$node_(134) set Z_ 0
 $ns_ at 0 "$node_(134) setdest 2450 2390 0"
 $ns_ at 1 "$node_(134) setdest 2427 2389 0"
 $ns_ at 2 "$node_(134) setdest 2405 2388 0"
@@ -19678,9 +19272,6 @@ $ns_ at 57 "$node_(134) setdest 1167 2348 0"
 $ns_ at 58 "$node_(134) setdest 1145 2347 0"
 $ns_ at 59 "$node_(134) setdest 1122 2346 0"
 $ns_ at 60 "$node_(134) setdest 1100 2346 0"
-$node_(135) set X_ 2873
-$node_(135) set Y_ 2887
-$node_(135) set Z_ 0
 $ns_ at 2 "$node_(135) setdest 2873 2887 0"
 $ns_ at 3 "$node_(135) setdest 2857 2882 0"
 $ns_ at 4 "$node_(135) setdest 2841 2878 0"
@@ -19802,9 +19393,6 @@ $ns_ at 119 "$node_(135) setdest 1007 2364 0"
 $ns_ at 120 "$node_(135) setdest 991 2359 0"
 $ns_ at 121 "$node_(135) setdest 975 2355 0"
 $ns_ at 122 "$node_(135) setdest 960 2351 0"
-$node_(136) set X_ 1801
-$node_(136) set Y_ 416
-$node_(136) set Z_ 0
 $ns_ at 1 "$node_(136) setdest 1801 416 0"
 $ns_ at 2 "$node_(136) setdest 1781 415 0"
 $ns_ at 3 "$node_(136) setdest 1762 415 0"
@@ -19866,9 +19454,6 @@ $ns_ at 58 "$node_(136) setdest 706 411 0"
 $ns_ at 59 "$node_(136) setdest 687 411 0"
 $ns_ at 60 "$node_(136) setdest 668 411 0"
 $ns_ at 61 "$node_(136) setdest 649 411 0"
-$node_(137) set X_ 571
-$node_(137) set Y_ 1975
-$node_(137) set Z_ 0
 $ns_ at 0 "$node_(137) setdest 571 1975 0"
 $ns_ at 1 "$node_(137) setdest 570 1983 0"
 $ns_ at 2 "$node_(137) setdest 570 1991 0"
@@ -19930,9 +19515,6 @@ $ns_ at 57 "$node_(137) setdest 547 2433 0"
 $ns_ at 58 "$node_(137) setdest 546 2441 0"
 $ns_ at 59 "$node_(137) setdest 546 2449 0"
 $ns_ at 60 "$node_(137) setdest 546 2458 0"
-$node_(138) set X_ 1805
-$node_(138) set Y_ 437
-$node_(138) set Z_ 0
 $ns_ at 0 "$node_(138) setdest 1805 437 0"
 $ns_ at 1 "$node_(138) setdest 1788 436 0"
 $ns_ at 2 "$node_(138) setdest 1771 436 0"
@@ -19994,9 +19576,6 @@ $ns_ at 57 "$node_(138) setdest 839 413 0"
 $ns_ at 58 "$node_(138) setdest 822 412 0"
 $ns_ at 59 "$node_(138) setdest 805 412 0"
 $ns_ at 60 "$node_(138) setdest 789 412 0"
-$node_(139) set X_ 695
-$node_(139) set Y_ 157
-$node_(139) set Z_ 0
 $ns_ at 2 "$node_(139) setdest 695 157 0"
 $ns_ at 3 "$node_(139) setdest 699 160 0"
 $ns_ at 4 "$node_(139) setdest 704 164 0"
@@ -20358,9 +19937,6 @@ $ns_ at 359 "$node_(139) setdest 2983 2588 0"
 $ns_ at 360 "$node_(139) setdest 2986 2597 0"
 $ns_ at 361 "$node_(139) setdest 2990 2606 0"
 $ns_ at 362 "$node_(139) setdest 2994 2616 0"
-$node_(140) set X_ 354
-$node_(140) set Y_ 397
-$node_(140) set Z_ 0
 $ns_ at 6 "$node_(140) setdest 354 397 0"
 $ns_ at 7 "$node_(140) setdest 372 397 0"
 $ns_ at 8 "$node_(140) setdest 391 397 0"
@@ -20482,9 +20058,6 @@ $ns_ at 123 "$node_(140) setdest 2464 423 0"
 $ns_ at 124 "$node_(140) setdest 2481 424 0"
 $ns_ at 125 "$node_(140) setdest 2498 424 0"
 $ns_ at 126 "$node_(140) setdest 2516 425 0"
-$node_(141) set X_ 2211
-$node_(141) set Y_ 433
-$node_(141) set Z_ 0
 $ns_ at 4 "$node_(141) setdest 2211 433 0"
 $ns_ at 5 "$node_(141) setdest 2188 432 0"
 $ns_ at 6 "$node_(141) setdest 2166 432 0"
@@ -20546,9 +20119,6 @@ $ns_ at 61 "$node_(141) setdest 948 421 0"
 $ns_ at 62 "$node_(141) setdest 926 421 0"
 $ns_ at 63 "$node_(141) setdest 904 421 0"
 $ns_ at 64 "$node_(141) setdest 882 421 0"
-$node_(142) set X_ 533
-$node_(142) set Y_ 2346
-$node_(142) set Z_ 0
 $ns_ at 0 "$node_(142) setdest 533 2346 0"
 $ns_ at 1 "$node_(142) setdest 533 2333 0"
 $ns_ at 2 "$node_(142) setdest 534 2320 0"
@@ -20670,9 +20240,6 @@ $ns_ at 117 "$node_(142) setdest 520 768 0"
 $ns_ at 118 "$node_(142) setdest 519 754 0"
 $ns_ at 119 "$node_(142) setdest 518 739 0"
 $ns_ at 120 "$node_(142) setdest 517 725 0"
-$node_(143) set X_ 2225
-$node_(143) set Y_ 352
-$node_(143) set Z_ 0
 $ns_ at 4 "$node_(143) setdest 2225 352 0"
 $ns_ at 5 "$node_(143) setdest 2224 353 0"
 $ns_ at 6 "$node_(143) setdest 2224 354 0"
@@ -20974,9 +20541,6 @@ $ns_ at 301 "$node_(143) setdest 572 2123 0"
 $ns_ at 302 "$node_(143) setdest 572 2136 0"
 $ns_ at 303 "$node_(143) setdest 571 2148 0"
 $ns_ at 304 "$node_(143) setdest 571 2161 0"
-$node_(144) set X_ 197
-$node_(144) set Y_ 2285
-$node_(144) set Z_ 0
 $ns_ at 3 "$node_(144) setdest 197 2285 0"
 $ns_ at 4 "$node_(144) setdest 203 2276 0"
 $ns_ at 5 "$node_(144) setdest 209 2268 0"
@@ -21158,9 +20722,6 @@ $ns_ at 180 "$node_(144) setdest 528 177 0"
 $ns_ at 181 "$node_(144) setdest 528 164 0"
 $ns_ at 182 "$node_(144) setdest 528 151 0"
 $ns_ at 183 "$node_(144) setdest 529 138 0"
-$node_(145) set X_ 2767
-$node_(145) set Y_ 446
-$node_(145) set Z_ 0
 $ns_ at 1 "$node_(145) setdest 2767 446 0"
 $ns_ at 2 "$node_(145) setdest 2745 445 0"
 $ns_ at 3 "$node_(145) setdest 2723 444 0"
@@ -21282,9 +20843,6 @@ $ns_ at 118 "$node_(145) setdest 262 406 0"
 $ns_ at 119 "$node_(145) setdest 241 406 0"
 $ns_ at 120 "$node_(145) setdest 220 406 0"
 $ns_ at 121 "$node_(145) setdest 200 406 0"
-$node_(146) set X_ 682
-$node_(146) set Y_ 50
-$node_(146) set Z_ 0
 $ns_ at 7 "$node_(146) setdest 682 50 0"
 $ns_ at 8 "$node_(146) setdest 681 65 0"
 $ns_ at 9 "$node_(146) setdest 680 81 0"
@@ -21406,9 +20964,6 @@ $ns_ at 124 "$node_(146) setdest 582 1888 0"
 $ns_ at 125 "$node_(146) setdest 581 1904 0"
 $ns_ at 126 "$node_(146) setdest 580 1920 0"
 $ns_ at 127 "$node_(146) setdest 580 1936 0"
-$node_(147) set X_ 2418
-$node_(147) set Y_ 436
-$node_(147) set Z_ 0
 $ns_ at 0 "$node_(147) setdest 2418 436 0"
 $ns_ at 1 "$node_(147) setdest 2399 435 0"
 $ns_ at 2 "$node_(147) setdest 2381 435 0"
@@ -21590,9 +21145,6 @@ $ns_ at 177 "$node_(147) setdest 530 46 0"
 $ns_ at 178 "$node_(147) setdest 530 39 0"
 $ns_ at 179 "$node_(147) setdest 531 32 0"
 $ns_ at 180 "$node_(147) setdest 532 26 0"
-$node_(148) set X_ 559
-$node_(148) set Y_ 2316
-$node_(148) set Z_ 0
 $ns_ at 1 "$node_(148) setdest 559 2316 0"
 $ns_ at 2 "$node_(148) setdest 583 2316 0"
 $ns_ at 3 "$node_(148) setdest 607 2317 0"
@@ -21654,9 +21206,6 @@ $ns_ at 58 "$node_(148) setdest 1939 2358 0"
 $ns_ at 59 "$node_(148) setdest 1963 2359 0"
 $ns_ at 60 "$node_(148) setdest 1987 2360 0"
 $ns_ at 61 "$node_(148) setdest 2012 2361 0"
-$node_(149) set X_ 683
-$node_(149) set Y_ 130
-$node_(149) set Z_ 0
 $ns_ at 7 "$node_(149) setdest 683 130 0"
 $ns_ at 8 "$node_(149) setdest 692 134 0"
 $ns_ at 9 "$node_(149) setdest 701 138 0"
@@ -21778,9 +21327,6 @@ $ns_ at 124 "$node_(149) setdest 2506 413 0"
 $ns_ at 125 "$node_(149) setdest 2528 414 0"
 $ns_ at 126 "$node_(149) setdest 2550 414 0"
 $ns_ at 127 "$node_(149) setdest 2573 415 0"
-$node_(150) set X_ 539
-$node_(150) set Y_ 2382
-$node_(150) set Z_ 0
 $ns_ at 0 "$node_(150) setdest 539 2382 0"
 $ns_ at 1 "$node_(150) setdest 539 2380 0"
 $ns_ at 2 "$node_(150) setdest 539 2379 0"
@@ -21962,9 +21508,6 @@ $ns_ at 177 "$node_(150) setdest 2485 2352 0"
 $ns_ at 178 "$node_(150) setdest 2506 2353 0"
 $ns_ at 179 "$node_(150) setdest 2527 2353 0"
 $ns_ at 180 "$node_(150) setdest 2549 2354 0"
-$node_(151) set X_ 508
-$node_(151) set Y_ 2934
-$node_(151) set Z_ 0
 $ns_ at 0 "$node_(151) setdest 508 2934 0"
 $ns_ at 1 "$node_(151) setdest 508 2918 0"
 $ns_ at 2 "$node_(151) setdest 509 2903 0"
@@ -22326,9 +21869,6 @@ $ns_ at 357 "$node_(151) setdest 535 104 0"
 $ns_ at 358 "$node_(151) setdest 535 85 0"
 $ns_ at 359 "$node_(151) setdest 536 66 0"
 $ns_ at 360 "$node_(151) setdest 537 47 0"
-$node_(152) set X_ 2546
-$node_(152) set Y_ 2388
-$node_(152) set Z_ 0
 $ns_ at 5 "$node_(152) setdest 2546 2388 0"
 $ns_ at 6 "$node_(152) setdest 2526 2387 0"
 $ns_ at 7 "$node_(152) setdest 2506 2386 0"
@@ -22450,9 +21990,6 @@ $ns_ at 122 "$node_(152) setdest 170 2322 0"
 $ns_ at 123 "$node_(152) setdest 149 2322 0"
 $ns_ at 124 "$node_(152) setdest 128 2321 0"
 $ns_ at 125 "$node_(152) setdest 108 2321 0"
-$node_(153) set X_ 2223
-$node_(153) set Y_ 360
-$node_(153) set Z_ 0
 $ns_ at 0 "$node_(153) setdest 2223 360 0"
 $ns_ at 1 "$node_(153) setdest 2223 360 0"
 $ns_ at 2 "$node_(153) setdest 2223 360 0"
@@ -22874,9 +22411,6 @@ $ns_ at 417 "$node_(153) setdest 547 2578 0"
 $ns_ at 418 "$node_(153) setdest 547 2585 0"
 $ns_ at 419 "$node_(153) setdest 546 2593 0"
 $ns_ at 420 "$node_(153) setdest 546 2601 0"
-$node_(154) set X_ 952
-$node_(154) set Y_ 2329
-$node_(154) set Z_ 0
 $ns_ at 3 "$node_(154) setdest 952 2329 0"
 $ns_ at 4 "$node_(154) setdest 975 2329 0"
 $ns_ at 5 "$node_(154) setdest 999 2330 0"
@@ -22938,9 +22472,6 @@ $ns_ at 60 "$node_(154) setdest 2310 2367 0"
 $ns_ at 61 "$node_(154) setdest 2334 2368 0"
 $ns_ at 62 "$node_(154) setdest 2358 2369 0"
 $ns_ at 63 "$node_(154) setdest 2382 2370 0"
-$node_(155) set X_ 364
-$node_(155) set Y_ 397
-$node_(155) set Z_ 0
 $ns_ at 0 "$node_(155) setdest 364 397 0"
 $ns_ at 1 "$node_(155) setdest 387 397 0"
 $ns_ at 2 "$node_(155) setdest 410 397 0"
@@ -23002,9 +22533,6 @@ $ns_ at 57 "$node_(155) setdest 1702 400 0"
 $ns_ at 58 "$node_(155) setdest 1726 400 0"
 $ns_ at 59 "$node_(155) setdest 1749 400 0"
 $ns_ at 60 "$node_(155) setdest 1773 401 0"
-$node_(156) set X_ 582
-$node_(156) set Y_ 2199
-$node_(156) set Z_ 0
 $ns_ at 0 "$node_(156) setdest 582 2199 0"
 $ns_ at 1 "$node_(156) setdest 594 2201 0"
 $ns_ at 2 "$node_(156) setdest 606 2203 0"
@@ -23126,9 +22654,6 @@ $ns_ at 117 "$node_(156) setdest 2551 2375 0"
 $ns_ at 118 "$node_(156) setdest 2573 2376 0"
 $ns_ at 119 "$node_(156) setdest 2595 2377 0"
 $ns_ at 120 "$node_(156) setdest 2617 2378 0"
-$node_(157) set X_ 586
-$node_(157) set Y_ 1710
-$node_(157) set Z_ 0
 $ns_ at 0 "$node_(157) setdest 586 1710 0"
 $ns_ at 1 "$node_(157) setdest 584 1694 0"
 $ns_ at 2 "$node_(157) setdest 583 1679 0"
@@ -23550,9 +23075,6 @@ $ns_ at 417 "$node_(157) setdest 2822 424 0"
 $ns_ at 418 "$node_(157) setdest 2823 424 0"
 $ns_ at 419 "$node_(157) setdest 2824 424 0"
 $ns_ at 420 "$node_(157) setdest 2826 425 0"
-$node_(158) set X_ 2308
-$node_(158) set Y_ 2380
-$node_(158) set Z_ 0
 $ns_ at 8 "$node_(158) setdest 2308 2380 0"
 $ns_ at 9 "$node_(158) setdest 2283 2379 0"
 $ns_ at 10 "$node_(158) setdest 2259 2378 0"
@@ -23614,9 +23136,6 @@ $ns_ at 65 "$node_(158) setdest 922 2337 0"
 $ns_ at 66 "$node_(158) setdest 898 2336 0"
 $ns_ at 67 "$node_(158) setdest 874 2335 0"
 $ns_ at 68 "$node_(158) setdest 850 2335 0"
-$node_(159) set X_ 2707
-$node_(159) set Y_ 2389
-$node_(159) set Z_ 0
 $ns_ at 2 "$node_(159) setdest 2707 2389 0"
 $ns_ at 3 "$node_(159) setdest 2682 2388 0"
 $ns_ at 4 "$node_(159) setdest 2658 2387 0"
@@ -23678,9 +23197,6 @@ $ns_ at 59 "$node_(159) setdest 1314 2350 0"
 $ns_ at 60 "$node_(159) setdest 1289 2349 0"
 $ns_ at 61 "$node_(159) setdest 1265 2348 0"
 $ns_ at 62 "$node_(159) setdest 1241 2348 0"
-$node_(160) set X_ 427
-$node_(160) set Y_ 2307
-$node_(160) set Z_ 0
 $ns_ at 1 "$node_(160) setdest 427 2307 0"
 $ns_ at 2 "$node_(160) setdest 437 2307 0"
 $ns_ at 3 "$node_(160) setdest 448 2307 0"
@@ -23922,9 +23438,6 @@ $ns_ at 238 "$node_(160) setdest 2932 2802 0"
 $ns_ at 239 "$node_(160) setdest 2937 2806 0"
 $ns_ at 240 "$node_(160) setdest 2942 2810 0"
 $ns_ at 241 "$node_(160) setdest 2948 2814 0"
-$node_(161) set X_ 112
-$node_(161) set Y_ 400
-$node_(161) set Z_ 0
 $ns_ at 8 "$node_(161) setdest 112 400 0"
 $ns_ at 9 "$node_(161) setdest 134 399 0"
 $ns_ at 10 "$node_(161) setdest 157 399 0"
@@ -23986,9 +23499,6 @@ $ns_ at 65 "$node_(161) setdest 1418 399 0"
 $ns_ at 66 "$node_(161) setdest 1441 399 0"
 $ns_ at 67 "$node_(161) setdest 1464 399 0"
 $ns_ at 68 "$node_(161) setdest 1487 399 0"
-$node_(162) set X_ 1876
-$node_(162) set Y_ 419
-$node_(162) set Z_ 0
 $ns_ at 1 "$node_(162) setdest 1876 419 0"
 $ns_ at 2 "$node_(162) setdest 1856 418 0"
 $ns_ at 3 "$node_(162) setdest 1836 418 0"
@@ -24050,9 +23560,6 @@ $ns_ at 58 "$node_(162) setdest 763 411 0"
 $ns_ at 59 "$node_(162) setdest 744 411 0"
 $ns_ at 60 "$node_(162) setdest 724 411 0"
 $ns_ at 61 "$node_(162) setdest 705 411 0"
-$node_(163) set X_ 436
-$node_(163) set Y_ 2307
-$node_(163) set Z_ 0
 $ns_ at 8 "$node_(163) setdest 436 2307 0"
 $ns_ at 9 "$node_(163) setdest 461 2307 0"
 $ns_ at 10 "$node_(163) setdest 486 2308 0"
@@ -24114,9 +23621,6 @@ $ns_ at 65 "$node_(163) setdest 1861 2351 0"
 $ns_ at 66 "$node_(163) setdest 1886 2352 0"
 $ns_ at 67 "$node_(163) setdest 1911 2353 0"
 $ns_ at 68 "$node_(163) setdest 1936 2354 0"
-$node_(164) set X_ 416
-$node_(164) set Y_ 398
-$node_(164) set Z_ 0
 $ns_ at 1 "$node_(164) setdest 416 398 0"
 $ns_ at 2 "$node_(164) setdest 438 398 0"
 $ns_ at 3 "$node_(164) setdest 460 398 0"
@@ -24238,9 +23742,6 @@ $ns_ at 118 "$node_(164) setdest 2836 426 0"
 $ns_ at 119 "$node_(164) setdest 2855 427 0"
 $ns_ at 120 "$node_(164) setdest 2874 427 0"
 $ns_ at 121 "$node_(164) setdest 2893 428 0"
-$node_(165) set X_ 475
-$node_(165) set Y_ 947
-$node_(165) set Z_ 0
 $ns_ at 0 "$node_(165) setdest 475 947 0"
 $ns_ at 1 "$node_(165) setdest 476 938 0"
 $ns_ at 2 "$node_(165) setdest 477 929 0"
@@ -24302,9 +23803,6 @@ $ns_ at 57 "$node_(165) setdest 533 448 0"
 $ns_ at 58 "$node_(165) setdest 534 439 0"
 $ns_ at 59 "$node_(165) setdest 535 430 0"
 $ns_ at 60 "$node_(165) setdest 537 422 0"
-$node_(166) set X_ 1294
-$node_(166) set Y_ 2342
-$node_(166) set Z_ 0
 $ns_ at 8 "$node_(166) setdest 1294 2342 0"
 $ns_ at 9 "$node_(166) setdest 1317 2342 0"
 $ns_ at 10 "$node_(166) setdest 1341 2343 0"
@@ -24366,9 +23864,6 @@ $ns_ at 65 "$node_(166) setdest 2657 2380 0"
 $ns_ at 66 "$node_(166) setdest 2681 2381 0"
 $ns_ at 67 "$node_(166) setdest 2705 2382 0"
 $ns_ at 68 "$node_(166) setdest 2729 2383 0"
-$node_(167) set X_ 143
-$node_(167) set Y_ 2949
-$node_(167) set Z_ 0
 $ns_ at 5 "$node_(167) setdest 143 2949 0"
 $ns_ at 6 "$node_(167) setdest 149 2943 0"
 $ns_ at 7 "$node_(167) setdest 155 2937 0"
@@ -24610,9 +24105,6 @@ $ns_ at 242 "$node_(167) setdest 2878 2385 0"
 $ns_ at 243 "$node_(167) setdest 2899 2385 0"
 $ns_ at 244 "$node_(167) setdest 2920 2386 0"
 $ns_ at 245 "$node_(167) setdest 2941 2387 0"
-$node_(168) set X_ 1394
-$node_(168) set Y_ 2338
-$node_(168) set Z_ 0
 $ns_ at 4 "$node_(168) setdest 1394 2338 0"
 $ns_ at 5 "$node_(168) setdest 1418 2338 0"
 $ns_ at 6 "$node_(168) setdest 1442 2339 0"
@@ -24674,9 +24166,6 @@ $ns_ at 61 "$node_(168) setdest 2763 2381 0"
 $ns_ at 62 "$node_(168) setdest 2787 2382 0"
 $ns_ at 63 "$node_(168) setdest 2811 2383 0"
 $ns_ at 64 "$node_(168) setdest 2836 2384 0"
-$node_(169) set X_ 2256
-$node_(169) set Y_ 430
-$node_(169) set Z_ 0
 $ns_ at 1 "$node_(169) setdest 2256 430 0"
 $ns_ at 2 "$node_(169) setdest 2236 429 0"
 $ns_ at 3 "$node_(169) setdest 2216 429 0"
@@ -24738,9 +24227,6 @@ $ns_ at 58 "$node_(169) setdest 1116 411 0"
 $ns_ at 59 "$node_(169) setdest 1096 411 0"
 $ns_ at 60 "$node_(169) setdest 1076 411 0"
 $ns_ at 61 "$node_(169) setdest 1056 411 0"
-$node_(170) set X_ 2277
-$node_(170) set Y_ 432
-$node_(170) set Z_ 0
 $ns_ at 7 "$node_(170) setdest 2277 432 0"
 $ns_ at 8 "$node_(170) setdest 2258 431 0"
 $ns_ at 9 "$node_(170) setdest 2239 431 0"
@@ -24862,9 +24348,6 @@ $ns_ at 124 "$node_(170) setdest 543 503 0"
 $ns_ at 125 "$node_(170) setdest 532 505 0"
 $ns_ at 126 "$node_(170) setdest 521 506 0"
 $ns_ at 127 "$node_(170) setdest 511 508 0"
-$node_(171) set X_ 2948
-$node_(171) set Y_ 461
-$node_(171) set Z_ 0
 $ns_ at 2 "$node_(171) setdest 2948 461 0"
 $ns_ at 3 "$node_(171) setdest 2939 460 0"
 $ns_ at 4 "$node_(171) setdest 2931 460 0"
@@ -25106,9 +24589,6 @@ $ns_ at 239 "$node_(171) setdest 540 169 0"
 $ns_ at 240 "$node_(171) setdest 538 164 0"
 $ns_ at 241 "$node_(171) setdest 536 160 0"
 $ns_ at 242 "$node_(171) setdest 535 156 0"
-$node_(172) set X_ 542
-$node_(172) set Y_ 2211
-$node_(172) set Z_ 0
 $ns_ at 8 "$node_(172) setdest 542 2211 0"
 $ns_ at 9 "$node_(172) setdest 542 2197 0"
 $ns_ at 10 "$node_(172) setdest 543 2184 0"
@@ -25170,9 +24650,6 @@ $ns_ at 65 "$node_(172) setdest 579 1452 0"
 $ns_ at 66 "$node_(172) setdest 579 1439 0"
 $ns_ at 67 "$node_(172) setdest 580 1426 0"
 $ns_ at 68 "$node_(172) setdest 581 1413 0"
-$node_(173) set X_ 1798
-$node_(173) set Y_ 2367
-$node_(173) set Z_ 0
 $ns_ at 6 "$node_(173) setdest 1798 2367 0"
 $ns_ at 7 "$node_(173) setdest 1782 2366 0"
 $ns_ at 8 "$node_(173) setdest 1766 2366 0"
@@ -25354,9 +24831,6 @@ $ns_ at 183 "$node_(173) setdest 575 1485 0"
 $ns_ at 184 "$node_(173) setdest 575 1475 0"
 $ns_ at 185 "$node_(173) setdest 576 1466 0"
 $ns_ at 186 "$node_(173) setdest 577 1457 0"
-$node_(174) set X_ 557
-$node_(174) set Y_ 1800
-$node_(174) set Z_ 0
 $ns_ at 0 "$node_(174) setdest 557 1800 0"
 $ns_ at 1 "$node_(174) setdest 557 1799 0"
 $ns_ at 2 "$node_(174) setdest 557 1799 0"
@@ -25718,9 +25192,6 @@ $ns_ at 357 "$node_(174) setdest 2915 436 0"
 $ns_ at 358 "$node_(174) setdest 2938 436 0"
 $ns_ at 359 "$node_(174) setdest 2961 437 0"
 $ns_ at 360 "$node_(174) setdest 2985 438 0"
-$node_(175) set X_ 314
-$node_(175) set Y_ 387
-$node_(175) set Z_ 0
 $ns_ at 7 "$node_(175) setdest 314 387 0"
 $ns_ at 8 "$node_(175) setdest 317 381 0"
 $ns_ at 9 "$node_(175) setdest 321 375 0"
@@ -25782,9 +25253,6 @@ $ns_ at 64 "$node_(175) setdest 521 54 0"
 $ns_ at 65 "$node_(175) setdest 524 48 0"
 $ns_ at 66 "$node_(175) setdest 528 42 0"
 $ns_ at 67 "$node_(175) setdest 532 37 0"
-$node_(176) set X_ 445
-$node_(176) set Y_ 387
-$node_(176) set Z_ 0
 $ns_ at 8 "$node_(176) setdest 445 387 0"
 $ns_ at 9 "$node_(176) setdest 464 387 0"
 $ns_ at 10 "$node_(176) setdest 483 387 0"
@@ -25846,9 +25314,6 @@ $ns_ at 65 "$node_(176) setdest 1535 389 0"
 $ns_ at 66 "$node_(176) setdest 1554 389 0"
 $ns_ at 67 "$node_(176) setdest 1573 389 0"
 $ns_ at 68 "$node_(176) setdest 1593 390 0"
-$node_(177) set X_ 844
-$node_(177) set Y_ 401
-$node_(177) set Z_ 0
 $ns_ at 4 "$node_(177) setdest 844 401 0"
 $ns_ at 5 "$node_(177) setdest 868 401 0"
 $ns_ at 6 "$node_(177) setdest 892 401 0"
@@ -25910,9 +25375,6 @@ $ns_ at 61 "$node_(177) setdest 2237 421 0"
 $ns_ at 62 "$node_(177) setdest 2262 422 0"
 $ns_ at 63 "$node_(177) setdest 2286 422 0"
 $ns_ at 64 "$node_(177) setdest 2311 423 0"
-$node_(178) set X_ 1136
-$node_(178) set Y_ 2336
-$node_(178) set Z_ 0
 $ns_ at 3 "$node_(178) setdest 1136 2336 0"
 $ns_ at 4 "$node_(178) setdest 1159 2336 0"
 $ns_ at 5 "$node_(178) setdest 1183 2337 0"
@@ -25974,9 +25436,6 @@ $ns_ at 60 "$node_(178) setdest 2485 2374 0"
 $ns_ at 61 "$node_(178) setdest 2508 2375 0"
 $ns_ at 62 "$node_(178) setdest 2532 2376 0"
 $ns_ at 63 "$node_(178) setdest 2556 2377 0"
-$node_(179) set X_ 2832
-$node_(179) set Y_ 458
-$node_(179) set Z_ 0
 $ns_ at 8 "$node_(179) setdest 2832 458 0"
 $ns_ at 9 "$node_(179) setdest 2821 462 0"
 $ns_ at 10 "$node_(179) setdest 2810 467 0"
@@ -26038,9 +25497,6 @@ $ns_ at 65 "$node_(179) setdest 2229 740 0"
 $ns_ at 66 "$node_(179) setdest 2219 745 0"
 $ns_ at 67 "$node_(179) setdest 2208 750 0"
 $ns_ at 68 "$node_(179) setdest 2198 755 0"
-$node_(180) set X_ 1943
-$node_(180) set Y_ 433
-$node_(180) set Z_ 0
 $ns_ at 0 "$node_(180) setdest 1943 433 0"
 $ns_ at 1 "$node_(180) setdest 1929 432 0"
 $ns_ at 2 "$node_(180) setdest 1916 432 0"
@@ -26102,9 +25558,6 @@ $ns_ at 57 "$node_(180) setdest 1194 414 0"
 $ns_ at 58 "$node_(180) setdest 1181 413 0"
 $ns_ at 59 "$node_(180) setdest 1168 413 0"
 $ns_ at 60 "$node_(180) setdest 1155 413 0"
-$node_(181) set X_ 575
-$node_(181) set Y_ 2368
-$node_(181) set Z_ 0
 $ns_ at 0 "$node_(181) setdest 575 2368 0"
 $ns_ at 1 "$node_(181) setdest 575 2359 0"
 $ns_ at 2 "$node_(181) setdest 575 2351 0"
@@ -26226,9 +25679,6 @@ $ns_ at 117 "$node_(181) setdest 580 1421 0"
 $ns_ at 118 "$node_(181) setdest 580 1413 0"
 $ns_ at 119 "$node_(181) setdest 580 1405 0"
 $ns_ at 120 "$node_(181) setdest 581 1397 0"
-$node_(182) set X_ 1968
-$node_(182) set Y_ 2388
-$node_(182) set Z_ 0
 $ns_ at 1 "$node_(182) setdest 1968 2388 0"
 $ns_ at 2 "$node_(182) setdest 1955 2387 0"
 $ns_ at 3 "$node_(182) setdest 1942 2387 0"
@@ -26530,9 +25980,6 @@ $ns_ at 298 "$node_(182) setdest 158 1300 0"
 $ns_ at 299 "$node_(182) setdest 151 1299 0"
 $ns_ at 300 "$node_(182) setdest 144 1297 0"
 $ns_ at 301 "$node_(182) setdest 137 1296 0"
-$node_(183) set X_ 723
-$node_(183) set Y_ 2318
-$node_(183) set Z_ 0
 $ns_ at 3 "$node_(183) setdest 723 2318 0"
 $ns_ at 4 "$node_(183) setdest 748 2318 0"
 $ns_ at 5 "$node_(183) setdest 774 2319 0"
@@ -26594,9 +26041,6 @@ $ns_ at 60 "$node_(183) setdest 2182 2362 0"
 $ns_ at 61 "$node_(183) setdest 2207 2363 0"
 $ns_ at 62 "$node_(183) setdest 2233 2364 0"
 $ns_ at 63 "$node_(183) setdest 2259 2365 0"
-$node_(184) set X_ 2955
-$node_(184) set Y_ 2395
-$node_(184) set Z_ 0
 $ns_ at 4 "$node_(184) setdest 2955 2395 0"
 $ns_ at 5 "$node_(184) setdest 2932 2394 0"
 $ns_ at 6 "$node_(184) setdest 2910 2393 0"
@@ -26718,9 +26162,6 @@ $ns_ at 121 "$node_(184) setdest 319 2327 0"
 $ns_ at 122 "$node_(184) setdest 297 2327 0"
 $ns_ at 123 "$node_(184) setdest 274 2326 0"
 $ns_ at 124 "$node_(184) setdest 252 2326 0"
-$node_(185) set X_ 671
-$node_(185) set Y_ 393
-$node_(185) set Z_ 0
 $ns_ at 4 "$node_(185) setdest 671 393 0"
 $ns_ at 5 "$node_(185) setdest 670 405 0"
 $ns_ at 6 "$node_(185) setdest 670 418 0"
@@ -27022,9 +26463,6 @@ $ns_ at 301 "$node_(185) setdest 2888 1302 0"
 $ns_ at 302 "$node_(185) setdest 2902 1302 0"
 $ns_ at 303 "$node_(185) setdest 2916 1302 0"
 $ns_ at 304 "$node_(185) setdest 2931 1303 0"
-$node_(186) set X_ 2550
-$node_(186) set Y_ 2382
-$node_(186) set Z_ 0
 $ns_ at 3 "$node_(186) setdest 2550 2382 0"
 $ns_ at 4 "$node_(186) setdest 2526 2381 0"
 $ns_ at 5 "$node_(186) setdest 2502 2381 0"
@@ -27266,9 +26704,6 @@ $ns_ at 240 "$node_(186) setdest 525 783 0"
 $ns_ at 241 "$node_(186) setdest 524 768 0"
 $ns_ at 242 "$node_(186) setdest 523 753 0"
 $ns_ at 243 "$node_(186) setdest 523 739 0"
-$node_(187) set X_ 2853
-$node_(187) set Y_ 449
-$node_(187) set Z_ 0
 $ns_ at 2 "$node_(187) setdest 2853 449 0"
 $ns_ at 3 "$node_(187) setdest 2844 448 0"
 $ns_ at 4 "$node_(187) setdest 2835 448 0"
@@ -27690,9 +27125,6 @@ $ns_ at 419 "$node_(187) setdest 563 2314 0"
 $ns_ at 420 "$node_(187) setdest 563 2315 0"
 $ns_ at 421 "$node_(187) setdest 563 2316 0"
 $ns_ at 422 "$node_(187) setdest 563 2317 0"
-$node_(188) set X_ 2942
-$node_(188) set Y_ 2713
-$node_(188) set Z_ 0
 $ns_ at 2 "$node_(188) setdest 2942 2713 0"
 $ns_ at 3 "$node_(188) setdest 2942 2700 0"
 $ns_ at 4 "$node_(188) setdest 2942 2688 0"
@@ -27994,9 +27426,6 @@ $ns_ at 299 "$node_(188) setdest 654 407 0"
 $ns_ at 300 "$node_(188) setdest 632 407 0"
 $ns_ at 301 "$node_(188) setdest 610 407 0"
 $ns_ at 302 "$node_(188) setdest 588 407 0"
-$node_(189) set X_ 44
-$node_(189) set Y_ 390
-$node_(189) set Z_ 0
 $ns_ at 3 "$node_(189) setdest 44 390 0"
 $ns_ at 4 "$node_(189) setdest 63 390 0"
 $ns_ at 5 "$node_(189) setdest 83 390 0"
@@ -28118,9 +27547,6 @@ $ns_ at 120 "$node_(189) setdest 2328 410 0"
 $ns_ at 121 "$node_(189) setdest 2348 410 0"
 $ns_ at 122 "$node_(189) setdest 2367 410 0"
 $ns_ at 123 "$node_(189) setdest 2387 411 0"
-$node_(190) set X_ 730
-$node_(190) set Y_ 2318
-$node_(190) set Z_ 0
 $ns_ at 2 "$node_(190) setdest 730 2318 0"
 $ns_ at 3 "$node_(190) setdest 751 2318 0"
 $ns_ at 4 "$node_(190) setdest 773 2319 0"
@@ -28182,9 +27608,6 @@ $ns_ at 59 "$node_(190) setdest 1960 2353 0"
 $ns_ at 60 "$node_(190) setdest 1981 2353 0"
 $ns_ at 61 "$node_(190) setdest 2003 2354 0"
 $ns_ at 62 "$node_(190) setdest 2025 2355 0"
-$node_(191) set X_ 1163
-$node_(191) set Y_ 399
-$node_(191) set Z_ 0
 $ns_ at 0 "$node_(191) setdest 1163 399 0"
 $ns_ at 1 "$node_(191) setdest 1185 399 0"
 $ns_ at 2 "$node_(191) setdest 1207 400 0"
@@ -28246,9 +27669,6 @@ $ns_ at 57 "$node_(191) setdest 2436 428 0"
 $ns_ at 58 "$node_(191) setdest 2458 428 0"
 $ns_ at 59 "$node_(191) setdest 2480 429 0"
 $ns_ at 60 "$node_(191) setdest 2503 430 0"
-$node_(192) set X_ 94
-$node_(192) set Y_ 2286
-$node_(192) set Z_ 0
 $ns_ at 3 "$node_(192) setdest 94 2286 0"
 $ns_ at 4 "$node_(192) setdest 101 2279 0"
 $ns_ at 5 "$node_(192) setdest 109 2272 0"
@@ -28550,9 +27970,6 @@ $ns_ at 300 "$node_(192) setdest 2177 418 0"
 $ns_ at 301 "$node_(192) setdest 2195 419 0"
 $ns_ at 302 "$node_(192) setdest 2213 419 0"
 $ns_ at 303 "$node_(192) setdest 2232 420 0"
-$node_(193) set X_ 2996
-$node_(193) set Y_ 2596
-$node_(193) set Z_ 0
 $ns_ at 7 "$node_(193) setdest 2996 2596 0"
 $ns_ at 8 "$node_(193) setdest 2993 2601 0"
 $ns_ at 9 "$node_(193) setdest 2991 2607 0"
@@ -28614,9 +28031,6 @@ $ns_ at 64 "$node_(193) setdest 2856 2930 0"
 $ns_ at 65 "$node_(193) setdest 2853 2936 0"
 $ns_ at 66 "$node_(193) setdest 2851 2942 0"
 $ns_ at 67 "$node_(193) setdest 2849 2948 0"
-$node_(194) set X_ 1308
-$node_(194) set Y_ 29
-$node_(194) set Z_ 0
 $ns_ at 8 "$node_(194) setdest 1308 29 0"
 $ns_ at 9 "$node_(194) setdest 1301 30 0"
 $ns_ at 10 "$node_(194) setdest 1295 32 0"
@@ -28678,9 +28092,6 @@ $ns_ at 65 "$node_(194) setdest 947 129 0"
 $ns_ at 66 "$node_(194) setdest 940 131 0"
 $ns_ at 67 "$node_(194) setdest 934 133 0"
 $ns_ at 68 "$node_(194) setdest 928 135 0"
-$node_(195) set X_ 2856
-$node_(195) set Y_ 444
-$node_(195) set Z_ 0
 $ns_ at 2 "$node_(195) setdest 2856 444 0"
 $ns_ at 3 "$node_(195) setdest 2847 443 0"
 $ns_ at 4 "$node_(195) setdest 2838 443 0"
@@ -29042,9 +28453,6 @@ $ns_ at 359 "$node_(195) setdest 546 2533 0"
 $ns_ at 360 "$node_(195) setdest 546 2540 0"
 $ns_ at 361 "$node_(195) setdest 545 2548 0"
 $ns_ at 362 "$node_(195) setdest 545 2556 0"
-$node_(196) set X_ 2231
-$node_(196) set Y_ 2394
-$node_(196) set Z_ 0
 $ns_ at 1 "$node_(196) setdest 2231 2394 0"
 $ns_ at 2 "$node_(196) setdest 2230 2393 0"
 $ns_ at 3 "$node_(196) setdest 2229 2393 0"
@@ -29286,9 +28694,6 @@ $ns_ at 238 "$node_(196) setdest 269 2340 0"
 $ns_ at 239 "$node_(196) setdest 258 2339 0"
 $ns_ at 240 "$node_(196) setdest 246 2339 0"
 $ns_ at 241 "$node_(196) setdest 235 2339 0"
-$node_(197) set X_ 12
-$node_(197) set Y_ 389
-$node_(197) set Z_ 0
 $ns_ at 2 "$node_(197) setdest 12 389 0"
 $ns_ at 3 "$node_(197) setdest 29 389 0"
 $ns_ at 4 "$node_(197) setdest 46 389 0"
@@ -29350,9 +28755,6 @@ $ns_ at 59 "$node_(197) setdest 1007 398 0"
 $ns_ at 60 "$node_(197) setdest 1025 398 0"
 $ns_ at 61 "$node_(197) setdest 1042 398 0"
 $ns_ at 62 "$node_(197) setdest 1060 399 0"
-$node_(198) set X_ 507
-$node_(198) set Y_ 2843
-$node_(198) set Z_ 0
 $ns_ at 8 "$node_(198) setdest 507 2843 0"
 $ns_ at 9 "$node_(198) setdest 507 2834 0"
 $ns_ at 10 "$node_(198) setdest 508 2825 0"
@@ -29414,9 +28816,6 @@ $ns_ at 65 "$node_(198) setdest 536 2341 0"
 $ns_ at 66 "$node_(198) setdest 536 2332 0"
 $ns_ at 67 "$node_(198) setdest 537 2323 0"
 $ns_ at 68 "$node_(198) setdest 538 2315 0"
-$node_(199) set X_ 2244
-$node_(199) set Y_ 117
-$node_(199) set Z_ 0
 $ns_ at 8 "$node_(199) setdest 2244 117 0"
 $ns_ at 9 "$node_(199) setdest 2236 122 0"
 $ns_ at 10 "$node_(199) setdest 2229 127 0"
@@ -29478,9 +28877,6 @@ $ns_ at 65 "$node_(199) setdest 1827 413 0"
 $ns_ at 66 "$node_(199) setdest 1820 418 0"
 $ns_ at 67 "$node_(199) setdest 1813 423 0"
 $ns_ at 68 "$node_(199) setdest 1806 429 0"
-$node_(200) set X_ 796
-$node_(200) set Y_ 408
-$node_(200) set Z_ 0
 $ns_ at 0 "$node_(200) setdest 796 408 0"
 $ns_ at 1 "$node_(200) setdest 818 408 0"
 $ns_ at 2 "$node_(200) setdest 840 408 0"
@@ -29542,9 +28938,6 @@ $ns_ at 57 "$node_(200) setdest 2073 423 0"
 $ns_ at 58 "$node_(200) setdest 2096 423 0"
 $ns_ at 59 "$node_(200) setdest 2118 423 0"
 $ns_ at 60 "$node_(200) setdest 2141 424 0"
-$node_(201) set X_ 657
-$node_(201) set Y_ 525
-$node_(201) set Z_ 0
 $ns_ at 8 "$node_(201) setdest 657 525 0"
 $ns_ at 9 "$node_(201) setdest 656 540 0"
 $ns_ at 10 "$node_(201) setdest 655 555 0"
@@ -29606,9 +28999,6 @@ $ns_ at 65 "$node_(201) setdest 612 1394 0"
 $ns_ at 66 "$node_(201) setdest 611 1409 0"
 $ns_ at 67 "$node_(201) setdest 610 1424 0"
 $ns_ at 68 "$node_(201) setdest 610 1440 0"
-$node_(202) set X_ 829
-$node_(202) set Y_ 2322
-$node_(202) set Z_ 0
 $ns_ at 8 "$node_(202) setdest 829 2322 0"
 $ns_ at 9 "$node_(202) setdest 851 2322 0"
 $ns_ at 10 "$node_(202) setdest 873 2323 0"
@@ -29670,9 +29060,6 @@ $ns_ at 65 "$node_(202) setdest 2094 2358 0"
 $ns_ at 66 "$node_(202) setdest 2116 2358 0"
 $ns_ at 67 "$node_(202) setdest 2138 2359 0"
 $ns_ at 68 "$node_(202) setdest 2161 2360 0"
-$node_(203) set X_ 810
-$node_(203) set Y_ 1281
-$node_(203) set Z_ 0
 $ns_ at 0 "$node_(203) setdest 810 1281 0"
 $ns_ at 1 "$node_(203) setdest 827 1281 0"
 $ns_ at 2 "$node_(203) setdest 844 1281 0"
@@ -29854,9 +29241,6 @@ $ns_ at 177 "$node_(203) setdest 2830 1300 0"
 $ns_ at 178 "$node_(203) setdest 2840 1300 0"
 $ns_ at 179 "$node_(203) setdest 2850 1300 0"
 $ns_ at 180 "$node_(203) setdest 2860 1301 0"
-$node_(204) set X_ 282
-$node_(204) set Y_ 396
-$node_(204) set Z_ 0
 $ns_ at 7 "$node_(204) setdest 282 396 0"
 $ns_ at 8 "$node_(204) setdest 292 396 0"
 $ns_ at 9 "$node_(204) setdest 303 396 0"
@@ -29978,9 +29362,6 @@ $ns_ at 124 "$node_(204) setdest 2113 407 0"
 $ns_ at 125 "$node_(204) setdest 2134 407 0"
 $ns_ at 126 "$node_(204) setdest 2155 407 0"
 $ns_ at 127 "$node_(204) setdest 2177 408 0"
-$node_(205) set X_ 2710
-$node_(205) set Y_ 441
-$node_(205) set Z_ 0
 $ns_ at 1 "$node_(205) setdest 2710 441 0"
 $ns_ at 2 "$node_(205) setdest 2689 440 0"
 $ns_ at 3 "$node_(205) setdest 2668 440 0"
@@ -30102,9 +29483,6 @@ $ns_ at 118 "$node_(205) setdest 286 411 0"
 $ns_ at 119 "$node_(205) setdest 266 411 0"
 $ns_ at 120 "$node_(205) setdest 245 411 0"
 $ns_ at 121 "$node_(205) setdest 225 411 0"
-$node_(206) set X_ 498
-$node_(206) set Y_ 3000
-$node_(206) set Z_ 0
 $ns_ at 0 "$node_(206) setdest 498 3000 0"
 $ns_ at 1 "$node_(206) setdest 498 2991 0"
 $ns_ at 2 "$node_(206) setdest 498 2982 0"
@@ -30166,9 +29544,6 @@ $ns_ at 57 "$node_(206) setdest 513 2488 0"
 $ns_ at 58 "$node_(206) setdest 513 2479 0"
 $ns_ at 59 "$node_(206) setdest 513 2470 0"
 $ns_ at 60 "$node_(206) setdest 514 2462 0"
-$node_(207) set X_ 1763
-$node_(207) set Y_ 389
-$node_(207) set Z_ 0
 $ns_ at 0 "$node_(207) setdest 1763 389 0"
 $ns_ at 1 "$node_(207) setdest 1770 385 0"
 $ns_ at 2 "$node_(207) setdest 1778 381 0"
@@ -30230,9 +29605,6 @@ $ns_ at 57 "$node_(207) setdest 2204 180 0"
 $ns_ at 58 "$node_(207) setdest 2212 177 0"
 $ns_ at 59 "$node_(207) setdest 2220 173 0"
 $ns_ at 60 "$node_(207) setdest 2228 170 0"
-$node_(208) set X_ 308
-$node_(208) set Y_ 2315
-$node_(208) set Z_ 0
 $ns_ at 4 "$node_(208) setdest 308 2315 0"
 $ns_ at 5 "$node_(208) setdest 331 2315 0"
 $ns_ at 6 "$node_(208) setdest 354 2316 0"
@@ -30294,9 +29666,6 @@ $ns_ at 61 "$node_(208) setdest 1620 2351 0"
 $ns_ at 62 "$node_(208) setdest 1643 2351 0"
 $ns_ at 63 "$node_(208) setdest 1666 2352 0"
 $ns_ at 64 "$node_(208) setdest 1690 2353 0"
-$node_(209) set X_ 858
-$node_(209) set Y_ 2318
-$node_(209) set Z_ 0
 $ns_ at 0 "$node_(209) setdest 858 2318 0"
 $ns_ at 1 "$node_(209) setdest 881 2318 0"
 $ns_ at 2 "$node_(209) setdest 904 2319 0"
@@ -30598,9 +29967,6 @@ $ns_ at 297 "$node_(209) setdest 2910 2854 0"
 $ns_ at 298 "$node_(209) setdest 2910 2857 0"
 $ns_ at 299 "$node_(209) setdest 2910 2860 0"
 $ns_ at 300 "$node_(209) setdest 2911 2863 0"
-$node_(210) set X_ 2448
-$node_(210) set Y_ 2382
-$node_(210) set Z_ 0
 $ns_ at 7 "$node_(210) setdest 2448 2382 0"
 $ns_ at 8 "$node_(210) setdest 2423 2381 0"
 $ns_ at 9 "$node_(210) setdest 2398 2380 0"
@@ -30662,9 +30028,6 @@ $ns_ at 64 "$node_(210) setdest 1038 2341 0"
 $ns_ at 65 "$node_(210) setdest 1013 2340 0"
 $ns_ at 66 "$node_(210) setdest 988 2339 0"
 $ns_ at 67 "$node_(210) setdest 964 2339 0"
-$node_(211) set X_ 534
-$node_(211) set Y_ 2447
-$node_(211) set Z_ 0
 $ns_ at 4 "$node_(211) setdest 534 2447 0"
 $ns_ at 5 "$node_(211) setdest 534 2435 0"
 $ns_ at 6 "$node_(211) setdest 535 2424 0"
@@ -30846,9 +30209,6 @@ $ns_ at 181 "$node_(211) setdest 530 102 0"
 $ns_ at 182 "$node_(211) setdest 530 88 0"
 $ns_ at 183 "$node_(211) setdest 530 74 0"
 $ns_ at 184 "$node_(211) setdest 531 60 0"
-$node_(212) set X_ 1752
-$node_(212) set Y_ 418
-$node_(212) set Z_ 0
 $ns_ at 3 "$node_(212) setdest 1752 418 0"
 $ns_ at 4 "$node_(212) setdest 1731 417 0"
 $ns_ at 5 "$node_(212) setdest 1710 417 0"
@@ -30910,9 +30270,6 @@ $ns_ at 60 "$node_(212) setdest 564 409 0"
 $ns_ at 61 "$node_(212) setdest 543 409 0"
 $ns_ at 62 "$node_(212) setdest 522 409 0"
 $ns_ at 63 "$node_(212) setdest 502 409 0"
-$node_(213) set X_ 757
-$node_(213) set Y_ 2324
-$node_(213) set Z_ 0
 $ns_ at 1 "$node_(213) setdest 757 2324 0"
 $ns_ at 2 "$node_(213) setdest 782 2324 0"
 $ns_ at 3 "$node_(213) setdest 807 2325 0"
@@ -30974,9 +30331,6 @@ $ns_ at 58 "$node_(213) setdest 2182 2367 0"
 $ns_ at 59 "$node_(213) setdest 2207 2368 0"
 $ns_ at 60 "$node_(213) setdest 2232 2369 0"
 $ns_ at 61 "$node_(213) setdest 2257 2370 0"
-$node_(214) set X_ 882
-$node_(214) set Y_ 2357
-$node_(214) set Z_ 0
 $ns_ at 0 "$node_(214) setdest 882 2357 0"
 $ns_ at 1 "$node_(214) setdest 876 2353 0"
 $ns_ at 2 "$node_(214) setdest 870 2350 0"
@@ -31398,9 +30752,6 @@ $ns_ at 417 "$node_(214) setdest 2717 422 0"
 $ns_ at 418 "$node_(214) setdest 2734 423 0"
 $ns_ at 419 "$node_(214) setdest 2751 423 0"
 $ns_ at 420 "$node_(214) setdest 2769 424 0"
-$node_(215) set X_ 1106
-$node_(215) set Y_ 2325
-$node_(215) set Z_ 0
 $ns_ at 0 "$node_(215) setdest 1106 2325 0"
 $ns_ at 1 "$node_(215) setdest 1127 2325 0"
 $ns_ at 2 "$node_(215) setdest 1148 2326 0"
@@ -31462,9 +30813,6 @@ $ns_ at 57 "$node_(215) setdest 2306 2363 0"
 $ns_ at 58 "$node_(215) setdest 2327 2363 0"
 $ns_ at 59 "$node_(215) setdest 2348 2364 0"
 $ns_ at 60 "$node_(215) setdest 2370 2365 0"
-$node_(216) set X_ 585
-$node_(216) set Y_ 400
-$node_(216) set Z_ 0
 $ns_ at 7 "$node_(216) setdest 585 400 0"
 $ns_ at 8 "$node_(216) setdest 604 400 0"
 $ns_ at 9 "$node_(216) setdest 624 400 0"
@@ -31586,9 +30934,6 @@ $ns_ at 124 "$node_(216) setdest 2812 409 0"
 $ns_ at 125 "$node_(216) setdest 2831 409 0"
 $ns_ at 126 "$node_(216) setdest 2849 409 0"
 $ns_ at 127 "$node_(216) setdest 2868 410 0"
-$node_(217) set X_ 2122
-$node_(217) set Y_ 428
-$node_(217) set Z_ 0
 $ns_ at 0 "$node_(217) setdest 2122 428 0"
 $ns_ at 1 "$node_(217) setdest 2102 427 0"
 $ns_ at 2 "$node_(217) setdest 2082 427 0"
@@ -31650,9 +30995,6 @@ $ns_ at 57 "$node_(217) setdest 982 412 0"
 $ns_ at 58 "$node_(217) setdest 962 412 0"
 $ns_ at 59 "$node_(217) setdest 942 412 0"
 $ns_ at 60 "$node_(217) setdest 922 412 0"
-$node_(218) set X_ 2544
-$node_(218) set Y_ 2390
-$node_(218) set Z_ 0
 $ns_ at 1 "$node_(218) setdest 2544 2390 0"
 $ns_ at 2 "$node_(218) setdest 2527 2389 0"
 $ns_ at 3 "$node_(218) setdest 2511 2389 0"
@@ -31954,9 +31296,6 @@ $ns_ at 298 "$node_(218) setdest 31 2964 0"
 $ns_ at 299 "$node_(218) setdest 23 2965 0"
 $ns_ at 300 "$node_(218) setdest 14 2965 0"
 $ns_ at 301 "$node_(218) setdest 6 2966 0"
-$node_(219) set X_ 274
-$node_(219) set Y_ 2300
-$node_(219) set Z_ 0
 $ns_ at 1 "$node_(219) setdest 274 2300 0"
 $ns_ at 2 "$node_(219) setdest 293 2300 0"
 $ns_ at 3 "$node_(219) setdest 313 2300 0"
@@ -32078,9 +31417,6 @@ $ns_ at 118 "$node_(219) setdest 2556 2349 0"
 $ns_ at 119 "$node_(219) setdest 2575 2350 0"
 $ns_ at 120 "$node_(219) setdest 2595 2350 0"
 $ns_ at 121 "$node_(219) setdest 2615 2351 0"
-$node_(220) set X_ 499
-$node_(220) set Y_ 2991
-$node_(220) set Z_ 0
 $ns_ at 3 "$node_(220) setdest 499 2991 0"
 $ns_ at 4 "$node_(220) setdest 499 2990 0"
 $ns_ at 5 "$node_(220) setdest 499 2989 0"
@@ -32322,9 +31658,6 @@ $ns_ at 240 "$node_(220) setdest 2409 2355 0"
 $ns_ at 241 "$node_(220) setdest 2427 2356 0"
 $ns_ at 242 "$node_(220) setdest 2445 2356 0"
 $ns_ at 243 "$node_(220) setdest 2463 2357 0"
-$node_(221) set X_ 962
-$node_(221) set Y_ 2358
-$node_(221) set Z_ 0
 $ns_ at 5 "$node_(221) setdest 962 2358 0"
 $ns_ at 6 "$node_(221) setdest 954 2355 0"
 $ns_ at 7 "$node_(221) setdest 947 2352 0"
@@ -32566,9 +31899,6 @@ $ns_ at 242 "$node_(221) setdest 525 163 0"
 $ns_ at 243 "$node_(221) setdest 524 158 0"
 $ns_ at 244 "$node_(221) setdest 524 152 0"
 $ns_ at 245 "$node_(221) setdest 524 147 0"
-$node_(222) set X_ 2893
-$node_(222) set Y_ 444
-$node_(222) set Z_ 0
 $ns_ at 7 "$node_(222) setdest 2893 444 0"
 $ns_ at 8 "$node_(222) setdest 2869 443 0"
 $ns_ at 9 "$node_(222) setdest 2845 442 0"
@@ -32690,9 +32020,6 @@ $ns_ at 124 "$node_(222) setdest 174 415 0"
 $ns_ at 125 "$node_(222) setdest 151 415 0"
 $ns_ at 126 "$node_(222) setdest 128 415 0"
 $ns_ at 127 "$node_(222) setdest 106 416 0"
-$node_(223) set X_ 231
-$node_(223) set Y_ 379
-$node_(223) set Z_ 0
 $ns_ at 7 "$node_(223) setdest 231 379 0"
 $ns_ at 8 "$node_(223) setdest 236 373 0"
 $ns_ at 9 "$node_(223) setdest 241 368 0"
@@ -32754,9 +32081,6 @@ $ns_ at 64 "$node_(223) setdest 520 82 0"
 $ns_ at 65 "$node_(223) setdest 525 77 0"
 $ns_ at 66 "$node_(223) setdest 530 72 0"
 $ns_ at 67 "$node_(223) setdest 536 67 0"
-$node_(224) set X_ 515
-$node_(224) set Y_ 2545
-$node_(224) set Z_ 0
 $ns_ at 1 "$node_(224) setdest 515 2545 0"
 $ns_ at 2 "$node_(224) setdest 515 2536 0"
 $ns_ at 3 "$node_(224) setdest 515 2528 0"
@@ -32938,9 +32262,6 @@ $ns_ at 178 "$node_(224) setdest 543 604 0"
 $ns_ at 179 "$node_(224) setdest 542 588 0"
 $ns_ at 180 "$node_(224) setdest 541 572 0"
 $ns_ at 181 "$node_(224) setdest 541 556 0"
-$node_(225) set X_ 1865
-$node_(225) set Y_ 2370
-$node_(225) set Z_ 0
 $ns_ at 0 "$node_(225) setdest 1865 2370 0"
 $ns_ at 1 "$node_(225) setdest 1845 2369 0"
 $ns_ at 2 "$node_(225) setdest 1826 2368 0"
@@ -33002,9 +32323,6 @@ $ns_ at 57 "$node_(225) setdest 763 2336 0"
 $ns_ at 58 "$node_(225) setdest 743 2336 0"
 $ns_ at 59 "$node_(225) setdest 724 2335 0"
 $ns_ at 60 "$node_(225) setdest 705 2335 0"
-$node_(226) set X_ 2629
-$node_(226) set Y_ 439
-$node_(226) set Z_ 0
 $ns_ at 5 "$node_(226) setdest 2629 439 0"
 $ns_ at 6 "$node_(226) setdest 2606 438 0"
 $ns_ at 7 "$node_(226) setdest 2584 438 0"
@@ -33066,9 +32384,6 @@ $ns_ at 62 "$node_(226) setdest 1359 411 0"
 $ns_ at 63 "$node_(226) setdest 1337 410 0"
 $ns_ at 64 "$node_(226) setdest 1315 410 0"
 $ns_ at 65 "$node_(226) setdest 1293 410 0"
-$node_(227) set X_ 2832
-$node_(227) set Y_ 440
-$node_(227) set Z_ 0
 $ns_ at 6 "$node_(227) setdest 2832 440 0"
 $ns_ at 7 "$node_(227) setdest 2811 439 0"
 $ns_ at 8 "$node_(227) setdest 2790 439 0"
@@ -33190,9 +32505,6 @@ $ns_ at 123 "$node_(227) setdest 316 405 0"
 $ns_ at 124 "$node_(227) setdest 294 405 0"
 $ns_ at 125 "$node_(227) setdest 271 405 0"
 $ns_ at 126 "$node_(227) setdest 249 405 0"
-$node_(228) set X_ 1770
-$node_(228) set Y_ 1330
-$node_(228) set Z_ 0
 $ns_ at 0 "$node_(228) setdest 1770 1330 0"
 $ns_ at 1 "$node_(228) setdest 1769 1323 0"
 $ns_ at 2 "$node_(228) setdest 1769 1316 0"
@@ -33374,9 +32686,6 @@ $ns_ at 177 "$node_(228) setdest 928 420 0"
 $ns_ at 178 "$node_(228) setdest 914 418 0"
 $ns_ at 179 "$node_(228) setdest 899 416 0"
 $ns_ at 180 "$node_(228) setdest 885 414 0"
-$node_(229) set X_ 674
-$node_(229) set Y_ 180
-$node_(229) set Z_ 0
 $ns_ at 5 "$node_(229) setdest 674 180 0"
 $ns_ at 6 "$node_(229) setdest 681 189 0"
 $ns_ at 7 "$node_(229) setdest 688 198 0"
@@ -33618,9 +32927,6 @@ $ns_ at 242 "$node_(229) setdest 2423 2334 0"
 $ns_ at 243 "$node_(229) setdest 2431 2343 0"
 $ns_ at 244 "$node_(229) setdest 2438 2352 0"
 $ns_ at 245 "$node_(229) setdest 2446 2362 0"
-$node_(230) set X_ 1882
-$node_(230) set Y_ 419
-$node_(230) set Z_ 0
 $ns_ at 4 "$node_(230) setdest 1882 419 0"
 $ns_ at 5 "$node_(230) setdest 1865 419 0"
 $ns_ at 6 "$node_(230) setdest 1848 419 0"
@@ -33742,9 +33048,6 @@ $ns_ at 121 "$node_(230) setdest 574 368 0"
 $ns_ at 122 "$node_(230) setdest 569 367 0"
 $ns_ at 123 "$node_(230) setdest 564 366 0"
 $ns_ at 124 "$node_(230) setdest 559 366 0"
-$node_(231) set X_ 542
-$node_(231) set Y_ 2162
-$node_(231) set Z_ 0
 $ns_ at 5 "$node_(231) setdest 542 2162 0"
 $ns_ at 6 "$node_(231) setdest 542 2150 0"
 $ns_ at 7 "$node_(231) setdest 543 2138 0"
@@ -33986,9 +33289,6 @@ $ns_ at 242 "$node_(231) setdest 1787 407 0"
 $ns_ at 243 "$node_(231) setdest 1807 407 0"
 $ns_ at 244 "$node_(231) setdest 1827 407 0"
 $ns_ at 245 "$node_(231) setdest 1847 408 0"
-$node_(232) set X_ 850
-$node_(232) set Y_ 2323
-$node_(232) set Z_ 0
 $ns_ at 0 "$node_(232) setdest 850 2323 0"
 $ns_ at 1 "$node_(232) setdest 872 2323 0"
 $ns_ at 2 "$node_(232) setdest 894 2324 0"
@@ -34050,9 +33350,6 @@ $ns_ at 57 "$node_(232) setdest 2105 2363 0"
 $ns_ at 58 "$node_(232) setdest 2127 2364 0"
 $ns_ at 59 "$node_(232) setdest 2149 2365 0"
 $ns_ at 60 "$node_(232) setdest 2172 2366 0"
-$node_(233) set X_ 1371
-$node_(233) set Y_ 399
-$node_(233) set Z_ 0
 $ns_ at 4 "$node_(233) setdest 1371 399 0"
 $ns_ at 5 "$node_(233) setdest 1383 399 0"
 $ns_ at 6 "$node_(233) setdest 1395 399 0"
@@ -34114,9 +33411,6 @@ $ns_ at 61 "$node_(233) setdest 2055 415 0"
 $ns_ at 62 "$node_(233) setdest 2067 415 0"
 $ns_ at 63 "$node_(233) setdest 2079 415 0"
 $ns_ at 64 "$node_(233) setdest 2092 416 0"
-$node_(234) set X_ 1748
-$node_(234) set Y_ 2164
-$node_(234) set Z_ 0
 $ns_ at 0 "$node_(234) setdest 1748 2164 0"
 $ns_ at 1 "$node_(234) setdest 1748 2161 0"
 $ns_ at 2 "$node_(234) setdest 1748 2159 0"
@@ -34358,9 +33652,6 @@ $ns_ at 237 "$node_(234) setdest 464 1293 0"
 $ns_ at 238 "$node_(234) setdest 448 1293 0"
 $ns_ at 239 "$node_(234) setdest 432 1293 0"
 $ns_ at 240 "$node_(234) setdest 417 1293 0"
-$node_(235) set X_ 674
-$node_(235) set Y_ 121
-$node_(235) set Z_ 0
 $ns_ at 4 "$node_(235) setdest 674 121 0"
 $ns_ at 5 "$node_(235) setdest 673 128 0"
 $ns_ at 6 "$node_(235) setdest 673 136 0"
@@ -34542,9 +33833,6 @@ $ns_ at 181 "$node_(235) setdest 498 2324 0"
 $ns_ at 182 "$node_(235) setdest 497 2331 0"
 $ns_ at 183 "$node_(235) setdest 496 2337 0"
 $ns_ at 184 "$node_(235) setdest 495 2344 0"
-$node_(236) set X_ 1699
-$node_(236) set Y_ 416
-$node_(236) set Z_ 0
 $ns_ at 8 "$node_(236) setdest 1699 416 0"
 $ns_ at 9 "$node_(236) setdest 1681 416 0"
 $ns_ at 10 "$node_(236) setdest 1664 416 0"
@@ -34606,9 +33894,6 @@ $ns_ at 65 "$node_(236) setdest 727 420 0"
 $ns_ at 66 "$node_(236) setdest 710 420 0"
 $ns_ at 67 "$node_(236) setdest 693 420 0"
 $ns_ at 68 "$node_(236) setdest 676 421 0"
-$node_(237) set X_ 2935
-$node_(237) set Y_ 2402
-$node_(237) set Z_ 0
 $ns_ at 5 "$node_(237) setdest 2935 2402 0"
 $ns_ at 6 "$node_(237) setdest 2912 2401 0"
 $ns_ at 7 "$node_(237) setdest 2889 2400 0"
@@ -34670,9 +33955,6 @@ $ns_ at 62 "$node_(237) setdest 1640 2355 0"
 $ns_ at 63 "$node_(237) setdest 1617 2354 0"
 $ns_ at 64 "$node_(237) setdest 1594 2353 0"
 $ns_ at 65 "$node_(237) setdest 1572 2353 0"
-$node_(238) set X_ 1337
-$node_(238) set Y_ 403
-$node_(238) set Z_ 0
 $ns_ at 6 "$node_(238) setdest 1337 403 0"
 $ns_ at 7 "$node_(238) setdest 1356 403 0"
 $ns_ at 8 "$node_(238) setdest 1375 403 0"
@@ -34734,9 +34016,6 @@ $ns_ at 63 "$node_(238) setdest 2447 428 0"
 $ns_ at 64 "$node_(238) setdest 2467 429 0"
 $ns_ at 65 "$node_(238) setdest 2486 429 0"
 $ns_ at 66 "$node_(238) setdest 2506 430 0"
-$node_(239) set X_ 1282
-$node_(239) set Y_ 1805
-$node_(239) set Z_ 0
 $ns_ at 0 "$node_(239) setdest 1282 1805 0"
 $ns_ at 1 "$node_(239) setdest 1278 1800 0"
 $ns_ at 2 "$node_(239) setdest 1275 1796 0"
@@ -34978,9 +34257,6 @@ $ns_ at 237 "$node_(239) setdest 557 505 0"
 $ns_ at 238 "$node_(239) setdest 555 491 0"
 $ns_ at 239 "$node_(239) setdest 553 477 0"
 $ns_ at 240 "$node_(239) setdest 552 464 0"
-$node_(240) set X_ 598
-$node_(240) set Y_ 1440
-$node_(240) set Z_ 0
 $ns_ at 0 "$node_(240) setdest 598 1440 0"
 $ns_ at 1 "$node_(240) setdest 596 1425 0"
 $ns_ at 2 "$node_(240) setdest 595 1411 0"
@@ -35042,9 +34318,6 @@ $ns_ at 57 "$node_(240) setdest 535 624 0"
 $ns_ at 58 "$node_(240) setdest 534 610 0"
 $ns_ at 59 "$node_(240) setdest 533 596 0"
 $ns_ at 60 "$node_(240) setdest 532 582 0"
-$node_(241) set X_ 903
-$node_(241) set Y_ 2359
-$node_(241) set Z_ 0
 $ns_ at 8 "$node_(241) setdest 903 2359 0"
 $ns_ at 9 "$node_(241) setdest 896 2356 0"
 $ns_ at 10 "$node_(241) setdest 890 2353 0"
@@ -35106,9 +34379,6 @@ $ns_ at 65 "$node_(241) setdest 545 2207 0"
 $ns_ at 66 "$node_(241) setdest 539 2204 0"
 $ns_ at 67 "$node_(241) setdest 533 2201 0"
 $ns_ at 68 "$node_(241) setdest 527 2199 0"
-$node_(242) set X_ 53
-$node_(242) set Y_ 2302
-$node_(242) set Z_ 0
 $ns_ at 3 "$node_(242) setdest 53 2302 0"
 $ns_ at 4 "$node_(242) setdest 77 2302 0"
 $ns_ at 5 "$node_(242) setdest 101 2303 0"
@@ -35230,9 +34500,6 @@ $ns_ at 120 "$node_(242) setdest 2862 2384 0"
 $ns_ at 121 "$node_(242) setdest 2886 2384 0"
 $ns_ at 122 "$node_(242) setdest 2910 2385 0"
 $ns_ at 123 "$node_(242) setdest 2934 2386 0"
-$node_(243) set X_ 499
-$node_(243) set Y_ 2958
-$node_(243) set Z_ 0
 $ns_ at 4 "$node_(243) setdest 499 2958 0"
 $ns_ at 5 "$node_(243) setdest 499 2947 0"
 $ns_ at 6 "$node_(243) setdest 500 2936 0"
@@ -35414,9 +34681,6 @@ $ns_ at 181 "$node_(243) setdest 515 792 0"
 $ns_ at 182 "$node_(243) setdest 514 777 0"
 $ns_ at 183 "$node_(243) setdest 513 762 0"
 $ns_ at 184 "$node_(243) setdest 512 747 0"
-$node_(244) set X_ 684
-$node_(244) set Y_ 30
-$node_(244) set Z_ 0
 $ns_ at 3 "$node_(244) setdest 684 30 0"
 $ns_ at 4 "$node_(244) setdest 685 37 0"
 $ns_ at 5 "$node_(244) setdest 686 44 0"
@@ -35538,9 +34802,6 @@ $ns_ at 120 "$node_(244) setdest 74 412 0"
 $ns_ at 121 "$node_(244) setdest 62 411 0"
 $ns_ at 122 "$node_(244) setdest 50 410 0"
 $ns_ at 123 "$node_(244) setdest 39 409 0"
-$node_(245) set X_ 2913
-$node_(245) set Y_ 443
-$node_(245) set Z_ 0
 $ns_ at 3 "$node_(245) setdest 2913 443 0"
 $ns_ at 4 "$node_(245) setdest 2890 442 0"
 $ns_ at 5 "$node_(245) setdest 2868 442 0"
@@ -35722,9 +34983,6 @@ $ns_ at 180 "$node_(245) setdest 547 491 0"
 $ns_ at 181 "$node_(245) setdest 546 492 0"
 $ns_ at 182 "$node_(245) setdest 545 493 0"
 $ns_ at 183 "$node_(245) setdest 545 495 0"
-$node_(246) set X_ 672
-$node_(246) set Y_ 169
-$node_(246) set Z_ 0
 $ns_ at 0 "$node_(246) setdest 672 169 0"
 $ns_ at 1 "$node_(246) setdest 671 184 0"
 $ns_ at 2 "$node_(246) setdest 670 199 0"
@@ -36146,9 +35404,6 @@ $ns_ at 417 "$node_(246) setdest 3 2951 0"
 $ns_ at 418 "$node_(246) setdest 3 2951 0"
 $ns_ at 419 "$node_(246) setdest 3 2951 0"
 $ns_ at 420 "$node_(246) setdest 3 2951 0"
-$node_(247) set X_ 580
-$node_(247) set Y_ 2313
-$node_(247) set Z_ 0
 $ns_ at 3 "$node_(247) setdest 580 2313 0"
 $ns_ at 4 "$node_(247) setdest 604 2313 0"
 $ns_ at 5 "$node_(247) setdest 629 2314 0"
@@ -36210,9 +35465,6 @@ $ns_ at 60 "$node_(247) setdest 1991 2355 0"
 $ns_ at 61 "$node_(247) setdest 2016 2356 0"
 $ns_ at 62 "$node_(247) setdest 2041 2357 0"
 $ns_ at 63 "$node_(247) setdest 2066 2358 0"
-$node_(248) set X_ 1926
-$node_(248) set Y_ 2365
-$node_(248) set Z_ 0
 $ns_ at 5 "$node_(248) setdest 1926 2365 0"
 $ns_ at 6 "$node_(248) setdest 1905 2364 0"
 $ns_ at 7 "$node_(248) setdest 1884 2363 0"
@@ -36274,9 +35526,6 @@ $ns_ at 62 "$node_(248) setdest 738 2330 0"
 $ns_ at 63 "$node_(248) setdest 717 2330 0"
 $ns_ at 64 "$node_(248) setdest 696 2329 0"
 $ns_ at 65 "$node_(248) setdest 676 2329 0"
-$node_(249) set X_ 934
-$node_(249) set Y_ 2321
-$node_(249) set Z_ 0
 $ns_ at 3 "$node_(249) setdest 934 2321 0"
 $ns_ at 4 "$node_(249) setdest 959 2321 0"
 $ns_ at 5 "$node_(249) setdest 984 2322 0"
@@ -36398,9 +35647,6 @@ $ns_ at 120 "$node_(249) setdest 2930 2333 0"
 $ns_ at 121 "$node_(249) setdest 2938 2333 0"
 $ns_ at 122 "$node_(249) setdest 2947 2332 0"
 $ns_ at 123 "$node_(249) setdest 2956 2332 0"
-$node_(250) set X_ 2899
-$node_(250) set Y_ 446
-$node_(250) set Z_ 0
 $ns_ at 3 "$node_(250) setdest 2899 446 0"
 $ns_ at 4 "$node_(250) setdest 2877 445 0"
 $ns_ at 5 "$node_(250) setdest 2856 444 0"
@@ -36522,9 +35768,6 @@ $ns_ at 120 "$node_(250) setdest 322 407 0"
 $ns_ at 121 "$node_(250) setdest 299 407 0"
 $ns_ at 122 "$node_(250) setdest 276 407 0"
 $ns_ at 123 "$node_(250) setdest 254 407 0"
-$node_(251) set X_ 2173
-$node_(251) set Y_ 1509
-$node_(251) set Z_ 0
 $ns_ at 0 "$node_(251) setdest 2173 1509 0"
 $ns_ at 1 "$node_(251) setdest 2173 1504 0"
 $ns_ at 2 "$node_(251) setdest 2173 1500 0"
@@ -36826,9 +36069,6 @@ $ns_ at 297 "$node_(251) setdest 538 88 0"
 $ns_ at 298 "$node_(251) setdest 538 82 0"
 $ns_ at 299 "$node_(251) setdest 539 76 0"
 $ns_ at 300 "$node_(251) setdest 540 71 0"
-$node_(252) set X_ 2626
-$node_(252) set Y_ 2423
-$node_(252) set Z_ 0
 $ns_ at 1 "$node_(252) setdest 2626 2423 0"
 $ns_ at 2 "$node_(252) setdest 2619 2422 0"
 $ns_ at 3 "$node_(252) setdest 2612 2422 0"
@@ -37070,9 +36310,6 @@ $ns_ at 238 "$node_(252) setdest 595 2367 0"
 $ns_ at 239 "$node_(252) setdest 589 2367 0"
 $ns_ at 240 "$node_(252) setdest 584 2367 0"
 $ns_ at 241 "$node_(252) setdest 579 2368 0"
-$node_(253) set X_ 336
-$node_(253) set Y_ 396
-$node_(253) set Z_ 0
 $ns_ at 1 "$node_(253) setdest 336 396 0"
 $ns_ at 2 "$node_(253) setdest 347 396 0"
 $ns_ at 3 "$node_(253) setdest 359 396 0"
@@ -37134,9 +36371,6 @@ $ns_ at 58 "$node_(253) setdest 1008 405 0"
 $ns_ at 59 "$node_(253) setdest 1020 405 0"
 $ns_ at 60 "$node_(253) setdest 1032 405 0"
 $ns_ at 61 "$node_(253) setdest 1044 406 0"
-$node_(254) set X_ 2219
-$node_(254) set Y_ 378
-$node_(254) set Z_ 0
 $ns_ at 2 "$node_(254) setdest 2219 378 0"
 $ns_ at 3 "$node_(254) setdest 2207 378 0"
 $ns_ at 4 "$node_(254) setdest 2196 379 0"
@@ -37438,9 +36672,6 @@ $ns_ at 299 "$node_(254) setdest 578 2341 0"
 $ns_ at 300 "$node_(254) setdest 578 2348 0"
 $ns_ at 301 "$node_(254) setdest 578 2355 0"
 $ns_ at 302 "$node_(254) setdest 578 2362 0"
-$node_(255) set X_ 511
-$node_(255) set Y_ 1038
-$node_(255) set Z_ 0
 $ns_ at 0 "$node_(255) setdest 511 1038 0"
 $ns_ at 1 "$node_(255) setdest 511 1024 0"
 $ns_ at 2 "$node_(255) setdest 512 1010 0"
@@ -37502,9 +36733,6 @@ $ns_ at 57 "$node_(255) setdest 549 266 0"
 $ns_ at 58 "$node_(255) setdest 549 253 0"
 $ns_ at 59 "$node_(255) setdest 550 239 0"
 $ns_ at 60 "$node_(255) setdest 551 226 0"
-$node_(256) set X_ 546
-$node_(256) set Y_ 2351
-$node_(256) set Z_ 0
 $ns_ at 0 "$node_(256) setdest 546 2351 0"
 $ns_ at 1 "$node_(256) setdest 546 2351 0"
 $ns_ at 2 "$node_(256) setdest 546 2351 0"
@@ -37746,9 +36974,6 @@ $ns_ at 237 "$node_(256) setdest 2411 2371 0"
 $ns_ at 238 "$node_(256) setdest 2430 2371 0"
 $ns_ at 239 "$node_(256) setdest 2449 2372 0"
 $ns_ at 240 "$node_(256) setdest 2468 2373 0"
-$node_(257) set X_ 2337
-$node_(257) set Y_ 452
-$node_(257) set Z_ 0
 $ns_ at 0 "$node_(257) setdest 2337 452 0"
 $ns_ at 1 "$node_(257) setdest 2328 451 0"
 $ns_ at 2 "$node_(257) setdest 2320 451 0"
@@ -37930,9 +37155,6 @@ $ns_ at 177 "$node_(257) setdest 488 419 0"
 $ns_ at 178 "$node_(257) setdest 477 419 0"
 $ns_ at 179 "$node_(257) setdest 465 419 0"
 $ns_ at 180 "$node_(257) setdest 454 419 0"
-$node_(258) set X_ 1398
-$node_(258) set Y_ 399
-$node_(258) set Z_ 0
 $ns_ at 0 "$node_(258) setdest 1398 399 0"
 $ns_ at 1 "$node_(258) setdest 1414 399 0"
 $ns_ at 2 "$node_(258) setdest 1430 399 0"
@@ -37994,9 +37216,6 @@ $ns_ at 57 "$node_(258) setdest 2333 418 0"
 $ns_ at 58 "$node_(258) setdest 2350 419 0"
 $ns_ at 59 "$node_(258) setdest 2366 419 0"
 $ns_ at 60 "$node_(258) setdest 2383 420 0"
-$node_(259) set X_ 815
-$node_(259) set Y_ 402
-$node_(259) set Z_ 0
 $ns_ at 2 "$node_(259) setdest 815 402 0"
 $ns_ at 3 "$node_(259) setdest 836 402 0"
 $ns_ at 4 "$node_(259) setdest 857 402 0"
@@ -38058,9 +37277,6 @@ $ns_ at 59 "$node_(259) setdest 2016 417 0"
 $ns_ at 60 "$node_(259) setdest 2037 417 0"
 $ns_ at 61 "$node_(259) setdest 2058 417 0"
 $ns_ at 62 "$node_(259) setdest 2080 418 0"
-$node_(260) set X_ 2589
-$node_(260) set Y_ 2386
-$node_(260) set Z_ 0
 $ns_ at 4 "$node_(260) setdest 2589 2386 0"
 $ns_ at 5 "$node_(260) setdest 2565 2385 0"
 $ns_ at 6 "$node_(260) setdest 2542 2384 0"
@@ -38122,9 +37338,6 @@ $ns_ at 61 "$node_(260) setdest 1269 2348 0"
 $ns_ at 62 "$node_(260) setdest 1246 2347 0"
 $ns_ at 63 "$node_(260) setdest 1223 2346 0"
 $ns_ at 64 "$node_(260) setdest 1200 2346 0"
-$node_(261) set X_ 50
-$node_(261) set Y_ 2298
-$node_(261) set Z_ 0
 $ns_ at 3 "$node_(261) setdest 50 2298 0"
 $ns_ at 4 "$node_(261) setdest 71 2298 0"
 $ns_ at 5 "$node_(261) setdest 93 2299 0"
@@ -38246,9 +37459,6 @@ $ns_ at 120 "$node_(261) setdest 2603 2372 0"
 $ns_ at 121 "$node_(261) setdest 2625 2372 0"
 $ns_ at 122 "$node_(261) setdest 2647 2373 0"
 $ns_ at 123 "$node_(261) setdest 2669 2374 0"
-$node_(262) set X_ 74
-$node_(262) set Y_ 2284
-$node_(262) set Z_ 0
 $ns_ at 1 "$node_(262) setdest 74 2284 0"
 $ns_ at 2 "$node_(262) setdest 82 2277 0"
 $ns_ at 3 "$node_(262) setdest 90 2270 0"
@@ -38430,9 +37640,6 @@ $ns_ at 178 "$node_(262) setdest 530 104 0"
 $ns_ at 179 "$node_(262) setdest 530 88 0"
 $ns_ at 180 "$node_(262) setdest 531 72 0"
 $ns_ at 181 "$node_(262) setdest 532 57 0"
-$node_(263) set X_ 324
-$node_(263) set Y_ 2308
-$node_(263) set Z_ 0
 $ns_ at 1 "$node_(263) setdest 324 2308 0"
 $ns_ at 2 "$node_(263) setdest 344 2308 0"
 $ns_ at 3 "$node_(263) setdest 364 2309 0"
@@ -38554,9 +37761,6 @@ $ns_ at 118 "$node_(263) setdest 2523 2354 0"
 $ns_ at 119 "$node_(263) setdest 2541 2354 0"
 $ns_ at 120 "$node_(263) setdest 2558 2354 0"
 $ns_ at 121 "$node_(263) setdest 2576 2355 0"
-$node_(264) set X_ 490
-$node_(264) set Y_ 2314
-$node_(264) set Z_ 0
 $ns_ at 8 "$node_(264) setdest 490 2314 0"
 $ns_ at 9 "$node_(264) setdest 517 2314 0"
 $ns_ at 10 "$node_(264) setdest 544 2315 0"
@@ -38618,9 +37822,6 @@ $ns_ at 65 "$node_(264) setdest 2042 2357 0"
 $ns_ at 66 "$node_(264) setdest 2069 2358 0"
 $ns_ at 67 "$node_(264) setdest 2096 2359 0"
 $ns_ at 68 "$node_(264) setdest 2124 2360 0"
-$node_(265) set X_ 2787
-$node_(265) set Y_ 440
-$node_(265) set Z_ 0
 $ns_ at 1 "$node_(265) setdest 2787 440 0"
 $ns_ at 2 "$node_(265) setdest 2777 439 0"
 $ns_ at 3 "$node_(265) setdest 2768 439 0"
@@ -38742,9 +37943,6 @@ $ns_ at 118 "$node_(265) setdest 1087 408 0"
 $ns_ at 119 "$node_(265) setdest 1067 408 0"
 $ns_ at 120 "$node_(265) setdest 1047 408 0"
 $ns_ at 121 "$node_(265) setdest 1028 408 0"
-$node_(266) set X_ 76
-$node_(266) set Y_ 2302
-$node_(266) set Z_ 0
 $ns_ at 6 "$node_(266) setdest 76 2302 0"
 $ns_ at 7 "$node_(266) setdest 97 2302 0"
 $ns_ at 8 "$node_(266) setdest 118 2303 0"
@@ -38866,9 +38064,6 @@ $ns_ at 123 "$node_(266) setdest 2468 2358 0"
 $ns_ at 124 "$node_(266) setdest 2488 2359 0"
 $ns_ at 125 "$node_(266) setdest 2507 2359 0"
 $ns_ at 126 "$node_(266) setdest 2527 2360 0"
-$node_(267) set X_ 394
-$node_(267) set Y_ 398
-$node_(267) set Z_ 0
 $ns_ at 1 "$node_(267) setdest 394 398 0"
 $ns_ at 2 "$node_(267) setdest 416 398 0"
 $ns_ at 3 "$node_(267) setdest 438 398 0"
@@ -38990,9 +38185,6 @@ $ns_ at 118 "$node_(267) setdest 2895 436 0"
 $ns_ at 119 "$node_(267) setdest 2915 436 0"
 $ns_ at 120 "$node_(267) setdest 2936 437 0"
 $ns_ at 121 "$node_(267) setdest 2957 438 0"
-$node_(268) set X_ 82
-$node_(268) set Y_ 2302
-$node_(268) set Z_ 0
 $ns_ at 2 "$node_(268) setdest 82 2302 0"
 $ns_ at 3 "$node_(268) setdest 106 2302 0"
 $ns_ at 4 "$node_(268) setdest 131 2303 0"
@@ -39114,9 +38306,6 @@ $ns_ at 119 "$node_(268) setdest 2844 2385 0"
 $ns_ at 120 "$node_(268) setdest 2866 2385 0"
 $ns_ at 121 "$node_(268) setdest 2889 2386 0"
 $ns_ at 122 "$node_(268) setdest 2912 2387 0"
-$node_(269) set X_ 620
-$node_(269) set Y_ 404
-$node_(269) set Z_ 0
 $ns_ at 1 "$node_(269) setdest 620 404 0"
 $ns_ at 2 "$node_(269) setdest 629 404 0"
 $ns_ at 3 "$node_(269) setdest 639 404 0"
@@ -39238,9 +38427,6 @@ $ns_ at 118 "$node_(269) setdest 2459 425 0"
 $ns_ at 119 "$node_(269) setdest 2481 426 0"
 $ns_ at 120 "$node_(269) setdest 2503 426 0"
 $ns_ at 121 "$node_(269) setdest 2525 427 0"
-$node_(270) set X_ 2325
-$node_(270) set Y_ 429
-$node_(270) set Z_ 0
 $ns_ at 3 "$node_(270) setdest 2325 429 0"
 $ns_ at 4 "$node_(270) setdest 2314 428 0"
 $ns_ at 5 "$node_(270) setdest 2303 428 0"
@@ -39542,9 +38728,6 @@ $ns_ at 300 "$node_(270) setdest 551 2331 0"
 $ns_ at 301 "$node_(270) setdest 551 2338 0"
 $ns_ at 302 "$node_(270) setdest 550 2345 0"
 $ns_ at 303 "$node_(270) setdest 550 2353 0"
-$node_(271) set X_ 2976
-$node_(271) set Y_ 2631
-$node_(271) set Z_ 0
 $ns_ at 6 "$node_(271) setdest 2976 2631 0"
 $ns_ at 7 "$node_(271) setdest 2973 2636 0"
 $ns_ at 8 "$node_(271) setdest 2970 2642 0"
@@ -39606,9 +38789,6 @@ $ns_ at 63 "$node_(271) setdest 2824 2966 0"
 $ns_ at 64 "$node_(271) setdest 2822 2972 0"
 $ns_ at 65 "$node_(271) setdest 2819 2978 0"
 $ns_ at 66 "$node_(271) setdest 2817 2984 0"
-$node_(272) set X_ 661
-$node_(272) set Y_ 350
-$node_(272) set Z_ 0
 $ns_ at 5 "$node_(272) setdest 661 350 0"
 $ns_ at 6 "$node_(272) setdest 660 365 0"
 $ns_ at 7 "$node_(272) setdest 659 380 0"
@@ -39850,9 +39030,6 @@ $ns_ at 242 "$node_(272) setdest 552 2436 0"
 $ns_ at 243 "$node_(272) setdest 551 2440 0"
 $ns_ at 244 "$node_(272) setdest 551 2444 0"
 $ns_ at 245 "$node_(272) setdest 551 2448 0"
-$node_(273) set X_ 1371
-$node_(273) set Y_ 2338
-$node_(273) set Z_ 0
 $ns_ at 5 "$node_(273) setdest 1371 2338 0"
 $ns_ at 6 "$node_(273) setdest 1394 2338 0"
 $ns_ at 7 "$node_(273) setdest 1417 2339 0"
@@ -39914,9 +39091,6 @@ $ns_ at 62 "$node_(273) setdest 2701 2375 0"
 $ns_ at 63 "$node_(273) setdest 2725 2375 0"
 $ns_ at 64 "$node_(273) setdest 2748 2376 0"
 $ns_ at 65 "$node_(273) setdest 2772 2377 0"
-$node_(274) set X_ 2533
-$node_(274) set Y_ 2382
-$node_(274) set Z_ 0
 $ns_ at 3 "$node_(274) setdest 2533 2382 0"
 $ns_ at 4 "$node_(274) setdest 2508 2381 0"
 $ns_ at 5 "$node_(274) setdest 2483 2380 0"
@@ -39978,9 +39152,6 @@ $ns_ at 60 "$node_(274) setdest 1127 2341 0"
 $ns_ at 61 "$node_(274) setdest 1103 2340 0"
 $ns_ at 62 "$node_(274) setdest 1078 2339 0"
 $ns_ at 63 "$node_(274) setdest 1054 2339 0"
-$node_(275) set X_ 1803
-$node_(275) set Y_ 418
-$node_(275) set Z_ 0
 $ns_ at 7 "$node_(275) setdest 1803 418 0"
 $ns_ at 8 "$node_(275) setdest 1779 417 0"
 $ns_ at 9 "$node_(275) setdest 1755 417 0"
@@ -40042,9 +39213,6 @@ $ns_ at 64 "$node_(275) setdest 444 406 0"
 $ns_ at 65 "$node_(275) setdest 420 406 0"
 $ns_ at 66 "$node_(275) setdest 396 406 0"
 $ns_ at 67 "$node_(275) setdest 373 406 0"
-$node_(276) set X_ 326
-$node_(276) set Y_ 2303
-$node_(276) set Z_ 0
 $ns_ at 7 "$node_(276) setdest 326 2303 0"
 $ns_ at 8 "$node_(276) setdest 336 2303 0"
 $ns_ at 9 "$node_(276) setdest 346 2303 0"
@@ -40166,9 +39334,6 @@ $ns_ at 124 "$node_(276) setdest 1881 2340 0"
 $ns_ at 125 "$node_(276) setdest 1898 2341 0"
 $ns_ at 126 "$node_(276) setdest 1914 2341 0"
 $ns_ at 127 "$node_(276) setdest 1931 2342 0"
-$node_(277) set X_ 1384
-$node_(277) set Y_ 417
-$node_(277) set Z_ 0
 $ns_ at 8 "$node_(277) setdest 1384 417 0"
 $ns_ at 9 "$node_(277) setdest 1369 418 0"
 $ns_ at 10 "$node_(277) setdest 1354 419 0"
@@ -40230,9 +39395,6 @@ $ns_ at 65 "$node_(277) setdest 541 493 0"
 $ns_ at 66 "$node_(277) setdest 526 495 0"
 $ns_ at 67 "$node_(277) setdest 511 496 0"
 $ns_ at 68 "$node_(277) setdest 497 498 0"
-$node_(278) set X_ 2883
-$node_(278) set Y_ 446
-$node_(278) set Z_ 0
 $ns_ at 3 "$node_(278) setdest 2883 446 0"
 $ns_ at 4 "$node_(278) setdest 2862 445 0"
 $ns_ at 5 "$node_(278) setdest 2842 445 0"
@@ -40414,9 +39576,6 @@ $ns_ at 180 "$node_(278) setdest 639 1015 0"
 $ns_ at 181 "$node_(278) setdest 636 1025 0"
 $ns_ at 182 "$node_(278) setdest 633 1035 0"
 $ns_ at 183 "$node_(278) setdest 631 1045 0"
-$node_(279) set X_ 1526
-$node_(279) set Y_ 411
-$node_(279) set Z_ 0
 $ns_ at 0 "$node_(279) setdest 1526 411 0"
 $ns_ at 1 "$node_(279) setdest 1502 410 0"
 $ns_ at 2 "$node_(279) setdest 1478 410 0"
@@ -40478,9 +39637,6 @@ $ns_ at 57 "$node_(279) setdest 166 405 0"
 $ns_ at 58 "$node_(279) setdest 142 405 0"
 $ns_ at 59 "$node_(279) setdest 118 405 0"
 $ns_ at 60 "$node_(279) setdest 95 405 0"
-$node_(280) set X_ 646
-$node_(280) set Y_ 948
-$node_(280) set Z_ 0
 $ns_ at 8 "$node_(280) setdest 646 948 0"
 $ns_ at 9 "$node_(280) setdest 652 950 0"
 $ns_ at 10 "$node_(280) setdest 658 953 0"
@@ -40542,9 +39698,6 @@ $ns_ at 65 "$node_(280) setdest 994 1115 0"
 $ns_ at 66 "$node_(280) setdest 1000 1118 0"
 $ns_ at 67 "$node_(280) setdest 1006 1121 0"
 $ns_ at 68 "$node_(280) setdest 1013 1124 0"
-$node_(281) set X_ 1418
-$node_(281) set Y_ 2340
-$node_(281) set Z_ 0
 $ns_ at 5 "$node_(281) setdest 1418 2340 0"
 $ns_ at 6 "$node_(281) setdest 1438 2340 0"
 $ns_ at 7 "$node_(281) setdest 1458 2340 0"
@@ -40606,9 +39759,6 @@ $ns_ at 62 "$node_(281) setdest 2580 2362 0"
 $ns_ at 63 "$node_(281) setdest 2601 2363 0"
 $ns_ at 64 "$node_(281) setdest 2621 2363 0"
 $ns_ at 65 "$node_(281) setdest 2642 2364 0"
-$node_(282) set X_ 1642
-$node_(282) set Y_ 414
-$node_(282) set Z_ 0
 $ns_ at 0 "$node_(282) setdest 1642 414 0"
 $ns_ at 1 "$node_(282) setdest 1619 413 0"
 $ns_ at 2 "$node_(282) setdest 1597 413 0"
@@ -40670,9 +39820,6 @@ $ns_ at 57 "$node_(282) setdest 370 411 0"
 $ns_ at 58 "$node_(282) setdest 348 411 0"
 $ns_ at 59 "$node_(282) setdest 326 411 0"
 $ns_ at 60 "$node_(282) setdest 304 411 0"
-$node_(283) set X_ 472
-$node_(283) set Y_ 403
-$node_(283) set Z_ 0
 $ns_ at 4 "$node_(283) setdest 472 403 0"
 $ns_ at 5 "$node_(283) setdest 496 403 0"
 $ns_ at 6 "$node_(283) setdest 521 403 0"
@@ -40734,9 +39881,6 @@ $ns_ at 61 "$node_(283) setdest 1871 415 0"
 $ns_ at 62 "$node_(283) setdest 1895 415 0"
 $ns_ at 63 "$node_(283) setdest 1920 415 0"
 $ns_ at 64 "$node_(283) setdest 1945 416 0"
-$node_(284) set X_ 2586
-$node_(284) set Y_ 2390
-$node_(284) set Z_ 0
 $ns_ at 5 "$node_(284) setdest 2586 2390 0"
 $ns_ at 6 "$node_(284) setdest 2560 2389 0"
 $ns_ at 7 "$node_(284) setdest 2535 2388 0"
@@ -40978,9 +40122,6 @@ $ns_ at 242 "$node_(284) setdest 512 1119 0"
 $ns_ at 243 "$node_(284) setdest 511 1107 0"
 $ns_ at 244 "$node_(284) setdest 510 1095 0"
 $ns_ at 245 "$node_(284) setdest 510 1084 0"
-$node_(285) set X_ 1641
-$node_(285) set Y_ 2356
-$node_(285) set Z_ 0
 $ns_ at 4 "$node_(285) setdest 1641 2356 0"
 $ns_ at 5 "$node_(285) setdest 1617 2355 0"
 $ns_ at 6 "$node_(285) setdest 1593 2354 0"
@@ -41042,9 +40183,6 @@ $ns_ at 61 "$node_(285) setdest 293 2316 0"
 $ns_ at 62 "$node_(285) setdest 270 2315 0"
 $ns_ at 63 "$node_(285) setdest 246 2314 0"
 $ns_ at 64 "$node_(285) setdest 223 2314 0"
-$node_(286) set X_ 674
-$node_(286) set Y_ 384
-$node_(286) set Z_ 0
 $ns_ at 8 "$node_(286) setdest 674 384 0"
 $ns_ at 9 "$node_(286) setdest 690 383 0"
 $ns_ at 10 "$node_(286) setdest 706 383 0"
@@ -41106,9 +40244,6 @@ $ns_ at 65 "$node_(286) setdest 1611 381 0"
 $ns_ at 66 "$node_(286) setdest 1628 381 0"
 $ns_ at 67 "$node_(286) setdest 1644 381 0"
 $ns_ at 68 "$node_(286) setdest 1661 381 0"
-$node_(287) set X_ 980
-$node_(287) set Y_ 405
-$node_(287) set Z_ 0
 $ns_ at 0 "$node_(287) setdest 980 405 0"
 $ns_ at 1 "$node_(287) setdest 1004 405 0"
 $ns_ at 2 "$node_(287) setdest 1028 405 0"
@@ -41170,9 +40305,6 @@ $ns_ at 57 "$node_(287) setdest 2350 423 0"
 $ns_ at 58 "$node_(287) setdest 2374 423 0"
 $ns_ at 59 "$node_(287) setdest 2398 423 0"
 $ns_ at 60 "$node_(287) setdest 2423 424 0"
-$node_(288) set X_ 501
-$node_(288) set Y_ 400
-$node_(288) set Z_ 0
 $ns_ at 1 "$node_(288) setdest 501 400 0"
 $ns_ at 2 "$node_(288) setdest 521 400 0"
 $ns_ at 3 "$node_(288) setdest 542 400 0"
@@ -41234,9 +40366,6 @@ $ns_ at 58 "$node_(288) setdest 1697 406 0"
 $ns_ at 59 "$node_(288) setdest 1718 406 0"
 $ns_ at 60 "$node_(288) setdest 1739 406 0"
 $ns_ at 61 "$node_(288) setdest 1760 407 0"
-$node_(289) set X_ 433
-$node_(289) set Y_ 2964
-$node_(289) set Z_ 0
 $ns_ at 7 "$node_(289) setdest 433 2964 0"
 $ns_ at 8 "$node_(289) setdest 445 2964 0"
 $ns_ at 9 "$node_(289) setdest 457 2964 0"
@@ -41298,9 +40427,6 @@ $ns_ at 64 "$node_(289) setdest 1118 2982 0"
 $ns_ at 65 "$node_(289) setdest 1130 2982 0"
 $ns_ at 66 "$node_(289) setdest 1142 2982 0"
 $ns_ at 67 "$node_(289) setdest 1155 2983 0"
-$node_(290) set X_ 526
-$node_(290) set Y_ 2313
-$node_(290) set Z_ 0
 $ns_ at 0 "$node_(290) setdest 526 2313 0"
 $ns_ at 1 "$node_(290) setdest 549 2313 0"
 $ns_ at 2 "$node_(290) setdest 573 2314 0"
@@ -41362,9 +40488,6 @@ $ns_ at 57 "$node_(290) setdest 1884 2355 0"
 $ns_ at 58 "$node_(290) setdest 1908 2356 0"
 $ns_ at 59 "$node_(290) setdest 1932 2357 0"
 $ns_ at 60 "$node_(290) setdest 1956 2358 0"
-$node_(291) set X_ 1244
-$node_(291) set Y_ 2331
-$node_(291) set Z_ 0
 $ns_ at 0 "$node_(291) setdest 1244 2331 0"
 $ns_ at 1 "$node_(291) setdest 1265 2331 0"
 $ns_ at 2 "$node_(291) setdest 1287 2332 0"
@@ -41426,9 +40549,6 @@ $ns_ at 57 "$node_(291) setdest 2479 2367 0"
 $ns_ at 58 "$node_(291) setdest 2500 2367 0"
 $ns_ at 59 "$node_(291) setdest 2522 2368 0"
 $ns_ at 60 "$node_(291) setdest 2544 2369 0"
-$node_(292) set X_ 1982
-$node_(292) set Y_ 422
-$node_(292) set Z_ 0
 $ns_ at 2 "$node_(292) setdest 1982 422 0"
 $ns_ at 3 "$node_(292) setdest 1962 421 0"
 $ns_ at 4 "$node_(292) setdest 1942 421 0"
@@ -41490,9 +40610,6 @@ $ns_ at 59 "$node_(292) setdest 851 420 0"
 $ns_ at 60 "$node_(292) setdest 831 420 0"
 $ns_ at 61 "$node_(292) setdest 811 420 0"
 $ns_ at 62 "$node_(292) setdest 792 420 0"
-$node_(293) set X_ 2448
-$node_(293) set Y_ 2379
-$node_(293) set Z_ 0
 $ns_ at 3 "$node_(293) setdest 2448 2379 0"
 $ns_ at 4 "$node_(293) setdest 2425 2378 0"
 $ns_ at 5 "$node_(293) setdest 2402 2377 0"
@@ -41554,9 +40671,6 @@ $ns_ at 60 "$node_(293) setdest 1148 2347 0"
 $ns_ at 61 "$node_(293) setdest 1125 2347 0"
 $ns_ at 62 "$node_(293) setdest 1102 2346 0"
 $ns_ at 63 "$node_(293) setdest 1080 2346 0"
-$node_(294) set X_ 677
-$node_(294) set Y_ 85
-$node_(294) set Z_ 0
 $ns_ at 4 "$node_(294) setdest 677 85 0"
 $ns_ at 5 "$node_(294) setdest 676 101 0"
 $ns_ at 6 "$node_(294) setdest 675 117 0"
@@ -41738,9 +40852,6 @@ $ns_ at 181 "$node_(294) setdest 79 2315 0"
 $ns_ at 182 "$node_(294) setdest 71 2321 0"
 $ns_ at 183 "$node_(294) setdest 62 2326 0"
 $ns_ at 184 "$node_(294) setdest 54 2332 0"
-$node_(295) set X_ 2743
-$node_(295) set Y_ 2398
-$node_(295) set Z_ 0
 $ns_ at 7 "$node_(295) setdest 2743 2398 0"
 $ns_ at 8 "$node_(295) setdest 2717 2397 0"
 $ns_ at 9 "$node_(295) setdest 2691 2396 0"
@@ -41862,9 +40973,6 @@ $ns_ at 124 "$node_(295) setdest 558 2360 0"
 $ns_ at 125 "$node_(295) setdest 547 2360 0"
 $ns_ at 126 "$node_(295) setdest 536 2360 0"
 $ns_ at 127 "$node_(295) setdest 526 2361 0"
-$node_(296) set X_ 615
-$node_(296) set Y_ 389
-$node_(296) set Z_ 0
 $ns_ at 0 "$node_(296) setdest 615 389 0"
 $ns_ at 1 "$node_(296) setdest 615 389 0"
 $ns_ at 2 "$node_(296) setdest 616 390 0"
@@ -42166,9 +41274,6 @@ $ns_ at 297 "$node_(296) setdest 2503 2375 0"
 $ns_ at 298 "$node_(296) setdest 2527 2376 0"
 $ns_ at 299 "$node_(296) setdest 2550 2377 0"
 $ns_ at 300 "$node_(296) setdest 2574 2378 0"
-$node_(297) set X_ 646
-$node_(297) set Y_ 862
-$node_(297) set Z_ 0
 $ns_ at 8 "$node_(297) setdest 646 862 0"
 $ns_ at 9 "$node_(297) setdest 649 869 0"
 $ns_ at 10 "$node_(297) setdest 653 876 0"
@@ -42230,9 +41335,6 @@ $ns_ at 65 "$node_(297) setdest 845 1264 0"
 $ns_ at 66 "$node_(297) setdest 849 1271 0"
 $ns_ at 67 "$node_(297) setdest 852 1278 0"
 $ns_ at 68 "$node_(297) setdest 856 1286 0"
-$node_(298) set X_ 339
-$node_(298) set Y_ 400
-$node_(298) set Z_ 0
 $ns_ at 7 "$node_(298) setdest 339 400 0"
 $ns_ at 8 "$node_(298) setdest 361 400 0"
 $ns_ at 9 "$node_(298) setdest 384 400 0"
@@ -42354,9 +41456,6 @@ $ns_ at 124 "$node_(298) setdest 2819 428 0"
 $ns_ at 125 "$node_(298) setdest 2839 429 0"
 $ns_ at 126 "$node_(298) setdest 2859 429 0"
 $ns_ at 127 "$node_(298) setdest 2879 430 0"
-$node_(299) set X_ 1610
-$node_(299) set Y_ 2362
-$node_(299) set Z_ 0
 $ns_ at 3 "$node_(299) setdest 1610 2362 0"
 $ns_ at 4 "$node_(299) setdest 1586 2361 0"
 $ns_ at 5 "$node_(299) setdest 1563 2360 0"

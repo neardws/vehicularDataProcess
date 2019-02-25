@@ -200,7 +200,7 @@ def getvehicleinfo():
 sqlcreattem()
 
 
-#getvehicleid()
+getvehicleid()
 
 
-getvehicleinfo()
+#getvehicleinfo()
