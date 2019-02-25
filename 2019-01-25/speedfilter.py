@@ -3,7 +3,7 @@ import re
 
 def writeline(line):
     try:
-        tclfile = open("chengdu3amfilterspeed.tcl","a")
+        tclfile = open("chengdu3amfilterspeed300.tcl","a")
         tclfile.writelines(line)
     finally:
         if tclfile:
@@ -96,7 +96,7 @@ def speedset(filename):
     sortlist = sorted(nodelist, key=lambda node: node.speed, reverse=True)
     speedset = set()
     print(sortlist)
-    num = 500
+    num = 300
     for node in sortlist:
         speedset.add(node.id)
         print(node)

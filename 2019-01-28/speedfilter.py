@@ -3,7 +3,7 @@ import re
 
 def writeline(line):
     try:
-        tclfile = open("beijing3amfilterspeed.tcl","a")
+        tclfile = open("beijing3pmfilterspeed300.tcl","a")
         tclfile.writelines(line)
     finally:
         if tclfile:
@@ -105,7 +105,7 @@ def speedset(filename):
     sortlist = sorted(nodelist, key=lambda node: node.speed, reverse=True)
     speedset = set()
     print(sortlist)
-    num = 500
+    num = 300
     for node in sortlist:
         speedset.add(node.id)
         print(node)
@@ -147,5 +147,5 @@ def filter(filename):
             # print('not match')
 
 
-filter("beijing3am.tcl")
+filter("beijing3pm.tcl")
 

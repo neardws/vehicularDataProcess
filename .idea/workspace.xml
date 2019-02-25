@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2019-02-25/chengdu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-01-25/speedfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019-01-25/speedfilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-01-28/speedfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019-01-28/speedfilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-02-25/chengdu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2019-02-25/chengdu.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="104" />
-          <entry key="py" value="8937" />
+          <entry key="py" value="8947" />
           <entry key="tcl" value="4" />
         </counts>
       </usages-collector>
@@ -75,114 +77,34 @@
         <counts>
           <entry key="Markdown" value="104" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="8937" />
+          <entry key="Python" value="8947" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="30" />
+          <entry key="py" value="33" />
           <entry key="swp" value="1" />
-          <entry key="tcl" value="91" />
+          <entry key="tcl" value="93" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="97" />
-          <entry key="Python" value="30" />
+          <entry key="PLAIN_TEXT" value="99" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-01-25/speedfilter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="123" column="39" lean-forward="true" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="140" column="50" lean-forward="true" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="27644" column="14" lean-forward="true" selection-start-line="27644" selection-start-column="14" selection-end-line="27644" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1387">
-              <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-401">
-              <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed.tcl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="1183" column="41" selection-start-line="1183" selection-start-column="41" selection-end-line="1183" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processChendu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1548378438923" expanded="true" signature="4815:4859" ph="..." />
-                <marker date="1548378438923" expanded="true" signature="4942:4947" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processData_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1010">
-              <caret line="162" column="36" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processGPS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-629">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -221,13 +143,13 @@
         <option value="$PROJECT_DIR$/2019-01-24-all/speedfilter.py" />
         <option value="$PROJECT_DIR$/2019-01-24-all/chengdu3amspeed.tcl" />
         <option value="$PROJECT_DIR$/processChendu.py" />
-        <option value="$PROJECT_DIR$/2019-01-25/speedfilter.py" />
         <option value="$PROJECT_DIR$/processData.py" />
-        <option value="$PROJECT_DIR$/2019-01-28/speedfilter.py" />
         <option value="$PROJECT_DIR$/chengdu.py" />
         <option value="$PROJECT_DIR$/2019-02-25/speedfilter.py" />
         <option value="$PROJECT_DIR$/2019-02-25/chengdu.py" />
         <option value="$PROJECT_DIR$/2019-02-25/chengdu.txt" />
+        <option value="$PROJECT_DIR$/2019-01-25/speedfilter.py" />
+        <option value="$PROJECT_DIR$/2019-01-28/speedfilter.py" />
       </list>
     </option>
   </component>
@@ -275,7 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2019-02-25/chengdu.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2019-01-28/speedfilter.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -304,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chengdu">
+  <component name="RunManager" selected="Python.speedfilter">
     <configuration name="GPS" type="PythonConfigurationType" factoryName="Python">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -481,11 +403,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-01-25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-01-28" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-01-25/speedfilter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-01-28/speedfilter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -554,12 +476,12 @@
     <frame x="0" y="53" width="1920" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.17535545" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.17535545" />
       <window_info id="Structure" order="1" sideWeight="0.5005348" side_tool="true" weight="0.17535545" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815693" visible="true" weight="0.37967914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49815693" visible="true" weight="0.37967914" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.3946524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,8 +518,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.output.tcl.swp" />
-    <entry file="file://$PROJECT_DIR$/docs/output.tcl" />
     <entry file="file://$PROJECT_DIR$/output2.tcl" />
     <entry file="file://$PROJECT_DIR$/docs/output2.tcl" />
     <entry file="file://$PROJECT_DIR$/docs/mobility.tcl" />
@@ -765,13 +685,6 @@
     <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3am.tcl">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="1183" column="41" selection-start-line="1183" selection-start-column="41" selection-end-line="1183" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/processGPS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -798,31 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1387">
-          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-401">
-          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019-02-25/speedfilter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/speedfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="123" column="39" lean-forward="true" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -848,8 +740,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="27644" column="14" lean-forward="true" selection-start-line="27644" selection-start-column="14" selection-end-line="27644" selection-end-column="14" />
+        <state relative-caret-position="284">
+          <caret line="27654" column="14" lean-forward="true" selection-start-line="27654" selection-start-column="14" selection-end-line="27654" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="1183" column="41" selection-start-line="1183" selection-start-column="41" selection-end-line="1183" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3amfilterspeed300.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-25/speedfilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed300.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902246" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
