@@ -3,10 +3,10 @@ import re
 
 def writeline(line):
     try:
-        tclfile = open("beijing3amfilterspeed500.tcl","a")
+        tclfile = open("beijing3pmfilterspeed500.tcl","a")
         tclfile.writelines(line)
     finally:
-        
+
         if tclfile:
             tclfile.close()
 
@@ -149,7 +149,7 @@ def filter(filename):
                     atnumpattern = re.compile('[0-9]\d*')
                     atnummatch = atnumpattern.search(atmatch.group())
                     atnum = int(atnummatch.group())
-                    if atnum <= 480:
+                    if atnum <= 600:
                         if number == -123:
                             writeline(line.replace(match.group(), 'node_(' + str(i)))
                             number = num
@@ -165,5 +165,5 @@ def filter(filename):
             # print('not match')
 
 
-filter("beijing3am.tcl")
+filter("beijing3pm.tcl")
 

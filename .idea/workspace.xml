@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed500.tcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed500.tcl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2019-01-28/speedfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019-01-28/speedfilter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +70,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="104" />
-          <entry key="py" value="9302" />
+          <entry key="py" value="9310" />
           <entry key="tcl" value="6" />
         </counts>
       </usages-collector>
@@ -76,7 +78,7 @@
         <counts>
           <entry key="Markdown" value="104" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="9302" />
+          <entry key="Python" value="9310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -84,14 +86,14 @@
           <entry key="md" value="2" />
           <entry key="py" value="38" />
           <entry key="swp" value="1" />
-          <entry key="tcl" value="112" />
+          <entry key="tcl" value="116" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="119" />
+          <entry key="PLAIN_TEXT" value="123" />
           <entry key="Python" value="38" />
         </counts>
       </usages-collector>
@@ -102,17 +104,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed500.tcl">
+        <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed500.tcl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28215">
-              <caret line="116583" column="11" selection-start-line="116583" selection-start-column="5" selection-end-line="116583" selection-end-column="11" />
+            <state relative-caret-position="211">
+              <caret line="62290" column="11" selection-start-line="62290" selection-start-column="5" selection-end-line="62290" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -122,15 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
               <caret line="3437" column="11" selection-start-line="3437" selection-start-column="5" selection-end-line="3437" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-01-25/speedfilter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2533">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
             </state>
           </provider>
         </entry>
@@ -211,10 +204,10 @@
       <find>at 59</find>
       <find>at 400</find>
       <find>at 500</find>
-      <find>at 600</find>
-      <find>speedset</find>
-      <find>at 480</find>
       <find>at 599</find>
+      <find>at 480</find>
+      <find>speedset</find>
+      <find>at 600</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -611,7 +604,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/mobility.tcl" />
     <entry file="file://$PROJECT_DIR$/output3.tcl" />
     <entry file="file://$PROJECT_DIR$/output.tcl" />
     <entry file="file://$PROJECT_DIR$/docs/beijing3pm.tcl">
@@ -837,13 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28215">
-          <caret line="116583" column="11" selection-start-line="116583" selection-start-column="5" selection-end-line="116583" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed300.tcl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -858,10 +843,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed500.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="116583" column="11" selection-start-line="116583" selection-start-column="5" selection-end-line="116583" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed500.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="62290" column="11" selection-start-line="62290" selection-start-column="5" selection-end-line="62290" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
