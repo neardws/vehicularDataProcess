@@ -3,9 +3,10 @@ import re
 
 def writeline(line):
     try:
-        tclfile = open("beijing3amfilterspeed300.tcl","a")
+        tclfile = open("beijing3amfilterspeed500.tcl","a")
         tclfile.writelines(line)
     finally:
+        
         if tclfile:
             tclfile.close()
 
@@ -43,11 +44,12 @@ def getxy(line):
 
 
 class Node:
-    def __init__(self, id, speed):
+    def __init__(self, id, speed, times):
         self.id = id
         self.speed = speed
+        self.times = times
     def __repr__(self):
-        return repr((self.id, self.speed))
+        return repr((self.id, self.speed, self.times))
 
 
 def speedset(filename):
@@ -73,11 +75,13 @@ def speedset(filename):
                     # print(node.id)
                     xy1 = getxy(line)
                     time1 = gettime(line)
+                    times = 0
                     # print("id = -666")
                 else:
                     if id == idnum:
                         xy2 = getxy(line)
                         time2 = gettime(line)
+                        times = times + 1
                         # print("id = idnum")
                         # print("idnum = "+ str(idnum))
                     else:
@@ -94,7 +98,7 @@ def speedset(filename):
                                 y1 = xy1.pop()
                                 # print("x2 =" + x2 + " y2 =" + y2 + " x1 =" + x1 + " y1 =" + y1 + " time2 =" + str(time2) + " time1 =" + str(time1))
                                 speed = getspeed(int(x2), int(y2), int(x1), int(y1), time2, time1)
-                                nodelist.append(Node(id, speed))
+                                nodelist.append(Node(id, speed, times))
                                 id = idnum
                                 time1 = gettime(line)
                                 xy1 = getxy(line)
@@ -105,11 +109,18 @@ def speedset(filename):
     sortlist = sorted(nodelist, key=lambda node: node.speed, reverse=True)
     speedset = set()
     print(sortlist)
-    num = 300
+    num = 250
     for node in sortlist:
         speedset.add(node.id)
         print(node)
         if len(speedset) == num:
+            break
+    sortlistTime = sorted(nodelist, key=lambda node: node.times, reverse=True)
+    for node in sortlistTime:
+        if node.id not in speedset:
+            speedset.add(node.id)
+            print(node)
+        if len(speedset) == 500:
             break
     print(speedset)
     return speedset
