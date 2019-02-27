@@ -126,6 +126,44 @@ def speedset(filename):
     return speedset
 
 
+# def filter(filename):
+#     idset = speedset(filename)
+#     print(idset)
+#     with open(filename) as f:
+#         content = f.readlines()
+#     i = 0
+#     number = -123
+#     for line in content:
+#         # print(line)
+#         pattern = re.compile(r'node_\([0-9]\d*')
+#         match = pattern.search(line)
+#         if match:
+#             # print(match.group())
+#             numpattern = re.compile('[0-9]\d*')
+#             nummatch = numpattern.search(match.group())
+#             num = int(nummatch.group())
+#             if num in idset:
+#                 atpattern = re.compile(r'at [0-9]\d*')
+#                 atmatch = atpattern.search(line)
+#                 if atmatch:
+#                     atnumpattern = re.compile('[0-9]\d*')
+#                     atnummatch = atnumpattern.search(atmatch.group())
+#                     atnum = int(atnummatch.group())
+#                     if atnum <= 600:
+#                         if number == -123:
+#                             writeline(line.replace(match.group(), 'node_(' + str(i)))
+#                             number = num
+#                         else:
+#                             if number == num:
+#                                 writeline(line.replace(match.group(), 'node_(' + str(i)))
+#                             else:
+#                                 i = i + 1
+#                                 number = num
+#                                 writeline(line.replace(match.group(), 'node_(' + str(i)))
+#         else:
+#             pass
+#             # print('not match')
+
 def filter(filename):
     idset = speedset(filename)
     print(idset)
@@ -143,23 +181,16 @@ def filter(filename):
             nummatch = numpattern.search(match.group())
             num = int(nummatch.group())
             if num in idset:
-                atpattern = re.compile(r'at [0-9]\d*')
-                atmatch = atpattern.search(line)
-                if atmatch:
-                    atnumpattern = re.compile('[0-9]\d*')
-                    atnummatch = atnumpattern.search(atmatch.group())
-                    atnum = int(atnummatch.group())
-                    if atnum <= 600:
-                        if number == -123:
-                            writeline(line.replace(match.group(), 'node_(' + str(i)))
-                            number = num
-                        else:
-                            if number == num:
-                                writeline(line.replace(match.group(), 'node_(' + str(i)))
-                            else:
-                                i = i + 1
-                                number = num
-                                writeline(line.replace(match.group(), 'node_(' + str(i)))
+                if number == -123:
+                    writeline(line.replace(match.group(), 'node_(' + str(i)))
+                    number = num
+                else:
+                    if number == num:
+                        writeline(line.replace(match.group(), 'node_(' + str(i)))
+                    else:
+                        i = i + 1
+                        number = num
+                        writeline(line.replace(match.group(), 'node_(' + str(i)))
         else:
             pass
             # print('not match')
