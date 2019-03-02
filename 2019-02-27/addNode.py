@@ -27,8 +27,8 @@ def filter(filename):
                 writeline(line)
             else:
                 if num == 480:
-                    for i in range(491,600):
-                        writeline(line.replace(match,'ns_ at '+str(i)))
+                    for i in range(480,600):
+                        writeline(line.replace(match.group(),'ns_ at '+str(i)))
                 else:
                     pass
         else:
