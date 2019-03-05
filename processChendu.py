@@ -69,7 +69,7 @@ def writenodetrace(id, x, y, time):
 # 	AND longitude <= 104.075824
 
 tablecondition = "WHERE `timeStamp`>='2014-08-20 09:00:00' " \
-                 "AND `timeStamp`<='2014-08-20 09:10:00' " \
+                 "AND `timeStamp`<='2014-08-20 09:05:00' " \
           "AND latitude>=30.646166 AND latitude<=30.676166" \
           "AND longitude>=104.045824 AND longitude<=104.075824"
 
@@ -103,7 +103,7 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 4
+    num = 20
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1

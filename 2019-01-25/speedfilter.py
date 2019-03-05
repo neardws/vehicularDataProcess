@@ -3,7 +3,7 @@ import re
 
 def writeline(line):
     try:
-        tclfile = open("chengdu3amfilterspeed300.tcl","a")
+        tclfile = open("chengdu3amfilterspeed300node.tcl","a")
         tclfile.writelines(line)
     finally:
         if tclfile:
@@ -123,23 +123,16 @@ def filter(filename):
             nummatch = numpattern.search(match.group())
             num = int(nummatch.group())
             if num in idset:
-                atpattern = re.compile(r'at [0-9]\d*')
-                atmatch = atpattern.search(line)
-                if atmatch:
-                    atnumpattern = re.compile('[0-9]\d*')
-                    atnummatch = atnumpattern.search(atmatch.group())
-                    atnum = int(atnummatch.group())
-                    if atnum <= 480:
-                        if number == -123:
-                            writeline(line.replace(match.group(), 'node_(' + str(i)))
-                            number = num
-                        else:
-                            if number == num:
-                                writeline(line.replace(match.group(), 'node_(' + str(i)))
-                            else:
-                                i = i + 1
-                                number = num
-                                writeline(line.replace(match.group(), 'node_(' + str(i)))
+                if number == -123:
+                    writeline(line.replace(match.group(), 'node_(' + str(i)))
+                    number = num
+                else:
+                    if number == num:
+                        writeline(line.replace(match.group(), 'node_(' + str(i)))
+                    else:
+                        i = i + 1
+                        number = num
+                        writeline(line.replace(match.group(), 'node_(' + str(i)))
         else:
             pass
             # print('not match')
