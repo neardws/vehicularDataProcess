@@ -36,7 +36,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("chengdu.txt","a")
+        tclfile = open("chengdu180.txt","a")
         tclfile.writelines(str(id)+" "+str(time)+" "+str(x)+" "+str(y)+"\n")
     finally:
         if tclfile:
@@ -106,7 +106,7 @@ def getvehicleid():
     for point in points:
         if point[1] >= num:  # value = 24
             i += 1
-            if i <= 110:
+            if i <= 180:
                 vehicleid.append(point[0])
     print("Number behind " + str(num) + " is "+str(i))
     return vehicleid
