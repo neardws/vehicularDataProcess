@@ -12,7 +12,7 @@ def writeline(line):
 
 
 def getspeed(x2, y2, x1, y1, t2, t1):
-    return int((abs(x2 - x1) + abs(y2 - y1)) / (t2 - t1))
+    return int((abs(x2 - x1) + abs(y2 - y1)))
 
 
 def gettime(line):
@@ -109,19 +109,19 @@ def speedset(filename):
     sortlist = sorted(nodelist, key=lambda node: node.speed, reverse=True)
     speedset = set()
     print(sortlist)
-    num = 250
+    num = 500
     for node in sortlist:
         speedset.add(node.id)
-        print(node)
+        # print(node)
         if len(speedset) == num:
             break
-    sortlistTime = sorted(nodelist, key=lambda node: node.times, reverse=True)
-    for node in sortlistTime:
-        if node.id not in speedset:
-            speedset.add(node.id)
-            print(node)
-        if len(speedset) == 500:
-            break
+    # sortlistTime = sorted(nodelist, key=lambda node: node.times, reverse=True)
+    # for node in sortlistTime:
+    #     if node.id not in speedset:
+    #         speedset.add(node.id)
+    #         print(node)
+    #     if len(speedset) == 500:
+    #         break
     print(speedset)
     return speedset
 
@@ -166,7 +166,7 @@ def speedset(filename):
 
 def filter(filename):
     idset = speedset(filename)
-    print(idset)
+    # print(idset)
     with open(filename) as f:
         content = f.readlines()
     i = 0
