@@ -17,8 +17,8 @@ def filter(filename):
         pattern = re.compile(r'\$ns_ at')
         match = pattern.search(line)
         if match:
-            writeline(line.replace('$ns_ at ', '').replace(' "$node_(', ' ')
-                      .replace(') setdest ', ' ').replace(' 0"', ''))
+            l = line.replace('$ns_ at ', '').replace(' "$node_(', ' ').replace(') setdest ', ' ').replace(' 0"', '').split(' ')
+            writeline(str(int(l[0]) + 1) + ' '+ str(int(l[1]) + 1) + ' ' + l[2] + ' ' + l[3])
         else:
             pass
             # print('not match')
