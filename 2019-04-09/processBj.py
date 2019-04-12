@@ -38,8 +38,6 @@ $node_(0) set X_ 150.0
 $node_(0) set Y_ 595.05
 $node_(0) set Z_ 0
 '''
-
-
 # def writeinitnode(id, x, y):
 #     try:
 #         tclfile = open("trace.csv","a")
@@ -58,7 +56,7 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 def writenodetrace(id, x, y, time):
     try:
         tclfile = open("trace.csv","a")
-        tclfile.writelines(str(x)+" "+str(y)+"\n")
+        tclfile.writelines(str(id)+","+str(time)+","+str(x)+","+str(y)+"\n")
     finally:
         if tclfile:
             tclfile.close()
@@ -95,8 +93,8 @@ baselongitude = 11634179
 basetimestamp = 1447425000
 
 
-tablecondition = "WHERE `timeStamp`>='5645f3e8' AND `timeStamp`<='5645f460' " \
-          "AND latitude>='3cfa47' AND latitude<='3d05ff'" \
+tablecondition = "WHERE " \
+          "latitude>='3cfa47' AND latitude<='3d05ff'" \
           "AND longitude>='b18603'AND longitude<='b191bb'"
 
 
@@ -158,7 +156,7 @@ def getvehicleinfo():
             y = gety(info[3])
             time = int(gettime(info[2]))
             if i == 1:
-                writeinitnode(baseid, x, y)
+                #writeinitnode(baseid, x, y)
                 #writenodetrace(baseid, x, y, time)
                 lasttime = time
                 timeid = time
@@ -181,7 +179,7 @@ def getvehicleinfo():
                             newx = int(lastx + (addx * n))
                             newy = int(lasty + (addy * n))
                             newtime = int(timeid + n)
-                            #writenodetrace(baseid, newx, newy, newtime)
+                            writenodetrace(baseid, newx, newy, newtime)
                             n += 1
                         timeid += timedifferent
                         lasttime = time
