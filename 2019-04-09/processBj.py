@@ -1,4 +1,5 @@
 import pymysql.cursors
+import random
 
 # 连接数据库
 connect = pymysql.Connect(
@@ -20,11 +21,11 @@ def strtonum(str):
 
 
 def getx(longitude):
-    return strtonum(longitude) / 100000
+    return strtonum(longitude) - baselongitude
 
 
 def gety(latitude):
-    return strtonum(latitude) / 100000
+    return strtonum(latitude) - baselatitude
 
 
 def gettime(timestamp):
@@ -55,8 +56,8 @@ $ns_ at 0.0 "$node_(0) setdest 150.0 595.05 19.96"
 
 def writenodetrace(id, x, y, time):
     try:
-        tclfile = open("trace.csv","a")
-        tclfile.writelines(str(id)+","+str(time)+","+str(x)+","+str(y)+"\n")
+        tclfile = open("trace.txt","a")
+        tclfile.writelines(str(time)+","+str(id)+","+str(x)+","+str(y)+"\n")
     finally:
         if tclfile:
             tclfile.close()
@@ -90,11 +91,11 @@ Chengdu      3*3       10PM
 
 baselatitude = 3996231
 baselongitude = 11634179
-basetimestamp = 1447425000
+basetimestamp = 1447376400
 
 
-tablecondition = "WHERE " \
-          "latitude>='3cfa47' AND latitude<='3d05ff'" \
+tablecondition = "WHERE `timeStamp`>='56453610' AND `timeStamp`<='56453868' " \
+          "AND latitude>='3cfa47' AND latitude<='3d05ff'" \
           "AND longitude>='b18603'AND longitude<='b191bb'"
 
 
@@ -125,13 +126,20 @@ def getvehicleid():
     avg = sum / len(points)
     print("AVG is "+str(avg))
     i = 0
-    num = 1
+    num = 3
     for point in points:
+        #print(point[1])
         if point[1] >= num:  # value = 24
             i += 1
             vehicleid.append(point[0])
     print("Number behind " + str(num) + " is "+str(i))
-    return vehicleid
+    select_id = []
+    ids = range(0, i)
+    random_list = random.sample(ids, 500)
+    for id in random_list:
+        select_id.append(vehicleid[id])
+    print(len(select_id))
+    return select_id
 
 
 def sqlinfo(id):
@@ -141,7 +149,7 @@ def sqlinfo(id):
 
 
 def getvehicleinfo():
-    baseid = 0
+    baseid = 1
     vehicleid = getvehicleid()
     for id in vehicleid:
         infos = sqlinfo(str(id))
