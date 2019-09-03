@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2019-09-02/bj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-09-02/bj9pm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-09-02/cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-09-03/bjam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-09-03/bjpm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vehicularDataProcess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vehicularDataProcess.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019-04-09/processBj.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019-04-09/processBj.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,195 +17,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-455704977">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="2" />
-          <entry key="py" value="12" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="md" value="40" />
-          <entry key="py" value="1719" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="40" />
-          <entry key="Python" value="1719" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1745240421">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="7" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="7" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="39" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="md" value="104" />
-          <entry key="py" value="10603" />
-          <entry key="tcl" value="6" />
-          <entry key="txt" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="104" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="10603" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="2" />
-          <entry key="py" value="73" />
-          <entry key="swp" value="1" />
-          <entry key="tcl" value="158" />
-          <entry key="txt" value="41" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="73" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processGPS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="97" column="72" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-04-09/processBj.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019-04-09/trace.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="147029" column="17" selection-start-line="147029" selection-start-column="17" selection-end-line="147029" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-01-24-all/speedfilter.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processChendu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2839">
-              <caret line="193" selection-start-line="193" selection-end-line="193" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-04-12/addNode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-04-12/gps-bj-am-3x3-test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="877">
-              <caret line="149996" column="17" selection-start-line="149996" selection-start-column="17" selection-end-line="149996" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-04-12/addFinialNode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1555036908568" expanded="true" signature="200:284" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-04-12/gps-bj-am-3x3.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -208,109 +38,12 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>writeinitnode</find>
-      <find>gettime</find>
-      <find>print</find>
-      <find>writeline</find>
-      <find>at 479</find>
-      <find>setdest 2972 462 0</find>
-      <find>at 540</find>
-      <find>setdest 793 2956 0</find>
-      <find>at 59</find>
-      <find>at 400</find>
-      <find>at 500</find>
-      <find>speedset</find>
-      <find>at 599</find>
-      <find>at 600</find>
-      <find>at 480</find>
-      <find>at 299</find>
-      <find>basetimestamp</find>
-      <find>writenodetrace</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/output.tcl" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/tool.py" />
-        <option value="$PROJECT_DIR$/output3.tcl" />
-        <option value="$PROJECT_DIR$/processData_5.py" />
-        <option value="$PROJECT_DIR$/2019-01-02/count.py" />
-        <option value="$PROJECT_DIR$/beijing3pm_1.txt" />
-        <option value="$PROJECT_DIR$/2019-01-24-all/filter.py" />
-        <option value="$PROJECT_DIR$/2019-01-24-all/speedfilter.py" />
-        <option value="$PROJECT_DIR$/2019-01-24-all/chengdu3amspeed.tcl" />
-        <option value="$PROJECT_DIR$/chengdu.py" />
-        <option value="$PROJECT_DIR$/2019-02-25/speedfilter.py" />
-        <option value="$PROJECT_DIR$/2019-02-25/chengdu.txt" />
-        <option value="$PROJECT_DIR$/processData.py" />
-        <option value="$PROJECT_DIR$/2019-01-28/beijing3am.tcl" />
-        <option value="$PROJECT_DIR$/2019-01-28/speedfilter.py" />
-        <option value="$PROJECT_DIR$/2019-02-27/cdfilter.py" />
-        <option value="$PROJECT_DIR$/2019-02-27/beijing3amfilterspeed500addnode.tcl" />
-        <option value="$PROJECT_DIR$/2019-02-27/addNode.py" />
-        <option value="$PROJECT_DIR$/2019-01-25/speedfilter.py" />
-        <option value="$PROJECT_DIR$/processChendu.py" />
-        <option value="$PROJECT_DIR$/2019-02-25/chengdu.py" />
-        <option value="$PROJECT_DIR$/2019-02-27/bjfilter.py" />
-        <option value="$PROJECT_DIR$/2019-04-01/replace.py" />
-        <option value="$PROJECT_DIR$/2019-04-01/beijing3pm.txt" />
-        <option value="$PROJECT_DIR$/2019-04-02/replace.py" />
-        <option value="$PROJECT_DIR$/processGPS.py" />
-        <option value="$PROJECT_DIR$/2019-04-12/processNode.py" />
-        <option value="$PROJECT_DIR$/2019-04-12/addNode.py" />
-        <option value="$PROJECT_DIR$/2019-04-12/addFinialNode.py" />
-        <option value="$PROJECT_DIR$/2019-04-12/gps-bj-am-3x3-test.txt" />
-        <option value="$PROJECT_DIR$/2019-04-09/processBj.py" />
-        <option value="$PROJECT_DIR$/2019-04-09/trace.txt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="53" />
-    <option name="width" value="1920" />
-    <option name="height" value="1027" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicularDataProcess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicularDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-04-09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicularDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-04-12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vehicularDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1QHKTybKrO0cE49RP7siCbfu4xk" />
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -342,8 +75,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.processBj">
-    <configuration name="addFinialNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bjpm">
+    <configuration name="bj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,11 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-04-12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-04-12/addFinialNode.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-02/bj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="addNode (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bj9pm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,11 +106,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-04-12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-04-12/addNode.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-02/bj9pm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bjam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vehicularDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-03/bjam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,7 +154,52 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-02-27/bjfilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bjpm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vehicularDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-03/bjpm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vehicularDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-02/cd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,28 +220,8 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-01-25/speedfilter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="processBj" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="vehicularDataProcess" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-04-09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-04-09/processBj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,49 +242,8 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-02-25/chengdu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="processNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="vehicularDataProcess" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-04-12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-04-12/processNode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="replace (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="vehicularDataProcess" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-04-02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-04-02/replace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -515,19 +256,19 @@
       <item itemvalue="Python.bjfilter" />
       <item itemvalue="Python.cd" />
       <item itemvalue="Python.processChendu" />
-      <item itemvalue="Python.replace (1)" />
-      <item itemvalue="Python.processBj" />
-      <item itemvalue="Python.processNode" />
-      <item itemvalue="Python.addNode (1)" />
-      <item itemvalue="Python.addFinialNode" />
+      <item itemvalue="Python.bj" />
+      <item itemvalue="Python.cd (1)" />
+      <item itemvalue="Python.bj9pm" />
+      <item itemvalue="Python.bjpm" />
+      <item itemvalue="Python.bjam" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.processBj" />
-        <item itemvalue="Python.addFinialNode" />
-        <item itemvalue="Python.addNode (1)" />
-        <item itemvalue="Python.processNode" />
-        <item itemvalue="Python.replace (1)" />
+        <item itemvalue="Python.bjpm" />
+        <item itemvalue="Python.bjam" />
+        <item itemvalue="Python.bj" />
+        <item itemvalue="Python.bj9pm" />
+        <item itemvalue="Python.cd (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -541,6 +282,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540545576079</updated>
+      <workItem from="1567422097895" duration="253000" />
+      <workItem from="1567422365564" duration="15232000" />
+      <workItem from="1567480454746" duration="12177000" />
     </task>
     <servers />
   </component>
@@ -553,350 +297,27 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="53" width="1920" height="1027" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.15271196" />
-      <window_info id="Structure" order="1" sideWeight="0.5005348" side_tool="true" weight="0.17535545" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815693" visible="true" weight="0.04385027" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.3946524" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.11987041" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5151188" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018431" side_tool="true" weight="0.8737968" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32937366" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946523" visible="true" weight="0.14023145" />
-      <window_info id="Structure" order="1" sideWeight="0.5005348" side_tool="true" weight="0.17535545" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815693" visible="true" weight="0.40604752" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.3946524" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.11987041" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5151188" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018431" side_tool="true" weight="0.8737968" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32937366" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed300.tcl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="116583" column="11" selection-start-line="116583" selection-start-column="5" selection-end-line="116583" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pmfilterspeed300.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58429">
-          <caret line="3437" column="11" selection-start-line="3437" selection-start-column="5" selection-end-line="3437" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1154487">
-          <caret line="67911" column="43" selection-start-line="67911" selection-start-column="25" selection-end-line="67911" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3am.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3216383">
-          <caret line="189199" column="11" selection-start-line="189199" selection-start-column="5" selection-end-line="189199" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3pm.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908522">
-          <caret line="112266" column="11" selection-start-line="112266" selection-start-column="5" selection-end-line="112266" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/beijing3amfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="62290" column="11" selection-start-line="62290" selection-start-column="5" selection-end-line="62290" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3amfilterspeed.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2621">
-          <caret line="65780" column="45" selection-start-line="65780" selection-start-column="45" selection-end-line="65780" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/chengdu3am.tcl">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/chengdu3amfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="74164" column="11" selection-start-line="74164" selection-start-column="5" selection-end-line="74164" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3amfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="114395" selection-start-line="114395" selection-end-line="114395" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3pmfilterspeed500addnode.tcl" />
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3amfilterspeed500addnode.tcl" />
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3am.tcl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-03-05/beijing3pmfilterspeed300node.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="9752" column="11" selection-start-line="9752" selection-start-column="5" selection-end-line="9752" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3am.tcl">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-28/speedfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="194" column="16" selection-start-line="177" selection-start-column="8" selection-end-line="195" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3amfilterspeed300node.tcl" />
-    <entry file="file://$PROJECT_DIR$/2019-03-05/beijing3amfilterspeed300node.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2191">
-          <caret line="97282" lean-forward="true" selection-start-line="97282" selection-end-line="97282" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/chengdu3amfilterspeed300.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14634" column="11" selection-start-line="14634" selection-start-column="5" selection-end-line="14634" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu180.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-772769" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-25/speedfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" column="39" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-24-all/filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469829">
-          <caret line="27637" column="15" selection-start-line="27637" selection-start-column="15" selection-end-line="27637" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-25/chengdu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="172" selection-start-line="172" selection-end-line="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3pmfilterspeed500.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26384">
-          <caret line="1172" column="42" selection-start-line="1172" selection-start-column="42" selection-end-line="1172" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/beijing3pm.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/addNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-03-26/beijing3pmfilterspeed300node.tcl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-01/beijing3pmfilterspeed300node.tcl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-01/beijing3pm.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19669">
-          <caret line="85218" column="17" selection-start-line="85218" selection-start-column="17" selection-end-line="85218" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/cdfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" column="47" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-02-27/bjfilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/beijing5pm.tcl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-12/trace_bj_pm.txt" />
-    <entry file="file://$PROJECT_DIR$/2019-04-12/processNode.py" />
-    <entry file="file://$PROJECT_DIR$/2019-04-02/gps-bj-pm-3x3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-01/replace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-02/gps-cd-am-3x3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-02/gps-bj-am-3x3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-02/replace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-12/addNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-12/addFinialNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1555036908568" expanded="true" signature="200:284" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-12/gps-bj-am-3x3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-12/gps-bj-am-3x3-test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="877">
-          <caret line="149996" column="17" selection-start-line="149996" selection-start-column="17" selection-end-line="149996" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/processChendu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2839">
-          <caret line="193" selection-start-line="193" selection-end-line="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-01-24-all/speedfilter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/processGPS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="97" column="72" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/processData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-09/processBj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019-04-09/trace.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="147029" column="17" selection-start-line="147029" selection-start-column="17" selection-end-line="147029" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$cd__1_.coverage" NAME="cd (1) Coverage Results" MODIFIED="1567424644010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-02" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$bj9pm.coverage" NAME="bj9pm Coverage Results" MODIFIED="1567431926511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-02" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$bjpm.coverage" NAME="bjpm Coverage Results" MODIFIED="1567497286421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$bj.coverage" NAME="bj Coverage Results" MODIFIED="1567475970734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-02" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$bjam.coverage" NAME="bjam Coverage Results" MODIFIED="1567495721659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
   </component>
 </project>
