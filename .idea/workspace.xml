@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2019-09-02/bj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-09-02/bj9pm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-09-02/cd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-09-03/bjam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-09-03/bjpm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vehicularDataProcess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vehicularDataProcess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-09-03/cd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bjpm">
+  <component name="RunManager" selected="Python.cd (2)">
     <configuration name="bj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cd (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vehicularDataProcess" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +188,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-09-03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-02/cd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-09-03/cd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,18 +251,18 @@
       <item itemvalue="Python.cd" />
       <item itemvalue="Python.processChendu" />
       <item itemvalue="Python.bj" />
-      <item itemvalue="Python.cd (1)" />
       <item itemvalue="Python.bj9pm" />
       <item itemvalue="Python.bjpm" />
       <item itemvalue="Python.bjam" />
+      <item itemvalue="Python.cd (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cd (2)" />
         <item itemvalue="Python.bjpm" />
         <item itemvalue="Python.bjam" />
         <item itemvalue="Python.bj" />
         <item itemvalue="Python.bj9pm" />
-        <item itemvalue="Python.cd (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +278,9 @@
       <updated>1540545576079</updated>
       <workItem from="1567422097895" duration="253000" />
       <workItem from="1567422365564" duration="15232000" />
-      <workItem from="1567480454746" duration="12177000" />
+      <workItem from="1567480454746" duration="12564000" />
+      <workItem from="1567594598022" duration="2427000" />
+      <workItem from="1567597779330" duration="156000" />
     </task>
     <servers />
   </component>
@@ -319,5 +315,6 @@
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bjpm.coverage" NAME="bjpm Coverage Results" MODIFIED="1567497286421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bj.coverage" NAME="bj Coverage Results" MODIFIED="1567475970734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-02" />
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bjam.coverage" NAME="bjam Coverage Results" MODIFIED="1567495721659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$cd__2_.coverage" NAME="cd (2) Coverage Results" MODIFIED="1567596709434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
   </component>
 </project>
