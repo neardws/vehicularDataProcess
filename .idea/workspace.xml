@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998a3532-965a-4ed5-ba24-ce3525668f86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2019-09-03/cd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-09-03/cd.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019-09-03/cd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-09-03/cd_am_gps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-09-03/cd_am_trace.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
   <component name="ProjectId" id="1QHKTybKrO0cE49RP7siCbfu4xk" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2019-09-06" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -280,7 +282,8 @@
       <workItem from="1567422365564" duration="15232000" />
       <workItem from="1567480454746" duration="12564000" />
       <workItem from="1567594598022" duration="2427000" />
-      <workItem from="1567597779330" duration="156000" />
+      <workItem from="1567597779330" duration="337000" />
+      <workItem from="1567680964391" duration="442000" />
     </task>
     <servers />
   </component>
@@ -315,6 +318,6 @@
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bjpm.coverage" NAME="bjpm Coverage Results" MODIFIED="1567497286421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bj.coverage" NAME="bj Coverage Results" MODIFIED="1567475970734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-02" />
     <SUITE FILE_PATH="coverage/vehicularDataProcess$bjam.coverage" NAME="bjam Coverage Results" MODIFIED="1567495721659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
-    <SUITE FILE_PATH="coverage/vehicularDataProcess$cd__2_.coverage" NAME="cd (2) Coverage Results" MODIFIED="1567596709434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
+    <SUITE FILE_PATH="coverage/vehicularDataProcess$cd__2_.coverage" NAME="cd (2) Coverage Results" MODIFIED="1567681047260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019-09-03" />
   </component>
 </project>
