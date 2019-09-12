@@ -76,8 +76,8 @@ def write_gps(latitude, longitude):
 # 	AND longitude >= 104.045824
 # 	AND longitude <= 104.075824
 
-tablecondition = "WHERE `timeStamp`>='2014-08-20 09:00:00' " \
-                 "AND `timeStamp`<='2014-08-20 09:05:00' " \
+tablecondition = "WHERE `timeStamp`>='2014-08-20 08:59:00' " \
+                 "AND `timeStamp`<='2014-08-20 09:06:00' " \
           "AND latitude>=30.657221 AND latitude<=30.672221" \
           "AND longitude>=104.065590 AND longitude<=104.080590"
 
@@ -122,7 +122,7 @@ def get_vehicle_id():
 
 def sqlinfo(id):
     sql_query_vehicle_info = "SELECT latitude, longitude, " \
-                             "TIMESTAMPDIFF(SECOND, '2014-08-20 09:00:00', timeStamp) FROM tem_table " \
+                             "TIMESTAMPDIFF(SECOND, '2014-08-20 08:59:00', timeStamp) FROM tem_table " \
                              + "WHERE VehicleID = " + str(id) + " ORDER BY timeStamp ASC"
     cursor.execute(sql_query_vehicle_info)
     return cursor.fetchall()
@@ -164,14 +164,17 @@ def get_vehicle_info():
             y = get_y(info[0])
             time = int(get_time(info[2])) + 1
             if info_number == 1:
-                if time <= 30:
+                if time <= 60:
                     begin_vehicle_number += 1
                     for j in range(time):
-                        writenodetrace(base_id, x, y, j + 1)
+                        # writenodetrace(base_id, x, y, j + 1)
                         vehicle_number[j] += 1
-                    write_gps(latitude=info[0], longitude=info[1])
+                    # write_gps(latitude=info[0], longitude=info[1])
                 else:
-                    writenodetrace(base_id, x, y, time)
+                    if (time - 60) >= 1:
+                        writenodetrace(base_id, x, y, time-60)
+                    if time >= 90:
+                        write_gps(latitude=info[0], longitude=info[1])
                 last_time = time
                 last_x = x
                 last_y = y
@@ -185,9 +188,10 @@ def get_vehicle_info():
                         new_x = int(last_x + (add_x * n))
                         new_y = int(last_y + (add_y * n))
                         new_time = int(last_time + n)
-                        if new_time <= 300:
-                            writenodetrace(base_id, new_x, new_y, new_time)
-                            vehicle_number[new_time] += 1
+                        if new_time <= 360:
+                            if (new_time - 60) >= 1:
+                                writenodetrace(base_id, new_x, new_y, new_time-60)
+                            # vehicle_number[new_time] += 1
                         n += 1
                     last_time = time
                     last_x = x
@@ -197,13 +201,13 @@ def get_vehicle_info():
         x = get_x(last_info[1])
         y = get_y(last_info[0])
         time = int(get_time(last_info[2])) + 1
-        if time >= 270:
-            if time < 300:
+        if time >= 360:
+            if time < 420:
                 end_vehicle_number += 1
                 for end_time in range(time + 1, 301):
                     print("%" * 32)
                     print(end_time)
-                    writenodetrace(base_id, x, y, end_time)
+                    # writenodetrace(base_id, x, y, end_time)
                     vehicle_number[end_time] += 1
         print("vehicleID" + str(base_id) + "complete")
         base_id += 1
